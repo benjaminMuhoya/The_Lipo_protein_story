@@ -1,0 +1,318 @@
+Population,Ancestry,Location,Biome,Country,Lattitude,Longitude,Region,Sedentary,AcculturationLevel,Mean_Difference,CI_Lower,CI_Upper,Standardized_Mean_Difference,Effect_Size_Interpretation
+Abuja,West_African,Abuja,Temperate Shrubland,Northern Nigeria,9.0765,7.3986,Africa,,Integrated,-9.369999999999997,-0.8537636391368133,-0.4070463881001864,-0.6304050136184999,large
+Alaskan Native,Circumpolar,western Alaska,Arctic Tundra,Alaska,63.433318,-166.552734,North America,Yes,Integrated,-0.6700000000000017,-0.07699986517892528,-0.000852452822398638,-0.03892615900066196,small
+Alaskan Native,Circumpolar,western Alaska,Arctic Tundra,Alaska,63.8428,-164.268,North America,Yes,Integrated,-2.769999999999996,-0.20650107977282706,-0.11701806668395931,-0.16175957322839318,small
+"American Indians (""""normal"""")",Unknown,Menominee reservation,Temperate Rainforest,United States,48.19663,-95.01431,North America,Yes,Integrated,-10.969999999999999,-0.8172432607526783,-0.6982936092298592,-0.7577684349912687,large
+American Indians (with Macroalbuminuria),American_Indian,Menominee reservation,Temperate forest,United States,48.19663,-95.01431,North America,Yes,Integrated,-10.969999999999999,-1.0032834285098253,-0.3984254112706653,-0.7008544198902453,large
+American Indians (with Microalbuminuria),American_Indian,Menominee reservation,Temperate forest,United States,48.19663,-95.01431,North America,Yes,Integrated,-12.969999999999999,-1.0122512892271458,-0.7592210268508138,-0.8857361580389799,large
+Arizona American Indians,American_Indian,"Gila River, Salt River, Ak-Chin Indian communities",Warm-temperate desert,United States of America,33.2,-112,North America,,Semi-acculturated,-15.57,-1.2457155874956571,-1.1188032335681128,-1.1822594105318849,large
+Arizona American Indians,American_Indian,"Gila River, Salt River, Ak-Chin Indian communities",Warm-temperate desert,United States of America,33.2,-112,North America,,Semi-acculturated,-17.269999999999996,-1.2522851722547277,-1.0845277418292452,-1.1684064570419863,large
+Asian,other,,,,,,North America,,Overall,-6.832000000000001,-0.4752232446275088,-0.4117670676637366,-0.44349515614562274,medium
+Atacameños,SA_Indegenous,the high-altitude Atacama Desert oases and ravines of the Loa River between latitudes ∼22°S and 24°S,temperate rainfoest,Chile,", -22.685656",", -69.271322",South America,,,-16.67,-1.3015747458883227,-0.9095819489803117,-1.1055783474343173,large
+Australia,other,,,,,,Australia,,Overall,-4.511800000000001,-0.5358257070154149,-0.4260026893988346,-0.4809141982071247,medium
+Australia Aboriginals_Female,Australian_Aboriginal,,,,,,Distinct,,Rural,-27.7138,-2.289433477285152,-2.0759013944638682,-2.18266743587451,large
+Australia Aboriginals_Male,Australian_Aboriginal,,,,,,Distinct,,Rural,-30.4207,-2.4539288766477165,-2.221323945890449,-2.337626411269083,large
+Australia ANHF study,other,,,,,,Australia,,Overall,-10.698999999999998,-0.7137739071711992,-0.6722786647751918,-0.6930262859731955,large
+Australia TSI Women_Female,Australian_Aboriginal,,,,,,Distinct,,Rural,-22.299999999999997,-1.7593020511742892,-1.43264138708428,-1.5959717191292846,large
+Australia TSI Women_Male,Australian_Aboriginal,,,,,,Distinct,,Rural,-22.299999999999997,-1.7570656573691992,-1.4471681412169186,-1.602116899293059,large
+Australian Aborigines,Australian_Aboriginal,Minjilang; Croker Island,Savanna,Australia,-11.14879,132.58001,Australia,Yes,Semi-acculturated,150.1682,8.596426610845281,9.150788140585151,8.873607375715217,large
+Australian Aborigines,Australian_Aboriginal,Yilli Rreung Aboriginal and Torres Strait Islander Commission Region,Savanna,Australia,-12.44,130.84,Australia,,Semi-acculturated,-15.339399999999998,-1.161985540482071,-0.9445470591183207,-1.0532662998001958,large
+Australian Aborigines,Australian_Aboriginal,Yilli Rreung Aboriginal and Torres Strait Islander Commission Region,Savanna,Australia,-12.44,130.84,Australia,,Semi-acculturated,-18.046300000000002,-1.402582205818008,-1.0587817797792456,-1.2306819927986268,large
+Australian Aborigines,Australian_Aboriginal,Yilli Rreung Aboriginal and Torres Strait Islander Commission Region,Savanna,Australia,-12.44,130.84,Australia,,Semi-acculturated,-14.9527,-1.1478924899600706,-0.9066376008372415,-1.027265045398656,large
+Australian Aborigines,Australian_Aboriginal,Yilli Rreung Aboriginal and Torres Strait Islander Commission Region,Savanna,Australia,-12.44,130.84,Australia,,Semi-acculturated,-21.9133,-1.6671064569010332,-1.3381534091492504,-1.5026299330251418,large
+Bangladeshi,Bangladeshi,Mymensing District,Tropical Rainforest,Bangladesh,24.63,90.27,Asia,,Unacculturated,-21.5,-1.5560123778531703,-1.435612747365833,-1.4958125626095018,large
+Bangladeshi,Bangladeshi,Mymensing District,Tropical Rainforest,Bangladesh,24.63,90.27,Asia,,Unacculturated,-19.83,-1.4244318163017802,-1.2489517402825565,-1.3366917782921683,large
+Banta,Unknown,Madilu,Savanna,Tanzania,-6.369,34.8888,Africa,Nomadic,Unacculturated,-23.0734,-1.78571984477404,-1.6313728317209422,-1.7085463382474912,large
+Bantu,Bantu,Camaroon,Tropical Rainforest,Camaroon,7.3697219,12.354722,Africa,Yes,Integrated,-36.97,-2.894610026398828,-2.0588785753285554,-2.476744300863692,large
+Bantu,Bantu,eastern shore of Lake Nyasa,Savanna,Tanzania,-6.369,34.8888,Africa,Nomadic,Unacculturated,-28.100499999999997,-2.0892001907512747,-1.9315175628648178,-2.0103588768080463,large
+Bantu,Bantu,"Ilala District, Handeni Dristrict ",Tropical Rainforest,Tanzania,-6.82745,39.25898,Africa,Yes,Semi-acculturated,-25.780299999999997,-1.8919476082061037,-1.6884350882578758,-1.7901913482319898,large
+Bantu,Bantu,Dar-Es-Salaam,Tropical Rainforest,Tanzania,-6.81492,39.28841,Africa,Yes,Integrated,-19.206400000000002,-1.4355928335923815,-1.2574142895432858,-1.3465035615678336,large
+Black,AFRICAN,,,,,,North America,,Overall,-6.832000000000001,-0.4658254060035663,-0.4196286118585771,-0.4427270089310717,medium
+Brazil_NHS,other,,,,,,South America,,Overall,-14.469999999999999,-3.2481639013540775,-3.205731093825393,-3.226947497589735,large
+Brazil_NHS_Female,other,,,,,,South America,,Overall,-11.369999999999997,-2.026030504495986,-1.9704998690632936,-1.99826518677964,large
+Brazil_NHS_Male,other,,,,,,South America,,Overall,-17.97,-2.777192674584276,-2.711411329359749,-2.744302001972012,large
+Brazilian,Unknown,"São Francisco Valley, Northeast Brazil",Tropical rainforest,Northeast Brazil,-10.0626,-42.551,South America,,Semi-acculturated,-25.369999999999997,-2.2756713101826813,-1.093768557577356,-1.6847199338800185,large
+Brazilian,Unknown,"São Francisco Valley, Northeast Brazil",Tropical rainforest,Northeast Brazil,-10.0626,-42.551,South America,,Semi-acculturated,-10.170000000000002,-0.9742703735696597,-0.38331899726699686,-0.6787946854183283,large
+Canada: Chinese,other,,,,,,North America,,Overall,-14.949999999999996,-1.1631984500817691,-0.9430333608710105,-1.05311590547639,large
+Canada: Europeans,other,,,,,,North America,,Overall,-14.949999999999996,-1.1630720902457368,-0.9459673596257049,-1.0545197249357208,large
+Canada: South Asians,other,,,,,,North America,,Overall,-20.75,-1.5730203438070636,-1.3610549151822637,-1.4670376294946637,large
+Chile,other,,,,,,South America,,Urban,-14.969999999999999,-1.1659074882422105,-1.024643089905715,-1.0952752890739628,large
+Chile,other,,,,,,South America,,Urban,-7.969999999999999,-0.6341301244472769,-0.4999929507720985,-0.5670615376096878,large
+Chile,other,,,,,,South America,,Urban,-10.969999999999999,-0.8477133857080063,-0.7504420063961206,-0.7990776960520635,large
+China Guangzhou Occupational,Chinese,,,,,,Asia Pacific region,,Overall,-10.698999999999998,-0.582806172125663,-0.5417277017367299,-0.5622669369311964,large
+China Overall,Chinese,,,,,,Asia Pacific region,,Overall,-8.765499999999996,-0.5860580615186619,-0.5763678775040244,-0.5812129695113432,large
+China_Men,Chinese,,,,,,Asia Pacific region,,Overall,-11.085699999999996,-0.7424755468538882,-0.7276290388966267,-0.7350522928752574,large
+China_Women,Chinese,,,,,,Asia Pacific region,,Overall,-6.445299999999996,-0.45665051313884847,-0.44386028658197924,-0.45025539986041385,medium
+Chinese,Chinese,Hong Kong,subtripical rainforest,China,22.3193,114.1694,Asia,,Integrated,-10.698999999999998,-0.8814569573851255,-0.7857920316684641,-0.8336244945267949,large
+Chinese,Chinese,Haidian (beijing),,China,39.9042,116.4074,Asia,,,-6.832000000000001,-0.4341068748528178,-0.3290040178243115,-0.38155544633856464,medium
+Chinese,Chinese,Haidian (beijing),,China,39.9042,116.4074,Asia,,,-10.698999999999998,-0.8669689820286677,-0.7393185643090865,-0.8031437731688771,large
+Chinese,Chinese,Guangzhou,Tropical desert,China,23.1291,113.2644,Asia,,Integrated,-14.769999999999996,-1.2245044845316988,-0.9044437061080114,-1.064474095319855,large
+Chinese,Chinese,Guangzhou,Tropical desert,China,23.1291,113.2644,Asia,,Integrated,-16.769999999999996,-1.3693375562255024,-1.049276777801815,-1.2093071670136586,large
+Chinese,Chinese,Guiyang,Tropical desert,China,26.6476,106.6302,Asia,,Integrated,-15.07,-1.2572695742139264,-0.8485888324045874,-1.052929203309257,large
+Chinese,Chinese,Guiyang,Tropical desert,China,26.6476,106.6302,Asia,,Integrated,-16.369999999999997,-1.3457022641735477,-0.9497297429307825,-1.147716003552165,large
+Chinese,Chinese,"Taibai, Taiwan",Subtropical forest,Taiwan,23.6978,120.9605,Asia,,Integrated,-25.17,-1.9618796857095528,-1.5659071644667875,-1.7638934250881702,large
+Chinese,Chinese,"Taibai, Taiwan",Subtropical forest,Taiwan,23.6978,120.9605,Asia,,Integrated,-27.97,-2.158674772573647,-1.7666819756656362,-1.9626783741196416,large
+Chinese,Chinese,"Guangzhou, Guangdong Province",urban,China,23.18722,113.30334,Asia,,Integrated,-4.8984999999999985,-0.3165272978791229,-0.24218162632592102,-0.27935446210252196,medium
+Chinese,Chinese,"Guangzhou, Guangdong Province",urban,China,23.18722,113.30334,Asia,,Integrated,-14.179299999999998,-1.0116512145177636,-0.8965581663935114,-0.9541046904556375,large
+Colombia,other,,,,,,South America,,Overall,-19.07,-1.5985809206696784,-1.5504319688903334,-1.574506444780006,large
+England ELSA (Above 50yrs),EUROPEAN,,,,,,Europe,,Elderly [Above 50 Yrs] England,-1.8048999999999964,-0.32912469505827585,-0.2687609347178847,-0.2989428148880803,medium
+Eskimos,Unknown,Norton Sound Region,Arctic-Alpine desert,United States of America,64.2008,-165.4937,North america,Yes,Unacculturated,-3.8699999999999974,-0.3792448437638746,-0.11128408430252137,-0.24526446403319796,medium
+Eskimos,Unknown,Norton Sound Region,Arctic-Alpine desert,United States of America,64.2008,-165.4937,North america,Yes,Unacculturated,7.6299999999999955,0.3553830814907279,0.5875795748288359,0.4714813281597819,medium
+Finnish NFBC study,Uralic_Ancestry,,,,,,Europe,,Overall,-2.969999999999999,-0.22034494692614967,-0.16635267796366732,-0.19334881244490848,small
+Framingham study,Framingham,,,,,,North America,,Overall,-6.832000000000001,-0.4498095940189079,-0.4338346197755596,-0.4418221068972338,medium
+Fulani,West_African,Jos Plateau,Temperate Shrubland,Nigeria,9.081999,8.675277,Africa,Nomadic,Unacculturated,-19.5931,-1.549274605777779,-1.108248252726424,-1.3287614292521015,large
+Fulani,West_African,Jos Plateau,Temperate Shrubland,Nigeria,9.081999,8.675277,Africa,Nomadic,Unacculturated,-26.940399999999997,-2.109729095465213,-1.5048710782260528,-1.8073000868456328,large
+Fulani,West_African,Fulani,Temperate Shrubland,Northern Nigeria,9.081999,8.675277,Africa,Nomadic,Unacculturated,-27.07,-2.1200553834723617,-1.5078654862087575,-1.8139604348405596,large
+Fulani,West_African,"Kano, Nigeria",Savanna,Nigeria,12.0022,8.592,West Africa,Nomadic,Unacculturated,-8.765499999999996,-0.7804361236996331,-0.425542520586031,-0.6029893221428321,large
+Fulani,West_African,"Kano, Nigeria",Savanna,Nigeria,12.0022,8.592,West Africa,Nomadic,Unacculturated,-7.218699999999998,-0.6927403546183322,-0.2840596128089933,-0.4883999837136628,medium
+Ghana_Rural_Female,West_African,,,,,,Africa,,Rural,-14.469999999999999,-1.0182160322367186,-0.8558692036063432,-0.937042617921531,large
+Ghana_Rural_Male,West_African,,,,,,Africa,,Rural,-16.47,-1.1919174323723836,-1.0109119766076995,-1.1014147044900415,large
+Ghana_Urban_Females,West_African,,,,,,Africa,,Urban,-11.769999999999996,-0.8501503546108296,-0.7411372208711434,-0.7956437877409864,large
+Ghana_Urban_Males,West_African,,,,,,Africa,,Urban,-17.47,-1.2982858077730666,-1.172554059542381,-1.2354199336577236,large
+Ghanaians,Unknown,Ashanti,tropical,Ghana,6.74,-1.52,West Africa,,Integrated,-6.832000000000001,-1.0741156937862881,0.16547437082283503,-0.4543206614817265,medium
+Ghanaians,Unknown,Ashanti,tropical,Ghana,6.74,-1.52,West Africa,,Integrated,-6.832000000000001,-0.6107366539538148,-0.29067587553012747,-0.4507062647419711,medium
+Greenland Inuit,Circumpolar,Greenland,tundra,Greenland,64.972601,-46.408836,North America,,Unacculturated,-2.9649999999999963,-0.24975735591956863,-0.09635872058909907,-0.17305803825433386,small
+Greenland Inuit,Circumpolar,Greenland,tundra,Greenland,64.972601,-46.408836,North America,,Unacculturated,0.902000000000001,-0.01761553508680581,0.13578310024366375,0.05908378257842897,small
+Greenland Inuit,Circumpolar,Nuuk,Tundra,Greenland,64.18,-51.69,North America,,Semi-acculturated,-2.5782999999999987,-0.43728843764637,0.09127454187755492,-0.17300694788440754,small
+Greenland Inuit,Circumpolar,Nuuk,Tundra,Greenland,64.18,-51.69,North America,,Semi-acculturated,-7.992100000000001,-0.8211718997541718,-0.24939163987194288,-0.5352817698130574,large
+Greenland Inuit,Circumpolar,Qaanaaq and Siorapaluk,Tundra,Greenland,77.47,-69.23,North America,,Semi-acculturated,-6.445299999999996,-0.7336035115672664,-0.12874549432810642,-0.4311745029476865,medium
+Greenland Inuit,Circumpolar,Qaanaaq and Siorapaluk,Tundra,Greenland,77.47,-69.23,North America,,Semi-acculturated,-7.218699999999998,-0.7787524835146133,-0.18096907242310625,-0.47986077796885984,medium
+Greenland Inuit,Circumpolar,West Greenland,tundra,Greenland,77.010327,-54.768239,North America,,,3.6089000000000055,0.14073119668299233,0.2228610839699397,0.18179614032646602,small
+Guarani,SA_Indegenous,Espirito Santo State,tropical rainforest,Brazil,-19.753768,-40.490962,South America,,Semi-acculturated,-19.97,-1.6018391292598229,-1.0957786045071585,-1.3488088668834906,large
+Guatemalan,Guatemalan,"Santo Domingo los Ocotes, San Miguel de Conacaste, San Juan de Flores, Espiritu Santo (40-110 km from Guatemala City)",Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,,,-21.139899999999997,-1.6466205154602604,-1.350301813646762,-1.498461164553511,large
+Guatemalan,Guatemalan,"Santo Domingo los Ocotes, San Miguel de Conacaste, San Juan de Flores, Espiritu Santo (40-110 km from Guatemala City)",Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,,,-23.0734,-1.7941960717613032,-1.4079540921383307,-1.601075081949817,large
+Guatemalan,Guatemalan,Guatemala City,Tropical Rainforest,Guatemala,14.6349,-90.5069,Central America,Yes,,-14.9527,-1.2891979499991721,-0.6914145389076652,-0.9903062444534187,large
+Guatemalan,Guatemalan,Guatemala City,Tropical Rainforest,Guatemala,14.6349,-90.5069,Central America,Yes,,-23.8468,-1.850284368775845,-1.4006377929027183,-1.6254610808392815,large
+Guatemalan,Guatemalan,"Santo Domingo los Ocotes, San Miguel de Conacaste, San Juan de Flores, Espiritu Santo (40-110 km from Guatemala City); Guatemala City",Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,,,-19.979799999999997,-1.794227563351256,-0.870291680451471,-1.3322596219013634,large
+Guatemalan,Guatemalan,"Santo Domingo los Ocotes, San Miguel de Conacaste, San Juan de Flores, Espiritu Santo (40-110 km from Guatemala City); Guatemala City",Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,,,-23.8468,-1.8822731259851049,-1.3675613672981393,-1.6249172466416222,large
+Hispanic,other,,,,,,North America,,Overall,-17.07,-1.289881293669789,-1.1867609947784263,-1.2383211442241078,large
+Hispanic,other,,,,,,North America,,Overall,-14.565999999999995,-1.1992193061354295,-1.1193205457170057,-1.1592699259262176,large
+Hispanic Health Study,other,,,,,,North America,,Overall,-12.240000000000002,-0.9382412290439014,-0.9034985035564689,-0.9208698663001852,large
+India Overall,Indian,,,,,,Asia Pacific region,,Overall,-21.97,-1.740238648454595,-1.6534924966693558,-1.6968655725619755,large
+India Rural,Indian,,,,,,Asia Pacific region,,Rural,-21.97,-1.7177775150062156,-1.6149060846356544,-1.666341799820935,large
+Indian,Indian,Delhi,Tropical Rainforest,India,28.61,77.21,Asia,,Integrated,-2.969999999999999,-0.38524260190796156,-0.011492134802427976,-0.19836736835519475,small
+Indian,Indian,Delhi,Tropical Rainforest,India,28.61,77.21,Asia,,Integrated,-5.969999999999999,-0.5834109707794664,-0.22705388268127477,-0.4052324267303706,medium
+Indian,Indian,Delhi,Tropical Rainforest,India,28.61,77.21,Asia,,Integrated,-6.969999999999999,-0.6391017409863503,-0.3017280578179076,-0.470414899402129,medium
+Indian,Indian,Delhi,Tropical Rainforest,India,28.61,77.21,Asia,,Integrated,-7.969999999999999,-0.6949437670669588,-0.39691716233866314,-0.545930464702811,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-9.969999999999999,-0.920962441733283,-0.4270979387107852,-0.6740301902220341,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-9.969999999999999,-0.8866438874588197,-0.48016629238293845,-0.683405089920879,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-11.969999999999999,-1.2717536626662564,-0.32103148258800895,-0.7963925726271326,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-8.969999999999999,-0.889221106404007,-0.31744084652177795,-0.6033309764628925,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-6.969999999999999,-0.733393272072346,-0.2095708634605474,-0.4714820677664467,medium
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-8.969999999999999,-0.9500600185240309,-0.2460201717141956,-0.5980400951191132,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-10.969999999999999,-1.1091183168057916,-0.35472782742167724,-0.7319230721137345,large
+Indian,Indian,50km from Delhi in rural area,Tropical Rainforest,India,28.61,77.21,Asia,,,-10.969999999999999,-1.1224175054725622,-0.3384319116565407,-0.7304247085645514,large
+Indian Urban,Indian,,,,,,Asia Pacific region,,Urban,-21.97,-1.6647533330931905,-1.5033724525190795,-1.5840628928061349,large
+Inuit,Circumpolar,Canada,tundra,Canada,56.69043,-93.208866,North America,,Semi-acculturated,-5.285199999999996,-0.4751002358608069,-0.221009045299407,-0.34805464058010693,medium
+Inuit of Nunavik,Circumpolar,Nortthern Quebec; Nunavik,Arctic-Alpine desert,Canada,56.130366,-70,North America,Yes,Unacculturated,-5.671900000000001,-0.5536663272939653,-0.3067340757827164,-0.4302002015383408,medium
+Inuit of Nunavik,Circumpolar,Nortthern Quebec; Nunavik,Arctic-Alpine desert,Canada,56.130366,-70,North America,Yes,Unacculturated,3.222200000000001,0.07475536274893702,0.39063216022994923,0.2326937614894431,medium
+Inuits CANHR Female,Circumpolar,,,,,,Distinct,,Overall,4.1299999999999955,0.15472041165175776,0.3550193741242646,0.25486989288801115,medium
+Inuits CANHR Males,Circumpolar,,,,,,Distinct,,Overall,-2.8699999999999974,-0.29332453519185514,-0.07655202317596929,-0.1849382791839122,small
+Inuits CANHR Overall,Circumpolar,,,,,,Distinct,,Overall,0.9299999999999997,-0.016934462731617084,0.130177812504127,0.05662167488625496,small
+Inuits WATCH study_Females,Circumpolar,,,,,,ALASKA general,,Overall,2.9299999999999997,0.1266479354912529,0.21138456783589185,0.16901625166357237,small
+Inuits WATCH study_Males,Circumpolar,,,,,,ALASKA general,,Overall,-5.469999999999999,-0.3811143896738206,-0.2898545079791519,-0.33548444882648626,medium
+"Inupiat, Inuit",Unknown,Norton Sound Region,Arctic-Alpine desert,United States,63.8492,-164.2688,North America,Yes,Semi-acculturated,-3.8699999999999974,-0.3792448437638746,-0.11128408430252137,-0.24526446403319796,medium
+"Inupiat, Inuit",Unknown,Norton Sound Region,Arctic-Alpine desert,United States,63.8492,-164.2688,North America,Yes,Semi-acculturated,7.6299999999999955,0.3553830814907279,0.5875795748288359,0.4714813281597819,medium
+Japan Amagasaki Study,Japanese,,,,,,Asia Pacific region,,Overall,-5.670000000000002,-0.4629696684252799,-0.3487593239431041,-0.405864496184192,medium
+Japan Civil Service workers,Japanese,,,,,,Asia Pacific region,,Overall,-6.832000000000001,-0.46330703370813897,-0.4217792040297464,-0.44254311886894265,medium
+Japan Men,Japanese,,,,,,Asia Pacific region,,Overall,-12.269999999999996,-0.9265614156247969,-0.8563609437710757,-0.8914611796979364,large
+Japan Women,Japanese,,,,,,Asia Pacific region,,Overall,-8.469999999999999,-0.6890254760927403,-0.632860054663585,-0.6609427653781627,large
+Japanese,Japanese,Okinawa,temperate rainforest,Japan,36.2048,138.2529,Asia,,,-5.07,-0.5309125361756105,-0.1621567318681915,-0.346534634021901,medium
+Japanese,Japanese,Okinawa,temperate rainforest,Japan,36.2048,138.2529,Asia,,,-4.769999999999996,-0.5504589083436079,-0.08524904682907247,-0.3178539775863402,medium
+jos,West_African,jos,Temperate Shrubland,Northern Nigeria,9.8965,8.8683,Africa,,Integrated,-10.57,-0.8901266069165468,-0.5292679876840596,-0.7096972973003032,large
+Kalapalo,Amerindian,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-20.97,-1.6925230978913426,-1.1540795814202598,-1.4233013396558012,large
+Kalapalo,Amerindian,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-14.969999999999999,-1.307688865996741,-0.702830848757581,-1.005259857377161,large
+Kazak,Central_Asian,Xinjiang Province,,China,40.109102,85.671277,Asia,,Semi-acculturated,-6.832000000000001,-0.4445394186555062,-0.3275657237079445,-0.38605257118172537,medium
+Kenya Nairobi,East_African,,,,,,Africa,,Urban,-12.245799999999996,-0.7494647606069372,-0.6618781718755575,-0.7056714662412474,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,Yes,Unacculturated,-19.5931,-1.5568545909148548,-1.1796593462227976,-1.3682569685688262,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-6.832000000000001,-1.0432638104464886,0.1386389421588369,-0.4523124341438259,medium
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-22.299999999999997,-1.8095908610464633,-1.1974009637828593,-1.5034959124146614,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-22.299999999999997,-1.8230968072637472,-1.1786646188370318,-1.5008807130503894,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-14.565999999999995,-1.4307475254216153,-0.50681164252183,-0.9687795839717226,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-14.565999999999995,-1.4612506841415174,-0.48126869187149035,-0.9712596880065039,large
+Kitavans,Austronesian,Trobriand islands,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,,Unacculturated,-14.565999999999995,-1.281802296807775,-0.6840188857162678,-0.9829105912620213,large
+Korean,East_Asian,Ansung cohort,temperate deciduous forest,Korea,35.9078,127.7669,Asia,,,-10.769999999999996,-0.8911525427409681,-0.8168602996327217,-0.8540064211868449,large
+Korean,East_Asian,Ansung cohort,temperate deciduous forest,Korea,35.9078,127.7669,Asia,,,-11.769999999999996,-0.9215425133094355,-0.8387189182770012,-0.8801307157932183,large
+Korean,East_Asian,Ansan,temperate deciduous forest,Korea,35.9078,127.7669,Asia,,Integrated,-8.969999999999999,-0.7466727786126472,-0.6682271377178142,-0.7074499581652307,large
+Korean,East_Asian,Ansan,temperate deciduous forest,Korea,35.9078,127.7669,Asia,,Integrated,-14.369999999999997,-1.2667557500928903,-1.1887153546393612,-1.2277355523661257,large
+Koya,Indian,San Antonio de los Cobres,Temperate Grassland,Argentina,-24.23,-66.32,South America,,Unacculturated,-22.43,-1.7257128979830905,-1.402402688247041,-1.5640577931150659,large
+Koya,Indian,San Antonio de los Cobres,Temperate Grassland,Argentina,-24.23,-66.32,South America,,Unacculturated,-20.83,-1.6143499014110905,-1.3245804878757128,-1.4694651946434016,large
+Kuikuro,Amerindian,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-16.97,-1.3732832656303517,-0.8754519157255791,-1.1243675906779653,large
+Kuikuro,Amerindian,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-19.97,-1.608972497229112,-1.0755378665229665,-1.342255181876039,large
+Lebanese,Unknown,Lebanon,Woodland,Lebanon,33.8547,35.8623,Middle East,,Integrated,-9.299999999999997,-0.8326872247412593,-0.6000822939839917,-0.7163847593626256,large
+Lebanese,Unknown,Lebanon,Woodland,Lebanon,33.8547,35.8623,Middle East,,Integrated,-20.83,-1.6863860299106046,-1.4190491613061422,-1.5527175956083734,large
+Maasai,Nilote,Southern Kenya,Warm-temperate desert,Kenya,-2.2,37.6,Africa,,Integrated,-20.366500000000002,-1.6250128386409368,-1.1058056953998503,-1.3654092670203937,large
+Masai,Nilote,,,,,,,,,-19.206400000000002,-1.4739154828672552,-1.1301150568284928,-1.302015269847874,large
+Matipu,SA_Indegenous,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-21.97,-2.3345507322182715,-0.5815056510651088,-1.4580281916416902,large
+Matipu,SA_Indegenous,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-20.97,-2.0864525251623944,-0.7005487008127166,-1.3935006129875553,large
+Mexican,Mexican_indegenous_communities,Mexico,,Mexico,23,-102,North America,,Semi-acculturated,-23.07,-1.7276094966181197,-1.58787915510641,-1.6577443258622648,large
+Mexican,Mexican_indegenous_communities,Mexico,,Mexico,23,-102,North America,,Semi-acculturated,-20.869999999999997,-1.5792762226482249,-1.4871127557324864,-1.5331944891903555,large
+Mexico 2016,other,,,,,,South America,,Overall,-17.07,-1.3047995766309146,-1.1428688447854713,-1.223834210708193,large
+Nahukwa,SA_Indegenous,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-27.97,-2.409219109494467,-1.322026702675717,-1.865622906085092,large
+Nahukwa,SA_Indegenous,Upper Xingu,Savanna,Brazil,-27.74835,-53.06846,South America,Yes,Integrated,-14.969999999999999,-1.5196988553098618,-0.47205403808626456,-0.9958764466980632,large
+Nangapandans (Helminth infected),Austronesian,Flores Island,Tropical Rainforest,Indonesia,-7,121,Asia,Yes,Semi-acculturated,-2.9649999999999963,-0.2874545223519357,-0.10184055338117809,-0.1946475378665569,small
+Nangapandans (not infected),Austronesian,Flores Island,Tropical Rainforest,Indonesia,-7,121,Asia,Yes,Semi-acculturated,0.902000000000001,-0.070107436850816,0.18892869459041195,0.05941062886979798,small
+NHANES III,NHANES,,,,,,North America,,Overall,-10.07,-0.6857097462986496,-0.6480650881384364,-0.666887417218543,large
+Nigeria Urban,West_African,,,,,,Africa,,Urban,-2.9649999999999963,-0.3117537920829098,-0.03797414699890361,-0.17486396954090672,small
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,1.4299999999999997,-0.29525134177338874,0.4735097815426731,0.08912921988464219,small
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,16.629999999999995,0.6608522326252055,1.4296133559412674,1.0452327942832365,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,24.230000000000004,1.220896139034749,1.9896572623508106,1.60527670069278,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,30.230000000000004,1.595083721127792,2.363844844443854,1.9794642827858229,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,10.329999999999998,0.24551016482570476,1.0628716484443825,0.6541909066350436,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,23.930000000000007,1.1144802392522046,1.9318417228708828,1.5231609810615436,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,30.230000000000004,1.5327295261938843,2.3500910098125622,1.9414102680032232,large
+Nigerian,West_African,Umuahia,Swamp forest,Nigeria,4.98,8.34,Africa,,,35.629999999999995,1.8977315438137872,2.715093027432465,2.306412285623126,large
+Non Hispanic Black,other,,,,,,North America,,Overall,-8.670000000000002,-0.6269463325427438,-0.4767343663866795,-0.5518403494647117,large
+Non Hispanic White,other,,,,,,North America,,Urban,-11.670000000000002,-0.8630356978248528,-0.6951244320342382,-0.7790800649295455,large
+Non-Sami,Unknown,Norway,Tundra,Norway,60.472,8.4689,Europe,,,-11.085699999999996,-0.7758852772872247,-0.6700571694966894,-0.722971223391957,large
+Non-Sami,Unknown,Norway,Tundra,Norway,60.472,8.4689,Europe,,,-1.0315000000000012,-0.10339855064344432,-0.010408952097742587,-0.05690375137059345,small
+Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-11.4724,-0.8789730420308547,-0.788179463710852,-0.8335762528708534,large
+Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-3.351700000000001,-0.26008407247642773,-0.1760513099067044,-0.21806769119156605,medium
+Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-1.0315000000000012,-0.10654880092840795,-0.016595810798739098,-0.06157230586357352,small
+Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-11.4724,-0.8229093676149282,-0.7240108016916639,-0.7734600846532961,large
+Nunavik Inuit,Circumpolar,"Nunavik, Quebec, Canada",tundra,Canada,61.327679,-74.250422,North American,,,-1.4181999999999988,-0.2845916174891365,0.08416418681828255,-0.10021371533542694,small
+Nunavik Inuit,Circumpolar,"Nunavik, Quebec, Canada",tundra,Canada,61.327679,-74.250422,North American,,,14.8232,0.9219377283413612,1.2289701828395678,1.0754539555904645,large
+Oji-Cree Indians,Unknown,Canada,tundra,Canada,56.69043,-93.208866,North America,,Semi-acculturated,-12.6325,-0.9899233173985331,-0.875809802390723,-0.9328665598946281,large
+Oklahoma American Indians,American_Indian,Southwestern Oklahoma,Grassland,United States of America,34.89,-98.36,North America,,Integrated,-11.57,-0.8731842667688405,-0.7414173295529735,-0.8073007981609069,large
+Oklahoma American Indians,American_Indian,Southwestern Oklahoma,Grassland,United States of America,34.89,-98.36,North America,,Integrated,-19.369999999999997,-1.4842681754732847,-1.329560958866016,-1.4069145671696504,large
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,3.705986,102.27917,Asia,Nomadic,Unacculturated,-22.686700000000002,-1.9652829222778343,-1.0659897705315804,-1.5156363464047073,large
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,3.705986,102.27917,Asia,Nomadic,Unacculturated,-18.433,-1.6199627510777679,-0.8198108050185494,-1.2198867780481586,large
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,5.246734,102.162702,Asia,Nomadic,Unacculturated,-4.8984999999999985,-1.3049544048132016,0.6550095797268524,-0.3249724125431747,medium
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,5.246734,102.162702,Asia,Nomadic,Unacculturated,-16.886200000000002,-1.5368874394282965,-0.7195259558096185,-1.1282066976189575,large
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,4.907965,100.94535,Asia,Yes,Integrated,-14.565999999999995,-1.5475739238802595,-0.36567117127493376,-0.9566225475775967,large
+Orang Asli,Unknown,Inland,Tropical Rainforest,Peninsular Malyasia,4.907965,100.94535,Asia,Yes,Integrated,22.170500000000004,0.9646762285302496,1.9767972780355776,1.4707367532829136,large
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,1.818275,103.514601,Asia,Yes,Integrated,-33.900999999999996,-3.632407666043808,-0.8606000173444528,-2.2465038416941305,large
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,1.818275,103.514601,Asia,Yes,Integrated,-26.167,-2.3897654942960997,-1.0831228379360638,-1.7364441661160819,large
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,5.757593,100.917471,Asia,Yes,Integrated,-15.339399999999998,-1.4879597826845963,-0.5372376026063491,-1.0125986926454726,large
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,5.757593,100.917471,Asia,Yes,Integrated,-14.565999999999995,-1.249992415677182,-0.6223015869394597,-0.9361470013083208,large
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,2.608694,102.987488,Asia,Yes,Integrated,4.7690000000000055,-0.1360207241958496,0.763272427550404,0.31362585167727725,medium
+Orang Asli,Unknown,Periphery,Tropical Rainforest,Peninsular Malyasia,2.608694,102.987488,Asia,Yes,Integrated,-22.299999999999997,-1.915117221344428,-1.0158240695981744,-1.4654706454713011,large
+Orang Asli,Unknown,"Kampung Kuala Kerling, Kampung Gerachi, Kampung Sungai Jang, Kampung Pertak",Tropical Rainforest,Peninsular Malyasia,1.46304,103.753159,Asia,Yes,Integrated,-10.698999999999998,-0.9311549947599909,-0.5156434610597357,-0.7233992279098632,large
+Parkatêjê Indians,SA_Indegenous,"Mãe Maria Reservation, state of Pará",Tropical Rainforest,Brazil,14.235,51.9253,South America,,Semi-acculturated,-19.47,-1.6460922046977151,-0.9738301041399283,-1.3099611544188217,large
+Parkatêjê Indians,SA_Indegenous,"Mãe Maria Reservation, state of Pará",Tropical Rainforest,Brazil,14.235,51.9253,South America,,Semi-acculturated,-22.67,-1.7989010366848082,-1.2750786280730093,-1.5369898323789088,large
+Parkatêjê Indians,SA_Indegenous,Southeast of the state of Pará in the Amazon Region of Brazil,Tropical rainforest,Brazil,-14.235,-51.9253,South America,Yes,Integrated,-22.67,-1.7989010366848082,-1.2750786280730093,-1.5369898323789088,large
+Parkatêjê Indians,SA_Indegenous,Southeast of the state of Pará in the Amazon Region of Brazil,Tropical rainforest,Brazil,-14.235,-51.9253,South America,Yes,Integrated,-19.47,-1.6460922046977151,-0.9738301041399283,-1.3099611544188217,large
+Pehuenche,SA_Indegenous,the eastern and western slopes of the Andes Mountains between latitudes ∼37° S and 41° S,temperate rainforest,Chile,", -38.515674",", -71.226637",South America,,,-17.07,-1.3640357255319793,-0.9508390373289383,-1.1574373814304588,large
+Peruvian,Peruvian,"San Jose de Secce, Santillana district, Ayacucho",,Peru,-12.57,-74.22,South America,,Unacculturated,-16.869999999999997,-1.2841983970338955,-1.0077079962866802,-1.1459531966602878,large
+Peruvian,Peruvian,"Las Pampas de San Juan de Miraflores, Lima",,Peru,-12.15,-76.97,South America,,Integrated,-16.97,-1.330016751623563,-1.1684989334935665,-1.2492578425585648,large
+Peruvian,Peruvian,"Las Pampas de San Juan de Miraflores, Lima",,Peru,-12.15,-76.97,South America,,Integrated,-16.57,-1.2913058424884343,-1.0134295162616955,-1.1523676793750648,large
+Peruvian Amerindian (1999),Unknown,"Lima, Peru",,Peru,,,South America,,Integrated,-21.371919999999996,-1.6845790014409725,-1.2257861350136383,-1.4551825682273054,large
+Pygmies,Unknown,Camaroon,Tropical Rainforest,Camaroon,7.3697219,12.354722,Africa,Active,Unacculturated,-11.969999999999999,-1.2396780258034958,-0.3631554852269142,-0.801416755515205,large
+Rural Chile w/ European Descent,Unknown,Chile,Temperate shrubland/forest,Chile,,,South America,,Isolated,-21.9133,-1.7662074565889074,-1.1128861284088891,-1.4395467924988983,large
+Rural Chile w/ European Descent,Unknown,Chile,Temperate shrubland/forest,Chile,,,South America,,Isolated,-25.3936,-1.9540208344584713,-1.4254578549345465,-1.6897393446965088,large
+Rural Mapuche,Unknown,Chile,Temperate shrubland/forest,Chile,,,South America,,Isolated,-20.7532,-1.6184947871847306,-1.1465909145922548,-1.3825428508884927,large
+Rural Mapuche,Unknown,Chile,Temperate shrubland/forest,Chile,,,South America,,Isolated,-16.886200000000002,-1.3737694937714091,-0.8403348630652635,-1.1070521784183363,large
+Russia Higher,Russian,,,,,,Asia Pacific region,,Overall,-6.058599999999998,-0.46378324655930664,-0.42284391151487155,-0.4433135790370891,medium
+Russia primary education,Russian,,,,,,Asia Pacific region,,Overall,-7.992100000000001,-0.6241533102472069,-0.4948468178762168,-0.5595000640617118,large
+Russia Rural Men,Russian,,,,,,Asia Pacific region,,Rural,-9.925599999999996,-0.7918728762649563,-0.6892485212254407,-0.7405606987451985,large
+Russia Rural Women,Russian,,,,,,Asia Pacific region,,Rural,-3.351700000000001,-0.28444053654839274,-0.20716212376005624,-0.24580133015422448,medium
+Russia Secondary,Russian,,,,,,Asia Pacific region,,Overall,-6.832000000000001,-0.5193009273179299,-0.48205769155480094,-0.5006793094363654,large
+Russia Urban Men,Russian,,,,,,Asia Pacific region,,Urban,-11.085699999999996,-0.8745826406680702,-0.8258831861504283,-0.8502329134092493,large
+Russia Urban Total,Russian,,,,,,Asia Pacific region,,Urban,-6.832000000000001,-0.5170279778620817,-0.4870804223066869,-0.5020542000843843,large
+Russian Rural Total,Russian,,,,,,Asia Pacific region,,Rural,-5.671900000000001,-0.45131070842192395,-0.3895776455441118,-0.4204441769830179,medium
+Russian Urban Women,Russian,,,,,,Asia Pacific region,,Urban,-4.125099999999996,-0.32120359598891435,-0.28322650103415287,-0.30221504851153363,medium
+Sami,Uralic_Ancestry,Norway,Tundra,Norway,60.472,8.4689,Europe,,,-13.019199999999998,-0.9135535087636045,-0.7879509149051994,-0.850752211834402,large
+Sami,Uralic_Ancestry,Norway,Tundra,Norway,60.472,8.4689,Europe,,,-4.8984999999999985,-0.37641104931803515,-0.263015989605643,-0.31971351946183907,medium
+Sami (Non-reindeer herding),Uralic_Ancestry,,,,,,,,,-6.832000000000001,-0.5717803187747217,-0.3277362631289573,-0.4497582909518395,medium
+Sami (Non-reindeer herding),Uralic_Ancestry,,,,,,,,,-10.698999999999998,-0.741442540529721,-0.45167312699434353,-0.5965578337620323,large
+Sami (Reindeer herding),Uralic_Ancestry,,,,,,,,,-14.565999999999995,-1.1889519318784485,-0.7824743368025674,-0.985713134340508,large
+Sami (Reindeer herding),Uralic_Ancestry,,,,,,,,,-6.832000000000001,-0.6840817045945573,-0.2373644535579304,-0.4607230790762439,medium
+Sami Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-11.859099999999998,-0.8807677776132942,-0.7635328053803077,-0.822150291496801,large
+Sami Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-4.8984999999999985,-0.39243942344611854,-0.2768470538966257,-0.33464323867137213,medium
+Sami Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-4.8984999999999985,-0.36934495726235733,-0.2599078112891285,-0.3146263842757429,medium
+Sami Norwegian,Unknown,Northern Norway,Tundra,Norway,60.472,8.4689,Europe,,Integrated,-13.405899999999995,-0.9605652624469521,-0.8430672542713834,-0.9018162583591678,large
+Samoan Female,SAMOAN,,,,,,Distinct,,Overall,-6.832000000000001,-0.5819728219761768,-0.4949706554135594,-0.5384717386948681,large
+Samoan Male,SAMOAN,,,,,,Distinct,,Overall,-10.698999999999998,-0.8768907795561312,-0.7729033010064146,-0.8248970402812729,large
+Samoans,Unknown,,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,,Semi-acculturated,-18.433,-1.4642236861849558,-1.0970887943586882,-1.280656240271822,large
+Samoans,Unknown,,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,,Semi-acculturated,-19.5931,-1.5109957412832489,-1.157547739302938,-1.3342717402930935,large
+Samoans,Unknown,,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,,Semi-acculturated,-10.698999999999998,-0.914217957201108,-0.5387569527052588,-0.7264874549531835,large
+Samoans,Unknown,,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,,Semi-acculturated,-11.4724,-0.9824581195655542,-0.5692614313625131,-0.7758597754640336,large
+SANTORINI high risk,EUROPEAN,,,,,,Europe,,High risk CVD,-6.832000000000001,-0.49354280413565976,-0.39671755794729957,-0.44513018104147967,medium
+SANTORINI STUDY overall,EUROPEAN,,,,,,Europe,,Urban,-10.698999999999998,-0.7136194151660367,-0.6724003811363591,-0.6930098981511978,large
+SANTORINI very high risk,EUROPEAN,,,,,,Europe,,High risk CVD,-14.565999999999995,-0.9686503106045754,-0.9196550385971897,-0.9441526746008825,large
+Saudi Arabia,Saudi,,,,,,Middle East,,Overall,-14.969999999999999,-1.1317418890469995,-0.9645955988329451,-1.0481687439399723,large
+SD/ND American Indians,American_Indian,South Dakota; Fort Totten area of North Dakota,Grassland,United States of America,46,-99,North America,,Semi-acculturated,-17.17,-1.2443780817139931,-1.0915633793568595,-1.1679707305354263,large
+SD/ND American Indians,American_Indian,South Dakota; Fort Totten area of North Dakota,Grassland,United States of America,46,-99,North America,,Semi-acculturated,-12.469999999999999,-0.9214151104976106,-0.7880564528210742,-0.8547357816593424,large
+Shaur,SA_Indegenous,"Upano River Valley, Morona-Santiago",Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,Yes,Integrated,-8.869999999999997,-0.8039674298263534,-0.37879154535200193,-0.5913794875891777,large
+Shaur,SA_Indegenous,"Upano River Valley, Morona-Santiago",Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,Yes,Integrated,-3.8699999999999974,-0.4232655958050283,-0.09431254805324557,-0.2587890719291369,medium
+Shaur,SA_Indegenous,"Cordillera de Cutucu, Morona-Santiago",Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,Yes,Unacculturated,-18.07,-1.4692355507607309,-0.9307920342896482,-1.2000137925251895,large
+Shaur,SA_Indegenous,"Cordillera de Cutucu, Morona-Santiago",Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,Yes,Unacculturated,-22.769999999999996,-1.8584508319390527,-1.1958620716795794,-1.527156451809316,large
+Shuar Rural Men,SA_Indegenous,,,,,,Distinct,,Rural,-22.769999999999996,-1.8584508319390527,-1.1958620716795794,-1.527156451809316,large
+Shuar Rural Women,SA_Indegenous,,,,,,Distinct,,Rural,-18.07,-1.4692355507607309,-0.9307920342896482,-1.2000137925251895,large
+Shuar Urban Men,SA_Indegenous,,,,,,South America,,Overall,-8.869999999999997,-0.8039674298263534,-0.37879154535200193,-0.5913794875891777,large
+Shuar Urban Women,SA_Indegenous,,,,,,South America,,Urban,-3.8699999999999974,-0.4232655958050283,-0.09431254805324557,-0.2587890719291369,medium
+Singapore NHS92,other,,,,,,Asia Pacific region,,Overall,-10.698999999999998,-0.8990693204308337,-0.83002182437196,-0.8645455724013968,large
+South Korea Men,other,,,,,,Asia Pacific region,,Overall,-12.670000000000002,-1.0391492532436453,-0.9773932113727135,-1.0082712323081795,large
+South Korea Women,other,,,,,,Asia Pacific region,,Overall,-9.07,-0.7267086693617526,-0.6700526088919097,-0.6983806391268311,large
+Spain,EUROPEAN,,,,,,Europe,,Overall,-8.269999999999996,-0.6011120206465582,-0.5838323780123421,-0.5924721993294502,large
+Tanzanian,East_African,Temeke,Savanna,Tanzania,-6.9488,39.445,Africa,,Integrated,-14.565999999999995,-1.14172185179043,-0.8803933205184229,-1.0110575861544264,large
+Tanzanian,East_African,Temeke,Savanna,Tanzania,-6.9488,39.445,Africa,,Integrated,-18.433,-1.408557287974937,-1.1649848154860507,-1.286771051730494,large
+Tanzanian,East_African,"Kigamboni, Handeni, and Monduli regions",Savanna,Tanzania,-6.8227,39.3024,Africa,,Integrated,-22.299999999999997,-1.5905833614389044,-1.3455878633713976,-1.468085612405151,large
+Tanzanian,East_African,"Kigamboni, Handeni, and Monduli regions",Savanna,Tanzania,-6.8227,39.3024,Africa,,Integrated,-26.167,-1.947679103274263,-1.6972440916809541,-1.8224615974776086,large
+Tarahumara,Native_American,"Sisoguichi, Chihuahua",Tropical Rainforest,Mexico,27.79,-107.5,North America,,Unacculturated,-28.97,-2.4972640312562917,-1.3656782971801198,-1.9314711642182056,large
+Tarahumara Indians,Native_American,Sierra Madre Occidental Mountains,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,,Unacculturated,-32.97,-2.3903704388891085,-2.0131751941970517,-2.20177281654308,large
+Tarahumara Indians,Native_American,Sierra Madre Occidental Mountains,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,,Unacculturated,-30.97,-2.300454754072734,-1.916074192414703,-2.108264473243718,large
+Tarahumara Indians,Native_American,Sierra Madre Occidental Mountains,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,,Unacculturated,-37.97,-2.8191371839340187,-2.4582785647015317,-2.638707874317775,large
+Tarahumara Indians,Native_American,Sierra Madre Occidental Mountains,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,,Unacculturated,-34.97,-2.6331101200184412,-2.311977108177861,-2.4725436140981514,large
+Tarahumara Indians,Native_American,"Chihuahua, Mexico",Desert,Mexico,28.633,-106.0691,North America,,,-29.97,-2.68605080451813,-1.300146980168452,-1.9930988923432909,large
+Thailand INTERASIA,other,,,,,,Asia Pacific region,,Overall,-14.565999999999995,-1.226441838709351,-1.1703052215394516,-1.1983735301244012,large
+Tibet Female,Tibet,,,,,,Asia Pacific region,,Overall,-2.9649999999999963,-0.32395817872228894,-0.06660229937880603,-0.19528023905054748,small
+Tibet Male,Tibet,,,,,,Asia Pacific region,,Overall,-5.671900000000001,-0.52533235553361,-0.19284840468194606,-0.359090380107778,medium
+Tibetian,Tibet,,,,,,Distinct,,Overall,-4.511800000000001,-0.4095333402512415,-0.2477405979765311,-0.32863696911388635,medium
+Trinidadians,Trinidadians,"Blanchisseuse, Trinidad",Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,,Integrated,-11.859099999999998,-0.7578345411563381,-0.6312534651468121,-0.6945440031515752,large
+Trinidadians,Trinidadians,"Blanchisseuse, Trinidad",Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,,Integrated,-23.0734,-1.4941662507565505,-1.3823051977424916,-1.438235724249521,large
+Tsimane,Amerindian,Maniqui River,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,Active,Unacculturated,-22.299999999999997,-1.7909418178085164,-1.2251489507704305,-1.5080453842894734,large
+Tsimane,Amerindian,Amazon,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,Yes,Unacculturated,-23.97,-1.8925827399498023,-1.406375514696136,-1.6494791273229692,large
+Tsimane,Amerindian,Amazon,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,Yes,Unacculturated,-23.97,-1.8925827399498023,-1.406375514696136,-1.6494791273229692,large
+Tsimane,Amerindian,Amazon,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,Yes,Unacculturated,-25.97,-2.029270724649243,-1.5430634993955767,-1.78616711202241,large
+Tsimane,Amerindian,"San Borja and Maniqui River villages, Bolivia",Tropical rainforest,Bolviia,-14.8585,-66.747,South America,,Unacculturated,-24.17,-1.9126839138121148,-1.7209539696461187,-1.8168189417291167,large
+Tsimane,Amerindian,,,,,,Distinct,,Rural,-24.17,-1.8943204462246286,-1.686564679374501,-1.7904425627995648,large
+Tupinikin,SA_Indegenous,Espirito Santo State,tropical rainforest,Brazil,-19.753768,-40.490962,South America,,Integrated,-10.969999999999999,-0.8163363781754179,-0.6403264164729593,-0.7283313973241886,large
+TURKANA_pastoralist,TURKANA_pastoralist,,,,,,,,,-0.8699999999999974,-0.12672062104858167,0.01186976138638613,-0.05742542983109777,small
+Turks,Middle_Eastern_Ancestry,"Turkey, Turkey (59 communities in all geographical regions)",", woodland",Turkey,39.09598,34.808695,Asia,,,-13.469999999999999,-1.0382508142476412,-0.9384589528171526,-0.988354883532397,large
+Turks,Middle_Eastern_Ancestry,"Turkey, Turkey (59 communities in all geographical regions)",", woodland",Turkey,39.09598,34.808695,Asia,,,-23.47,-1.8742271912549544,-1.7727441029413975,-1.823485647098176,large
+Turks,Middle_Eastern_Ancestry,Turkey,", woodland",Turkey,", 39.262049",", 35.336038",Asia,,,-14.969999999999999,-1.1577300215044124,-1.0346297221106864,-1.0961798718075493,large
+Turks,Middle_Eastern_Ancestry,Turkey,", woodland",Turkey,", 39.262049",", 35.336038",Asia,,,-22.269999999999996,-1.7483819558095004,-1.621403033635088,-1.684892494722294,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-25.369999999999997,-1.9187206592648582,-1.7079840260874775,-1.8133523426761677,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-25.57,-2.085755236893649,-1.3313647475095343,-1.7085599922015915,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-16.769999999999996,-1.4524715186296608,-0.7802094180718739,-1.1163404683507672,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-18.269999999999996,-1.3887676375823674,-1.1798347748147995,-1.2843012061985835,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-11.969999999999999,-0.9277991946972325,-0.6598384352358793,-0.7938188149665558,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-21.769999999999996,-1.6192027271639653,-1.341326400937227,-1.4802645640505963,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-24.67,-1.8365884106837949,-1.6171145793463604,-1.7268514950150775,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-14.469999999999999,-1.2081581679633966,-0.7461902265135041,-0.9771741972384504,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-18.97,-1.4750796136019002,-1.0548192224706958,-1.264949418036298,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-16.57,-1.248734762584061,-1.0352026797627774,-1.141968721173419,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-16.17,-1.2599757122900452,-1.0130434607787961,-1.1365095865344206,large
+Turks,Middle_Eastern_Ancestry,"Marmara, Black Sea, Aegean, Central Anatolia, Eastern Anatolia, South-East Anatolia, Mediterranean regions",Temperate rainforest,Turkey,38.9637,35.2433,Asia,,Integrated,-23.57,-1.7789141614442716,-1.5221111417712083,-1.65051265160774,large
+Turks,Middle_Eastern_Ancestry,"Istanbul, Turkey",Temperate,Turkey,41.0082,28.9784,Asia,,Integrated,-23.47,-1.8742271912549544,-1.7727441029413975,-1.823485647098176,large
+Turks,Middle_Eastern_Ancestry,"Istanbul, Turkey",Temperate,Turkey,41.0082,28.9784,Asia,,Integrated,-13.469999999999999,-1.0382508142476412,-0.9384589528171526,-0.988354883532397,large
+UK Biobank - Healthy,EUROPEAN,,,,,,Europe,,Overall,-3.969999999999999,-0.2809439946797626,-0.2742260153798418,-0.2775850050298022,medium
+UK Biobank - With CVD,EUROPEAN,,,,,,Europe,,High risk CVD,-8.670000000000002,-0.6540725831478437,-0.6043535603990214,-0.6292130717734326,large
+Urban Chile w/ European Descents,Unknown,Chile,temperate shrubland/forest,Chile,,,South America,,Integrated,-26.940399999999997,-2.015126217881367,-1.6064454760720281,-1.8107858469766975,large
+Urban Chile w/ European Descents,Unknown,Chile,temperate shrubland/forest,Chile,,,South America,,Integrated,-25.0069,-1.9522102588459171,-1.3473522416067574,-1.6497812502263374,large
+Urban Mapuche,Unknown,Chile,Temperate shrubland/forest,Chile,,,Sourth America,,Integrated,-26.5537,-1.9357497290903267,-1.4947233760389715,-1.7152365525646491,large
+Urban Mapuche,Unknown,Chile,Temperate shrubland/forest,Chile,,,Sourth America,,Integrated,-25.780299999999997,-2.0040490386276,-1.4197006782432127,-1.7118748584354064,large
+Urban Rishikesh (with HTN),Unknown,,,,,,,,,-19.369999999999997,-1.5080252912125205,-1.1931690999454545,-1.3505971955789875,large
+Urban Rishikesh (without HTN),Unknown,,,,,,,,,-19.17,-1.5075564902995946,-1.289445863649923,-1.3985011769747588,large
+US South Asian,other,,,,,,North America,,Overall,-10.869999999999997,-0.8322521652307002,-0.7007820007727299,-0.7665170830017151,large
+Uygur,Chinese,Xinjiang Province,,China,40.109102,85.671277,Asia,,Semi-acculturated,-23.0734,-2.0154627922714665,-1.9099036254691724,-1.9626832088703194,large
+White,other,,,,,,North America,,Overall,-6.832000000000001,-0.4509216036159455,-0.43279940666143013,-0.44186050513868785,medium
+Xavante,SA_Indegenous,"São Marcos and Sangradouro/Volta Grande indigenous reserves, Mato Grosso State",Grassland,Brazil,-15.62,-56.16,South America,Yes,,-23.869999999999997,-1.9458063723286387,-1.7620373146623585,-1.8539218434954987,large
+Xavante,SA_Indegenous,"São Marcos and Sangradouro/Volta Grande indigenous reserves, Mato Grosso State",Grassland,Brazil,-15.62,-56.16,South America,Yes,,-20.369999999999997,-1.6594412636296865,-1.4786284693946021,-1.5690348665121443,large
+Xavante,SA_Indegenous,"São Marcos and Sangradouro/Volta Grande indigenous reserves, Mato Grosso State",Grassland,Brazil,-15.62,-56.16,South America,,Semi-acculturated,-23.869999999999997,-1.9465818486768778,-1.7632153524089962,-1.8548986005429369,large
+Xavante,SA_Indegenous,"São Marcos and Sangradouro/Volta Grande indigenous reserves, Mato Grosso State",Grassland,Brazil,-15.62,-56.16,South America,,Semi-acculturated,-20.269999999999996,-1.6531077647923103,-1.4732491344430594,-1.5631784496176848,large
+Yakut,Siberian,"Tyungyulyu, Sakha Republic",Tundra,Russia,62,130,Asia,,Semi-acculturated,-6.445299999999996,-0.623127954575796,-0.23308054335789397,-0.42810424896684496,medium
+Yakut,Siberian,"Tyungyulyu, Sakha Republic",Tundra,Russia,62,130,Asia,,Semi-acculturated,-11.859099999999998,-1.023945011904007,-0.5377377866503409,-0.7808413992771739,large
+Yakut (rural),Siberian,Lena River Valley in Sakha (Yakutia) Autonomous Republic in northeastern Siberia,taiga,Russia,61.105348,127.364869,Asia,,Semi-acculturated,-19.07,-1.696497166367225,-0.8410987550775054,-1.2687979607223652,large
+Yakut (rural),Siberian,Lena River Valley in Sakha (Yakutia) Autonomous Republic in northeastern Siberia,taiga,Russia,61.105348,127.364869,Asia,,Semi-acculturated,-13.869999999999997,-1.1931969355398626,-0.6496007321304875,-0.9213988338351751,large
+Yakut (urban),Siberian,Lena River Valley in Sakha (Yakutia) Autonomous Republic in northeastern Siberia,taiga,Russia,61.105348,127.364869,Asia,,Integrated,-9.07,-0.8241068058575703,-0.3744602299844435,-0.5992835179210069,large
+Yakut (urban),Siberian,Lena River Valley in Sakha (Yakutia) Autonomous Republic in northeastern Siberia,taiga,Russia,61.105348,127.364869,Asia,,Integrated,-16.67,-1.382877150487202,-0.8392809470778269,-1.1110790487825144,large
+Yanomamo,SA_Indegenous,Surucucu Plateau,Tropical Rainforest,Brazil,2.68,-63.627,South America,Nomadic,Unacculturated,-21.369999999999997,-1.9449417156186735,-0.8972968983950764,-1.421119307006875,large
+Yanomamo,SA_Indegenous,Surucucu Plateau,Tropical Rainforest,Brazil,2.68,-63.627,South America,Nomadic,Unacculturated,-27.07,-2.157427837650106,-1.485165737092319,-1.8212967873712125,large
+Yaqiu,Unknown,Sonora,Desert,Mexico,29.2972,-110.3309,North America,,,-22.769999999999996,-1.8183425832770523,-1.2583528734084657,-1.5383477283427591,large
+Yaqui,Unknown,Sonora,Desert,Mexico,29.2972,-110.3309,North America,,,-20.269999999999996,-1.700762029478218,-1.0183901571055733,-1.3595760932918957,large
+Yup'ik,Circumpolar,Yukon-Kuskokwim Delta region,Arctic-Alpine desert,United States of America,61,-64,North America,,Unacculturated,-5.369999999999997,-0.5775513598173712,-0.1337069183283239,-0.35562913907284754,medium
+Yup'ik,Circumpolar,Yukon-Kuskokwim Delta region,Arctic-Alpine desert,United States of America,61,-64,North America,,Unacculturated,0.030000000000001137,-0.19305190031882163,0.1969955108990804,0.0019718052901293833,small
+Zulu,Bantu,Ubombo District,Grassland,South Africa,-27.57,32.08,Africa,,Semi-acculturated,-13.019199999999998,-0.9834374845767883,-0.6983046808135485,-0.8408710826951683,large
+Zulu,Bantu,Ubombo District,Grassland,South Africa,-27.57,32.08,Africa,,Semi-acculturated,-13.019199999999998,-0.9447176830111228,-0.8023394876826871,-0.873528585346905,large

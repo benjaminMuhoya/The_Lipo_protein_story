@@ -1,0 +1,88 @@
+Region,Biome,Sex,Population,Ancestry,Lattitude,"Number of
+ Participants",HDL_Chol_mg_dL,HDL_SD_mg_dL,LDL_Chol_mg_dL,LDL_SD_mg_dL,SerumLevel_mg_dL,SL_SD_mg_dL,Triglyceride_Chol_mg_dL,Triglyceride_SD_mg_dL,Blood Pressure Systolic,Systolic SD,Diastolic Mean,Diastolic SD,BMI Mean,BMI SD,Body fat Mean,Body fat SD,ApoB Mean (g/L),ApoB SD,ApoA Mean g/L),ApoA SD,Heritability,ReferenceSource
+North America,Urban,Overall,Asian,Asian,38,3816,54.138,15.468,123.744,30.936,204.951,34.803,133.125,79.875,136,21,79,12,23.7,3.3,NA,NA,NA,NA,NA,NA,NA,
+Australia,Urban,Overall,Australia,mixed,NA,1274,56.4582,0.3867,124.9041,1.5468,208.0446,1.5468,133.125,2.6625,126.9,0.5,76.6,0.4,28,0.2,NA,NA,NA,NA,NA,NA,NA,https://onlinelibrary.wiley.com/doi/full/10.5694/j.1326-5377.2010.tb03449.x
+Australia,Savanna,Women,Australia Aboriginals_Female,Australian_Aboriginal,-25.2744,337,33.2562,1.5468,144.2391,7.734,179.4288,7.734,144.6625,15.0875,NA,NA,NA,NA,25.5,1.4,NA,NA,NA,NA,NA,NA,NA,doi:10.1016/j.atherosclerosis.2008.03.022
+Australia,Savanna,Men,Australia Aboriginals_Male,Australian_Aboriginal,-25.2744,284,30.5493,1.9335,161.6406,11.2143,194.8968,33.2562,190.8125,25.7375,NA,NA,NA,NA,24.5,1.1,NA,NA,NA,NA,NA,NA,NA,doi:10.1016/j.atherosclerosis.2008.03.022
+Australia,Urban,Overall,Australia ANHF study,mixed,NA,8924,50.271,15.468,135.345,38.67,212.685,42.537,124.25,62.125,126,18,NA,NA,25.3,4.2,NA,NA,NA,NA,NA,NA,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.111.028373
+Australia,Savanna,Women,Australia TSI Women_Female,Australian_Aboriginal,-25.2744,144,38.67,3.4803,137.2785,15.0813,179.4288,15.0813,111.825,20.4125,NA,NA,NA,NA,29.4,2.1,NA,NA,NA,NA,NA,NA,NA,doi:10.1016/j.atherosclerosis.2008.03.022
+Australia,Savanna,Men,Australia TSI Women_Male,Australian_Aboriginal,-25.2744,160,38.67,4.6404,145.3992,14.3079,187.1628,13.5345,143.775,27.5125,NA,NA,NA,NA,28.6,1.6,NA,NA,NA,NA,NA,NA,NA,doi:10.1016/j.atherosclerosis.2008.03.022
+North America,Urban,Overall,Black,AFRICAN,38,7200,54.138,15.468,131.478,38.67,208.818,42.537,106.5,71,131,22,78,12,29.6,6,NA,NA,NA,NA,NA,NA,NA,
+Africa,Urban,Men,Botswana Urban men,South_African,-23,114,49.1109,,121.4238,,192.9633,,161.1974,,,,,,,,,,,,,,,https://journals.co.za/doi/epdf/10.10520/EJC68653
+Africa,Urban,Women,Botswana Urban women,South_African,-23,287,49.1109,,136.8918,,184.4559,,170.0544,,,,,,,,,,,,,,,https://journals.co.za/doi/epdf/10.10520/EJC68653
+South America,Urban,Overall,Brazil_NHS,mixed,-4,8534,46.5,0.8,104.5,1.7,185,2.2,,,,,,,,,,,,,,,,10.1590/1980-549720190005.supl.2
+South America,Urban,Women,Brazil_NHS_Female,mixed,-4,4983,49.6,1,106.3,2.2,198.7,2.7,,,,,,,,,,,,,,,,10.1590/1980-549720190005.supl.2
+South America,Urban,Men,Brazil_NHS_Male,Mixed,-4,3551,43,1.1,102.9,3.6,181.7,3.6,,,,,,,,,,,,,,,,10.1590/1980-549720190005.supl.2
+North America,Urban,Overall,Canada: Chinese,Chinese,38,317,46.02,11.6,121.42,30.9,182.13,81,157.975,115.375,119,15.8,75,10.6,25.1,5.5,NA,NA,NA,NA,NA,NA,NA,
+North America,Urban,Overall,Canada: Europeans,EUROPEAN,38,326,46.02,11.6,122.58,30.936,183.3,81,145.55,115.375,118,15.8,73,10.6,28.4,5.6,NA,NA,NA,NA,NA,NA,NA,
+North America,Urban,Overall,Canada: South Asians,Asian,38,342,40.22,11.6,127.6,34.8,209.98,81.2,173.95,115.375,119,15.7,76,10.3,26,5.3,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1016/S0140-6736(00)02502-2
+South America,Urban,Men,Chile,mixed,-9,770,46,12,120,34,200,41,175,117,125,44,82,12,27,4,,,,,,,,http://dx.doi.org/10.4067/S0034-98872012000800001
+South America,Urban,Women,Chile,mixed,-9,854,53,13,122,33,203,43,141,97,119,21,76,12,28,6,,,,,,,,http://dx.doi.org/10.4067/S0034-98872012000800001
+South America,Urban,Overall,Chile,mixed,-9,1624,50,13,121,34,202,42,157,108,122,34,79,12,28,5,,,,,,,,http://dx.doi.org/10.4067/S0034-98872012000800001
+Asia Pacific region,Urban,Overall,China Guangzhou Occupational,Chinese,32,9106,50.271,19.335,127.611,42.537,201.084,38.67,124.25,62.125,113,15,NA,NA,22.6,3.3,NA,NA,NA,NA,NA,NA,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.111.028373
+Asia Pacific region,Urban,Overall,China Overall,Chinese,32,163641,52.2045,15.0813,111.3696,34.0296,181.749,39.0567,101.175,78.9875,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1016/j.ijcard.2017.12.069
+Asia Pacific region,Urban,Men,China_Men,Chinese,32,69712,49.8843,15.0813,111.7563,33.6429,182.1357,38.67,108.275,88.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1016/j.ijcard.2017.12.069
+Asia Pacific region,Urban,Women,China_Women,Chinese,32,93929,54.5247,14.3079,110.9829,34.0296,180.9756,39.0567,95.85,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1016/j.ijcard.2017.12.069
+South America,Urban,Overall,Colombia,mixed,3,6628,41.9,11.7,118.9,34.7,201.1,45.7,181.5,145.4,129.4,21.3,80.5,11.9,26.3,4.7,,,,,,,,https://doi.org/10.1016/j.ijcard.2018.10.090
+Europe,Urban,Overall,England ELSA (Above 50yrs),EUROPEAN,53,4217,59.1651,0.3867,139.9854,0.7734,230.0865,0.7734,137.5625,53.25,134.67,0.28,75.4,0.17,27.7,0.07,NA,NA,NA,NA,NA,NA,NA,https://www.futuremedicine.com/doi/epdf/10.2217/bmm.14.78?src=getftr
+Europe,Urban,Overall,Finnish NFBC study,Uralic_Ancestry,61,5271,58,15.4,NA,NA,193.35,38.67,106.5,62.125,NA,NA,NA,NA,24.6,4.1,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1194/jlr.O072629
+North America,Urban,Overall,Framingham study,Framingham,38,60211,54.138,15.468,143.079,42.537,220.419,46.404,133.125,79.875,131,21,77,12,26.9,4.8,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132321
+Africa,Savanna,Women,Ghana_Rural_Female,West_African,8,583,46.5,15.9,88.6,32.3,152.3,36.9,82,42,123.8,20.2,73.7,11.6,22.9,3.9,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162753
+Africa,Savanna,Men,Ghana_Rural_Male,West_African,8,469,44.5,14.7,76.4,27.3,142.2,36.4,82.5,53,127.3,16.9,73.5,10.8,21.5,2.7,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162753
+Africa,Urban,Women,Ghana_Urban_Females,West_African,8,1293,49.2,14.6,113.9,37.6,181.8,42.1,77,47,125.1,18.3,77.7,10.7,26.9,5.6,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162753
+Africa,Urban,Men,Ghana_Urban_Males,West_African,8,972,43.5,13.3,106.3,34.1,170.6,42.5,83,57,130.2,18.9,78,12.4,24,3.9,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162753
+North America,Urban,Overall,Hispanic,Hispanic,38,1445,43.9,13,129.2,35.7,201.8,40.4,146.5,88.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.1016/j.ahj.2011.01.018
+North America,Urban,Overall,Hispanic,Hispanic,38,2407,46.404,11.601,123.744,34.803,201.084,38.67,150.875,88.75,132,22,76,12,29,5,NA,NA,NA,NA,NA,NA,NA,
+North America,Urban,Overall,Hispanic Health Study,Hispanic,38,12730,48.73,13.17,128.87,38.13,205.78,45.66,139.75,101.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Chol 22%, TG, 24%, hdl 24%, ldl 21%",https://doi.org/10.1186/s12944-017-0591-6
+Asia Pacific region,Urban,Overall,India Overall,Indian,19,2042,39,12,91,32,158,40,116,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Asia Pacific region,Savanna,Overall,India Rural,Indian,19,1452,39,12,89,32,154,38,111,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Asia Pacific region,Urban,Overall,Indian Urban,Indian,19,590,39,12,97,33,167,43,128,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.1371/journal.pone.0096808
+North America,Tundra,Women,Inuits CANHR Female,Circumpolar,63.8428,383,65.1,18.3,139.2,36.9,220.9,45,82.7,40.1,119,15.8,70.9,10.8,29.7,6.9,36.3,8.8,NA,NA,NA,NA,NA,
+North America,Tundra,Men,Inuits CANHR Males,Circumpolar,63.8428,327,58.1,16.5,143.7,40.3,219,47.7,84.4,48.4,124.4,12.9,71.7,9.6,26,4.1,21.7,7.1,NA,NA,NA,NA,NA,
+North America,Tundra,Overall,Inuits CANHR Overall,Circumpolar,63.8428,710,61.9,17.8,141.3,38.5,220,46.2,84.4,48.4,121.5,14.8,71.2,10.3,28,6,29.6,10.8,NA,NA,NA,NA,NA,10.1038/oby.2007.302
+ALASKA general,Tundra,Women,Inuits WATCH study_Females,Circumpolar,63,2140,63.9,18.1,125.6,39.1,NA,NA,106.6,71.8,116.1,15.6,71.9,10.2,29.1,6.6,NA,NA,NA,NA,NA,NA,NA,
+ALASKA general,Tundra,Men,Inuits WATCH study_Males,Circumpolar,63,1845,55.5,16.8,125.6,39.1,NA,NA,103.7,69.5,121.5,12.6,73.9,10.3,26.5,5,NA,NA,NA,NA,NA,NA,NA,DOI: 10.1016/j.numecd.2014.10.012
+Asia Pacific region,Urban,Overall,Japan Amagasaki Study,Japanese,35,1178,55.3,13.148,116,29,199.92,32.87,142.8875,120.7,123,14,75,10,23.8,2.9,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1186/1743-7075-8-82
+Asia Pacific region,Urban,Overall,Japan Civil Service workers,Japanese,35,8910,54.138,15.468,119.877,30.936,201.084,34.803,124.25,71,125,18,NA,NA,22.4,2.7,NA,NA,NA,NA,NA,NA,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.111.028373
+Asia Pacific region,Urban,Men,Japan Men,Japanese,35,3118,48.7,13.4,111.5,31.8,186,34.3,NA,NA,132,20.5,79.8,12.3,23.1,2.9,NA,NA,NA,NA,NA,NA,NA,
+Asia Pacific region,Urban,Women,Japan Women,Japanese,35,4871,52.5,12.4,124.3,31,199.2,33.7,NA,NA,`129.3,20.8,76.9,11.9,23.3,3.1,NA,NA,NA,NA,NA,NA,NA,https://www.jstage.jst.go.jp/article/jat/14/2/14_2_45/_article/-char/ja/
+Africa,Urban,Overall,Kenya Nairobi,East_African,-1,2003,48.7242,18.1749,117.1701,44.0838,NA,NA,96.7375,62.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000224
+South America,Overall,Overall,LAC Pooled meta-analysis,mixed,NA,168553,47,,120,,193,,139,,,,,,,,,,,,,,,https://elifesciences.org/articles/57980#content
+South America,Urban,Overall,Mexico 2001,Hispanic,23,2256,38.67,NA,118.33,NA,185.6,NA,292.875,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1016/S0022-2275(20)31581-9
+South America,Urban,Overall,Mexico 2016,Hispanic,23,586,43.9,12.2,91.9,25.4,159.8,31.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://journals.lww.com/jpgn/_layouts/15/oaks.journals/downloadpdf.aspx?an=00005176-201611000-00018
+North America,Urban,Overall,NHANES III,NHANES,38,10843,50.9,15.1,127,38.5,203.3,44,135.1,105.8,122.7,20.7,72.2,12.6,27,5.8,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1038/oby.2007.302
+Africa,Urban,Overall,Nigeria Urban,West_African,8,205,58.005,22.8153,109.4361,35.5764,190.2564,38.67,114.4875,50.5875,,,,,,,,,,,,,,https://www.ajol.info/index.php/amhsr/article/view/87714
+North America,Urban,Overall,Non Hispanic Black,AFRICAN,38,681,52.3,16.4,126.1,36.2,201.4,39.4,115.7,71.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Northern Manhattan Study
+North America,Urban,Overall,Non Hispanic White,White,38,545,49.3,14.8,133,35.2,208.4,39,132,77.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Asia Pacific region,Urban,Overall,Russia Higher,Russian,59,9168,54.9114,13.5345,128.7711,38.67,206.4978,44.4705,99.1984,0.85,,,,,,,,,,,,,,
+Asia Pacific region,Urban,Overall,Russia primary education,Russian,59,919,52.9779,13.5345,133.4115,40.2168,208.4313,46.7907,111.5982,82.3701,,,,,,,,,,,,,,
+Asia Pacific region,Taiga,Men,Russia Rural Men,Russian,59,1459,51.0444,12.3744,127.9977,39.4434,205.3377,46.0173,111.5982,1.04,,,,,,,,,,,,,,
+Asia Pacific region,Taiga,Women,Russia Rural Women,Russian,59,2573,57.6183,13.1478,136.5051,39.8301,216.9387,46.0173,107.1697,0.85,,,,,,,,,,,,,,
+Asia Pacific region,Urban,Overall,Russia Secondary,Russian,59,11078,54.138,13.5345,133.4115,40.2168,208.4313,46.7907,111.5982,82.3701,,,,,,,,,,,,,,
+Asia Pacific region,Urban,Men,Russia Urban Men,Russian,59,6479,49.8843,12.7611,130.3179,38.2833,204.951,44.4705,111.5982,0.98,,,,,,,,,,,,,,
+Asia Pacific region,Urban,Overall,Russia Urban Total,Russian,59,17133,54.138,13.5345,130.7046,39.4434,208.818,45.6306,105.3983,0.89,,,,,,,,,,,,,,
+Asia Pacific region,Taiga,Overall,Russian Rural Total,Russian,59,4032,55.2981,13.1478,133.4115,39.8301,212.685,46.404,108.9411,0.9,,,,,,,,,,,,,,
+Asia Pacific region,Urban,Women,Russian Urban Women,Russian,59,10654,56.8449,13.5345,131.0913,40.2168,210.7515,46.0173,100.9698,0.84,,,,,,,,,,,,,,
+Asia Pacific region,Tropical,Women,Samoan Female,SAMOAN,13,2030,54.138,11.601,150.813,38.67,201.084,34.803,115.375,79.875,125.2,19.7,81.5,12.9,34.8,6.8,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1002/ajhb.22553
+Asia Pacific region,Tropical,Men,Samoan Male,SAMOAN,13,1421,50.271,11.601,146.946,42.537,201.084,38.67,142,115.375,131.8,16.5,81.5,12.7,31.3,5.9,NA,NA,NA,NA,NA,NA,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292846/
+Europe,Urban,Overall,SANTORINI high risk,EUROPEAN,37,1639,54.138,15.468,92.808,65.739,181.749,58.005,132.855,88.57,133.5,18.2,77.6,10.6,28.5,5.2,,,,,,,,https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(23)00043-1/fulltext#tbl2
+Europe,Urban,Overall,SANTORINI STUDY overall,EUROPEAN,37,9044,50.271,15.468,81.207,61.872,166.281,54.138,123.998,88.57,133.9,18.1,77.9,10.5,28.3,4.9,,,,,,,,https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(23)00043-1/fulltext#tbl2
+Europe,Urban,Overall,SANTORINI very high risk,EUROPEAN,37,6401,46.404,15.468,77.34,58.005,162.414,50.271,123.998,88.57,134.7,17.8,78.7,10.3,28.2,4.8,,,,,,,,https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(23)00043-1/fulltext#tbl2
+Middle East,Desert,Overall,Saudi Arabia,Saudi,23,550,46,13,104,34.5,182,43,151,65,130,24,80,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+South America,Forest,Men,Shuar Rural Men,SA_Indegenous,-0.5,35,38.2,9.4,90.1,25.3,150.7,34.9,142,103,115.4,13.6,77,7.5,24.8,3.1,14.7,4.8,NA,NA,NA,NA,NA,
+South America,Forest,Women,Shuar Rural Women,SA_Indegenous,-0.5,53,42.9,14.4,88.6,26.3,154.7,36.7,118,71,110.3,9.7,76.4,9.4,24.2,24.8,28.8,4.5,NA,NA,NA,NA,NA,
+South America,Urban,Men,Shuar Urban Men,SA_Indegenous,-0.8,85,52.1,14,85.2,24.4,167,35.6,139,81,121.4,15.9,75.7,8.2,25.2,2.6,16.4,4,NA,NA,NA,NA,NA,
+South America,Urban,Women,Shuar Urban Women,SA_Indegenous,-0.8,142,57.1,14.1,106.8,31.3,186.4,44,118,63,110.2,16.6,71.4,9.7,24.8,3.1,27.7,4.3,NA,NA,NA,NA,NA,https://doi.org/10.3109/03014460.2012.759621
+Asia Pacific region,Urban,Overall,Singapore NHS92,Asian,-2,3223,50.271,11.601,135.345,34.803,204.951,38.67,115.375,71,118,18,NA,NA,23.2,4.2,NA,NA,NA,NA,NA,NA,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.111.028373
+Asia Pacific region,Urban,Men,South Korea Men,Asian,35,4029,48.3,12,109,33.9,183,37.8,131.2,65.9,127.2,17.7,80.1,11.9,22.9,3,NA,NA,NA,NA,NA,NA,NA,https://apjcn.nhri.org.tw/server/apjcn/12/4/411.pdf
+Asia Pacific region,Urban,Women,South Korea Women,Asian,35,4787,51.9,12.6,113,33.7,186.9,37.8,109.9,55,122.7,20.3,75.7,11.7,23,3.4,NA,NA,NA,NA,NA,NA,NA,
+Europe,Urban,Overall,Spain,EUROPEAN,37,51462,52.7,13.94,126.2,34.33,211.01,40.97,149.69,100.01,136.24,18.19,79.36,10.85,29.53,4.83,NA,NA,NA,NA,NA,NA,NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186196
+Asia Pacific region,Urban,Overall,Thailand INTERASIA,Asian,15,4876,46.404,11.601,135.345,42.537,208.818,46.404,142,71,122,20,NA,NA,24.2,4.4,NA,NA,NA,NA,NA,NA,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.111.028373
+Asia Pacific region,Urban,Women,Tibet Female,Tibet,29,232,58.005,15.468,108.6627,27.069,183.6825,38.67,94.075,44.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Asia Pacific region,Urban,Men,Tibet Male,Tibet,29,139,55.2981,19.335,112.143,30.936,182.1357,42.537,112.7125,53.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://www.liebertpub.com/doi/abs/10.1089/ham.2010.1050
+Tibet,Urban,Overall,Tibetian,Tibet,29,587,56.4582,11.601,124.1307,35.5764,197.6037,39.8301,117.15,71,128.88,20.66,81.54,,12.82,25.96,4.15,,NA,NA,NA,NA,NA,https://www.researchsquare.com/article/rs-1183161/v1
+South America,Forest,Overall,Tsimane,Amerindian,-13,356,36.8,8.9,70.6,21.9,138,29.2,NA,NA,NA,NA,NA,NA,23.2,2.9,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1002/ajhb.21074
+Europe,Urban,Overall,UK Biobank - Healthy,EUROPEAN,53,340470,57,14.3,143.6,31.2,227.7,40.6,149.7,85.9,138.7,19.6,82.2,10.7,NA,NA,NA,NA,1.06,0.23,1.55,0.27,NA,https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.119.041149
+Europe,Urban,Overall,UK Biobank - With CVD,EUROPEAN,53,6216,52.3,13.6,150.9,32.3,233.9,42.4,174.6,95.5,148.3,21,85.8,11.2,NA,NA,NA,NA,1.13,0.24,1.47,0.26,NA,
+North America,Urban,Overall,US South Asian,Asian,38,889,50.1,13.3,111.5,32,NA,NA,131.4,71.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://doi.org/10.1186/s12872-019-1045-z
+North America,Urban,Overall,White,White,38,46788,54.138,15.468,146.946,42.537,224.286,46.404,133.125,88.75,130,21,77,12,26.6,4.4,NA,NA,NA,NA,NA,NA,NA,

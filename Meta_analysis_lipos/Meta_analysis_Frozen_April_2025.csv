@@ -1,0 +1,985 @@
+StudyID,Who,Population,Sex,N,Biome,Country,Lattitude,Longitude,Region,SerumLevel_mg_dL,SL_SD_mg_dL,HDL_Chol_mg_dL,HDL_SD_mg_dL,LDL_Chol_mg_dL,LDL_SD_mg_dL,Triglyceride_Chol_mg_dL,Triglyceride_SD_mg_dL,ANCESTRY,study_ID_Ancestry
+GHA4,Phoebe,Ghanaian,M,94,Desert,Ghana,10.7548,-0.187,Africa,117.5568,NA,NA,NA,NA,NA,NA,NA,West_African,GHA4
+GHA4,Phoebe,Ghanaian,F,172,Desert,Ghana,10.7548,-0.187,Africa,125.2908,NA,NA,NA,NA,NA,NA,NA,West_African,GHA4
+NA,Benja,TURKANA_pastoralist,Overall,557,desert,Kenya,3,NA,Africa,152,33,61.8,15.7,71.4,30.8,NA,NA,TURKANA_pastoralist,TURKANA_pastoralist
+BAN5,ABIGAIL,Bantu,M,9,Grassland,South Africa,-29,31,Africa,66,17,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+BAN5,ABIGAIL,Bantu,M,6,Grassland,South Africa,-29,31,Africa,68,12,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+BAN5,ABIGAIL,Bantu,M,16,Grassland,South Africa,-29,31,Africa,73,19,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+BAN5,ABIGAIL,Bantu,M,57,Grassland,South Africa,-29,31,Africa,75,20,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+BAN5,ABIGAIL,Bantu,M,26,Grassland,South Africa,-29,31,Africa,80,21,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+ZUL1,EM,Zulu,M,189,Grassland,South Africa,-27.57,32.08,Africa,154.68,38.67,47.9508,17.0148,85.074,38.67,97.427,61.999,Bantu,ZUL1
+ZUL1,EM,Zulu,F,758,Grassland,South Africa,-27.57,32.08,Africa,158.547,42.537,47.9508,14.6946,92.808,34.803,88.57,61.999,Bantu,ZUL1
+KEN2,Phoebe,Kenyan,M/F,1336,grassland,Kenya,-0.0236,37.9026,Africa,170.148,42.537,NA,NA,NA,NA,NA,NA,East_African,KEN2
+HAD4-A,EM,Hadza,M,6,Savanna,Tanzania,-3.58,35,Africa,77,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,M,6,Savanna,Tanzania,-3.58,35,Africa,82.5,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,15,Savanna,Tanzania,-3.58,35,Africa,89.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,1,Savanna,Tanzania,-3.58,35,Africa,91,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,F,6,Savanna,Tanzania,-3.58,35,Africa,93,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,28,Savanna,Tanzania,-3.58,35,Africa,94.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,19,Savanna,Tanzania,-3.58,35,Africa,95.6,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,M,6,Savanna,Tanzania,-3.58,35,Africa,96.2,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,M,2,Savanna,Tanzania,-3.58,35,Africa,96.5,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,16,Savanna,Tanzania,-3.58,35,Africa,96.8,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,F,5,Savanna,Tanzania,-3.58,35,Africa,97.4,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,6,Savanna,Tanzania,-3.58,35,Africa,97.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,25,Savanna,Tanzania,-3.58,35,Africa,98.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,46,Savanna,Tanzania,-3.58,35,Africa,98.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,6,Savanna,Tanzania,-3.58,35,Africa,98.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,16,Savanna,Tanzania,-3.58,35,Africa,99.9,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,M,9,Savanna,Tanzania,-3.58,35,Africa,100.4,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,20,Savanna,Tanzania,-3.58,35,Africa,101,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,10,Savanna,Tanzania,-3.58,35,Africa,101.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,M,21,Savanna,Tanzania,-3.58,35,Africa,103.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,5,Savanna,Tanzania,-3.58,35,Africa,103.4,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,M,14,Savanna,Tanzania,-3.58,35,Africa,104.5,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,F,3,Savanna,Tanzania,-3.58,35,Africa,104.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,8,Savanna,Tanzania,-3.58,35,Africa,105.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,9,Savanna,Tanzania,-3.58,35,Africa,105.6,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,16,Savanna,Tanzania,-3.58,35,Africa,106.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,30,Savanna,Tanzania,-3.58,35,Africa,106.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,7,Savanna,Tanzania,-3.58,35,Africa,107,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,12,Savanna,Tanzania,-3.58,35,Africa,107.2,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,17,Savanna,Tanzania,-3.58,35,Africa,109.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,7,Savanna,Tanzania,-3.58,35,Africa,109.9,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,16,Savanna,Tanzania,-3.58,35,Africa,110.2,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,34,Savanna,Tanzania,-3.58,35,Africa,112,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,19,Savanna,Tanzania,-3.58,35,Africa,113.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,F,7,Savanna,Tanzania,-3.58,35,Africa,113.6,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,M,29,Savanna,Tanzania,-3.58,35,Africa,113.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,F,3,Savanna,Tanzania,-3.58,35,Africa,114,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,M,7,Savanna,Tanzania,-3.58,35,Africa,114.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,M,7,Savanna,Tanzania,-3.58,35,Africa,115.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-D,EM,Hadza,F,27,Savanna,Tanzania,-3.58,35,Africa,115.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,F,7,Savanna,Tanzania,-3.58,35,Africa,116.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,8,Savanna,Tanzania,-3.58,35,Africa,117.1,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,M,9,Savanna,Tanzania,-3.58,35,Africa,117.7,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+NIA1-A,EM,Moslem,M,23,Savanna,Nigeria,11.3,8.4,Africa,118.8,43.9,NA,NA,NA,NA,NA,NA,West_African,NIA1-A
+HAD4-C,EM,Hadza,M,5,Savanna,Tanzania,-3.58,35,Africa,119.2,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-B,EM,Hadza,F,15,Savanna,Tanzania,-3.58,35,Africa,122.8,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-C,EM,Hadza,M,6,Savanna,Tanzania,-3.58,35,Africa,129.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+HAD4-A,EM,Hadza,M,4,Savanna,Tanzania,-3.58,35,Africa,138.3,NA,NA,NA,NA,NA,NA,NA,East_Africa_HG,HAD4-A
+TAN7-B,Gisele,Tanzanian,M,245,Savanna,Tanzania,-6.8227,39.3024,Africa,139.212,38.67,34.803,11.601,77.34,30.936,132.855,70.856,East_African,TAN7-A
+NA,Benja,Ghana_Rural_Male,Men,469,Savanna,NA,8,NA,Africa,142.2,36.4,44.5,14.7,76.4,27.3,NA,NA,West_African,GHN
+TAN7-B,Gisele,Tanzanian,F,256,Savanna,Tanzania,-6.8227,39.3024,Africa,146.946,42.537,38.67,15.468,81.207,34.803,123.998,53.142,East_African,TAN7-A
+KEN6,Victoria,Kenyan,F,818,Savanna,Africa,-0.0236,37.9062,Africa,146.946,NA,42.537,NA,85.074,NA,70.856,NA,East_African,KEN2
+KEN6,Victoria,Kenyan,M,579,Savanna,Africa,-0.0236,37.9062,Africa,150.813,NA,42.537,NA,88.941,NA,79.713,NA,East_African,KEN2
+NA,Benja,Ghana_Rural_Female,Women,583,Savanna,NA,8,NA,Africa,152.3,36.9,46.5,15.9,88.6,32.3,NA,NA,West_African,GHN
+TAN7-A,Gisele,Tanzanian,M,259,Savanna,Tanzania,-6.9488,39.445,Africa,174.015,42.537,42.537,11.601,104.409,38.67,159.426,106.284,East_African,TAN7-A
+TAN7-A,Gisele,Tanzanian,F,225,Savanna,Tanzania,-6.9488,39.445,Africa,174.015,38.67,46.404,11.601,104.409,34.803,123.998,88.57,East_African,TAN7-A
+TUR1,EM,Turkana,M,10,Savanna,Kenya,3.31,35.6,Africa,177,34,NA,NA,NA,NA,132,38,Nilote,TUR1
+SMU1,EM,Samburu,M,45,Savanna,Kenya,0.673,37.6,Africa,179,34,NA,NA,NA,NA,120,43,Samburu,SMU1
+TUR1,EM,Turkana,M,16,Savanna,Kenya,3.31,35.6,Africa,183,48,NA,NA,NA,NA,137,45,Nilote,TUR1
+TUR1,EM,Turkana,M,17,Savanna,Kenya,3.31,35.6,Africa,185,50,NA,NA,NA,NA,144,41,Nilote,TUR1
+SMU1,EM,Samburu,M,34,Savanna,Kenya,0.673,37.6,Africa,191,42,NA,NA,NA,NA,119,38,Samburu,SMU1
+SMU1,EM,Samburu,M,17,Savanna,Kenya,0.673,37.6,Africa,192,51,NA,NA,NA,NA,136,74,Samburu,SMU1
+SMU1,EM,Samburu,M,43,Savanna,Kenya,0.673,37.6,Africa,193,48,NA,NA,NA,NA,115,51,Samburu,SMU1
+SMU1,EM,Samburu,M,21,Savanna,Kenya,0.673,37.6,Africa,198,33,NA,NA,NA,NA,104,28,Samburu,SMU1
+TUR1,EM,Turkana,M,10,Savanna,Kenya,3.31,35.6,Africa,198,44,NA,NA,NA,NA,120,60,Nilote,TUR1
+SMU1,EM,Samburu,M,22,Savanna,Kenya,0.673,37.6,Africa,201,43,NA,NA,NA,NA,121,43,Samburu,SMU1
+REN1,EM,Rendille,M,16,Savanna,Kenya,2.46,37.96,Africa,208,47,NA,NA,NA,NA,174,68,Cushite,REN1
+REN1,EM,Rendille,M,3,Savanna,Kenya,2.46,37.96,Africa,217,NA,NA,NA,NA,NA,210,NA,Cushite,REN1
+REN1,EM,Rendille,M,24,Savanna,Kenya,2.46,37.96,Africa,229,60,NA,NA,NA,NA,154,73,Cushite,REN1
+REN1,EM,Rendille,M,14,Savanna,Kenya,2.46,37.96,Africa,234,34,NA,NA,NA,NA,118,33,Cushite,REN1
+REN1,EM,Rendille,M,25,Savanna,Kenya,2.46,37.96,Africa,237,57,NA,NA,NA,NA,136,60,Cushite,REN1
+REN1,EM,Rendille,M,19,Savanna,Kenya,2.46,37.96,Africa,259,59,NA,NA,NA,NA,129,30,Cushite,REN1
+BAN7-A,Ashley,Bantu,M/F,618,Savanna,Tanzania,-6.369,34.8888,Africa,NA,NA,32.8695,12.3744,NA,NA,80.5987,38.9708,Bantu,BAN3
+BAN7-B,Ashley,Banta,M/F,645,Savanna,Tanzania,-6.369,34.8888,Africa,NA,NA,37.8966,11.2143,NA,NA,117.7981,65.5418,NA,NA
+TAN5,Ashley,Tanzanian,M,97,Savanna,Tanzania,-2.5164,32.9175,Africa,NA,NA,NA,NA,NA,NA,NA,NA,East_African,TAN7-A
+NAM1,Phoebe,Namibian,M/F,1714,savannah,Namibian,-22.9576,18.4904,Africa,170.148,27.069,NA,NA,NA,NA,NA,NA,South_African,NAM1
+NIG3,West_African,Nigerian,F,26,Swamp forest,Nigeria,4.98,8.34,Africa,174.4,75.1,62.4,34.6,83.6,67.1,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,M,23,Swamp forest,Nigeria,4.98,8.34,Africa,190.1,64.9,71.3,32,90.7,63.4,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,M,23,Swamp forest,Nigeria,4.98,8.34,Africa,219.9,76.8,91.2,27.7,96.4,82.5,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,F,26,Swamp forest,Nigeria,4.98,8.34,Africa,228.6,75.6,77.6,32.5,116.8,75.5,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,F,26,Swamp forest,Nigeria,4.98,8.34,Africa,252.4,87.1,85.2,14.9,130.1,79.1,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,F,26,Swamp forest,Nigeria,4.98,8.34,Africa,255.1,58.3,91.2,20,121.5,72,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,M,23,Swamp forest,Nigeria,4.98,8.34,Africa,258.2,101.5,84.9,30.5,140.1,98.2,NA,NA,West_African,NIA1-C
+NIG3,West_African,Nigerian,M,23,Swamp forest,Nigeria,4.98,8.34,Africa,260,108,96.6,25,131.3,110.1,NA,NA,West_African,NIA1-C
+NIA1-C,EM,Nigerian,M,9,Temperate Shrubland,Nigeria,9.25,7.87,Africa,119.9,33.7,NA,NA,NA,NA,NA,NA,West_African,NIA1-C
+NIA1-B,EM,Ibo,M,14,Temperate Shrubland,Nigeria,9.7,12.3,Africa,129.9,40.9,NA,NA,NA,NA,NA,NA,West_African,NIA1-B
+FUL1,FION,Fulani,M,42,Temperate Shrubland,Nigeria,9.081999,8.675277,Africa,135.345,30.936,34.0296,10.4409,71.1528,27.069,143.4834,78.8273,West_African,FUL1
+FUL1,FION,Fulani,F,79,Temperate Shrubland,Nigeria,9.081999,8.675277,Africa,135.345,28.2291,41.3769,10.4409,72.6996,20.1084,105.3983,47.8278,West_African,FUL1
+FUL2,Phoebe,Fulani,M,41,Temperate Shrubland,Northern Nigeria,9.081999,8.675277,Africa,136,31.3,33.9,10.8,71,26.5,143,79.2,West_African,FUL1
+JOS1,Phoebe,jos,M,118,Temperate Shrubland,Northern Nigeria,9.8965,8.8683,Africa,157,36.4,50.4,13.4,82.1,33.1,121,73.5,West_African,JOS1
+ABU1,Phoebe,Abuja,M,77,Temperate Shrubland,Northern Nigeria,9.0765,7.3986,Africa,184,49.1,51.6,12.1,113,44.5,111,59.5,West_African,ABU1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,88.8,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,97.9,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,99.1,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,100.3,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,101.9,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,103.9,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,104.4,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,107,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,110.7,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,M,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,110.8,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,111.9,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,115.7,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,117,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+PCON1,ESTHER,Congo Pygmies,F,15,Tropical Rainforest,Congo,4.0383,21.7587,Africa,118.1,NA,NA,NA,NA,NA,NA,NA,Congo_Pygmies,PCON1
+TAN1-B,AYANA,Bantu,M/F,371,Tropical Rainforest,Tanzania,-6.82745,39.25898,Africa,139.212,41.3769,35.1897,12.7611,78.5001,34.4163,128.4265,59.3419,Bantu,BAN3
+TAN1-C,AYANA,Bantu,M/F,484,Tropical Rainforest,Tanzania,-6.81492,39.28841,Africa,174.015,40.6035,41.7636,12.7611,104.0223,36.3498,142.5977,100.0841,Bantu,BAN3
+GHA9-B,Emily,Rural Ashanti,M/F,360,Tropical Rainforest,Ghana,6.5337,-1.4048,Africa,185.616,NA,38.67,NA,119.877,NA,119.5695,NA,West_African,GHA10
+GHA9-A,Emily,Urban Ashanti,M/F,312,Tropical Rainforest,Ghana,6.6666,-1.6163,Africa,193.35,NA,38.67,NA,131.478,NA,106.284,NA,West_African,GHA11
+BAN4,AYANA,Bantu,M/F,22,Tropical Rainforest,Camaroon,7.3697219,12.354722,Africa,NA,NA,24,5,144,10,80,18,Bantu,BAN3
+HAD3,CB,Hadza,M/F,64,Tropical Rainforest,Tanzania,-6.3728253,34.8924826,Africa,NA,NA,34,NA,62,NA,NA,NA,East_Africa_HG,HAD4-A
+PYG1-A,AYANA,Pygmies,M/F,20,Tropical Rainforest,Camaroon,7.3697219,12.354722,Africa,NA,NA,49,4,85,5,83,6,NA,NA
+NA,Benja,Ghana_Urban_Males,Men,972,Urban,NA,8,NA,Africa,170.6,42.5,43.5,13.3,106.3,34.1,NA,NA,West_African,GHN
+NA,Benja,Ghana_Urban_Females,Women,1293,Urban,NA,8,NA,Africa,181.8,42.1,49.2,14.6,113.9,37.6,NA,NA,West_African,GHN
+NA,Benja,Botswana Urban women,Women,287,Urban,NA,-23,NA,Africa,184.4559,NA,49.1109,NA,136.8918,NA,NA,NA,South_African,BOT1
+NA,Benja,Nigeria Urban,Overall,205,Urban,NA,8,NA,Africa,190.2564,38.67,58.005,22.8153,109.4361,35.5764,NA,NA,West_African,NIG5
+NA,Benja,Botswana Urban men,Men,114,Urban,NA,-23,NA,Africa,192.9633,NA,49.1109,NA,121.4238,NA,NA,NA,South_African,BOT1
+NA,Benja,Kenya Nairobi,Overall,2003,Urban,NA,-1,NA,Africa,NA,NA,48.7242,18.1749,117.1701,44.0838,NA,NA,East_African,NBO
+MAAS3,FION,Maasai,M,3,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,113.7,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,36,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,114.7,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,94,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,114.8,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,149,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,129.6,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,79,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,129.9,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+BAN1-D,KIKI,Kung! Bushmen,,14,Warm-temperate desert,Botswana,-19,24.684866,Africa,130,25,NA,NA,NA,NA,95,NA,South_Africa_HG,BAN1-D
+MAAS3,FION,Maasai,M,27,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,130.2,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,14,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,131.4,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS3,FION,Maasai,M,15,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,133.4,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+BAN1-A,KIKI,Bantu migrant workers,,43,Warm-temperate desert,Botswana,-19,22.937506,Africa,143,30,NA,NA,NA,NA,92,NA,Bantu,BAN1
+MAAS3,FION,Maasai,M,16,Warm-temperate desert,Northern Tanzania,-6.369,34.8888,Africa,143.9,NA,NA,NA,NA,NA,NA,NA,Nilote,MAAS3
+MAAS4-A,EM,Maasai,M,27,Warm-temperate desert,Kenya,-1.84,36.4,Africa,160.19,46.93,NA,NA,NA,NA,144.04,74.14,Nilote,MAAS3
+MAAS5,EM,Maasai,M,57,Warm-temperate desert,Kenya,-2.2,37.6,Africa,184.4559,31.3227,40.6035,11.9877,NA,NA,NA,NA,Nilote,MAAS3
+BAN1-B,KIKI,Bantu medical students,,14,Warm-temperate desert,Botswana,-19,22.937506,Africa,197,24,NA,NA,NA,NA,95,NA,Bantu,BAN1
+BAN1-C,KIKI,Bantu hospital workers,,50,Warm-temperate desert,Botswana,-19,22.937506,Africa,197,54,NA,NA,NA,NA,132,NA,Bantu,BAN1
+MAAS4-B,EM,Maasai,M,26,Warm-temperate desert,Kenya,-1.17,36.49,Africa,202.88,47.33,NA,NA,NA,NA,158.85,68.12,Nilote,MAAS3
+SWU1,"FION,BEVERLY",South Western Uganda,M,1085,,Uganda,1.373333,32.290275,Africa,112.143,NA,30.936,NA,65.739,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,M,558,,Uganda,1.373333,32.290275,Africa,119.877,NA,34.803,NA,69.606,NA,NA,NA,Bantu,SWU1
+SWU1,"FION, BEVERLY",South Western Uganda,F,1013,,Uganda,1.373333,32.290275,Africa,127.611,NA,34.803,NA,73.473,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,M,455,,Uganda,1.373333,32.290275,Africa,135.345,NA,38.67,NA,77.34,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,F,711,,Uganda,1.373333,32.290275,Africa,135.345,NA,38.67,NA,77.34,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,M,407,,Uganda,1.373333,32.290275,Africa,139.212,NA,42.537,NA,73.473,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,F,679,,Uganda,1.373333,32.290275,Africa,143.079,NA,42.537,NA,81.207,NA,NA,NA,Bantu,SWU1
+SWU1,"FION, BEVERLY",South Western Uganda,M,566,,Uganda,1.373333,32.290275,Africa,143.079,NA,42.537,NA,77.34,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,F,551,,Uganda,1.373333,32.290275,Africa,146.946,NA,42.537,NA,85.074,NA,NA,NA,Bantu,SWU1
+SWU1,FION,South Western Uganda,F,842,,Uganda,1.373333,32.290275,Africa,162.414,NA,42.537,NA,96.675,NA,NA,NA,Bantu,SWU1
+NA,Benja,Inuits WATCH study_Males,Men,1845,Tundra,NA,63,NA,ALASKA general,NA,NA,55.5,16.8,125.6,39.1,NA,NA,Circumpolar,WATCH
+NA,Benja,Inuits WATCH study_Females,Women,2140,Tundra,NA,63,NA,ALASKA general,NA,NA,63.9,18.1,125.6,39.1,NA,NA,Circumpolar,WATCH
+INU13,Victoria,Inuit,M,1272,Arctic Tundra,Greenland,71.7069,-42.6043,Arctic,224.286,NA,58.005,NA,139.212,NA,88.57,NA,Circumpolar,INU13
+INU13,Victoria,Inuit,F,1161,Arctic Tundra,Greenland,71.7069,-42.6043,Arctic,224.286,NA,65.739,NA,135.345,NA,88.57,NA,Circumpolar,INU13
+CHN13,Phoebe,Kazak,F,548,Grassland,CHina,40.109102,85.671277,Asia,196.9,NA,50.2,NA,73.4,NA,NA,NA,Central_Asian,CHN13
+CHN13,Phoebe,Kazak,M,380,Grassland,CHina,40.109102,85.671277,Asia,208.5,NA,42.4,NA,88.8,NA,NA,NA,Central_Asian,CHN13
+CHN11,Phoebe,Chinese,F,603,subtripical rainforest,China,22.3193,114.1694,Asia,185.2293,1.5468,NA,NA,NA,NA,NA,NA,Chinese,CHN10
+CHN10,Phoebe,Chinese,M/F,1679,subtripical rainforest,China,22.3193,114.1694,Asia,193.35,34.803,50.271,11.601,NA,NA,NA,61.999,Chinese,CHN10
+CHN11,Phoebe,Chinese,M,910,subtripical rainforest,China,22.3193,114.1694,Asia,203.0175,1.1601,NA,NA,NA,NA,NA,NA,Chinese,CHN10
+CHN19-C,Gisele,Chinese,M,100,Subtropical forest,Taiwan,23.6978,120.9605,Asia,188.4,5.41,33,1.4,NA,NA,NA,NA,Chinese,CHN10
+CHN19-C,Gisele,Chinese,F,98,Subtropical forest,Taiwan,23.6978,120.9605,Asia,205.9,5.68,35.8,1.65,NA,NA,NA,NA,Chinese,CHN10
+YAK1-B,Emily,Yakut (urban),M,52,taiga,Russia,61.105348,127.364869,Asia,164.8,38.9,44.3,13.4,103.7,32.3,84,39.2,Siberian,YAK1-B
+YAK1-B,Emily,Yakut (urban),F,76,taiga,Russia,61.105348,127.364869,Asia,176.6,39,51.9,15.5,109.2,31.6,80.1,47.7,Siberian,YAK1-B
+YAK1-A,Emily,Yakut (rural),F,52,taiga,Russia,61.105348,127.364869,Asia,182.1,34.3,47.1,14.3,119.7,29.4,75.9,32.3,Siberian,YAK1-A
+YAK1-A,Emily,Yakut (rural),M,21,taiga,Russia,61.105348,127.364869,Asia,184.4,33.9,41.9,11.9,121.3,30.1,106.1,52.1,Siberian,YAK1-A
+TURK3,Ashley,Turks,M,1492,Temperate,Turkey,41.0082,28.9784,Asia,NA,NA,37.5,11.5,114,32,NA,NA,Middle_Eastern_Ancestry,TRK2
+TURK3,Ashley,Turks,F,1543,Temperate,Turkey,41.0082,28.9784,Asia,NA,NA,47.5,12.8,119,34,NA,NA,Middle_Eastern_Ancestry,TRK2
+KOR1-A,Phoebe,Korean,M,2240,temperate deciduous forest,Korea,35.9078,127.7669,Asia,188.1,35.9,49.2,12.7,110.7,38.2,NA,124.3,East_Asian,KOR1-A
+KOR1-A,Phoebe,Korean,F,2784,temperate deciduous forest,Korea,35.9078,127.7669,Asia,198,36.1,50.2,11.8,121.3,34.2,NA,94.7,East_Asian,KOR1-A
+KOR1-B,Phoebe,Korean,F,2497,temperate deciduous forest,Korea,35.9078,127.7669,Asia,200.7,37.4,52,11.8,124,34.6,NA,82.8,East_Asian,KOR1-A
+KOR1-B,Phoebe,Korean,M,2523,temperate deciduous forest,Korea,35.9078,127.7669,Asia,206.3,35.5,46.6,10.4,130.2,35.8,NA,112.9,East_Asian,KOR1-A
+JAP4,Phoebe,Japanese,M,71,temperate rainforest,Japan,36.2048,138.2529,Asia,198.1,38.8,56.2,13.9,112.9,30.2,NA,150,Japanese,JAP4
+JAP4,Phoebe,Japanese,F,113,temperate rainforest,Japan,36.2048,138.2529,Asia,217.1,35.1,55.9,10.7,132.9,26.7,NA,81.7,Japanese,JAP4
+TURK2-A,Ashley,Turks,M,27,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,35.4,10,NA,NA,106,67,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,M,346,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,35.6,11,NA,NA,150,99,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,M,319,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,36.3,12,NA,NA,163,101,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,M,233,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,37.4,11,NA,NA,143,88,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,M,199,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,39.2,13,NA,NA,131,79,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,M,87,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,42,14,NA,NA,115,50,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,352,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,42.7,12,NA,NA,106,63,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,34,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,44.2,13,NA,NA,59,49,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,337,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,44.4,13,NA,NA,125,68,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,252,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,44.8,11,NA,NA,137,83,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,72,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,46.5,11,NA,NA,142,86,Middle_Eastern_Ancestry,TRK2
+TURK2-A,Ashley,Turks,F,214,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,49,15,NA,NA,157,93,Middle_Eastern_Ancestry,TRK2
+TURK2-B,Ashley,Turks,M,705,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,NA,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+TURK2-B,Ashley,Turks,F,760,Temperate rainforest,Turkey,38.9637,35.2433,Asia,NA,NA,NA,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+VIE3,Phoebe,Kinh,F,4770,Tropical and Subtropical Moist Broadleaf Forests,Vietnam,14.0583,108.2772,Asia,181.749,27.069,NA,NA,NA,NA,NA,NA,East_Asian,VIE3
+VIE3,Phoebe,Kinh,M,3989,Tropical and Subtropical Moist Broadleaf Forests,Vietnam,14.0583,108.2772,Asia,181.749,27.069,NA,NA,NA,NA,NA,NA,East_Asian,VIE3
+VIE3,Phoebe,Kinh,M,2815,Tropical and Subtropical Moist Broadleaf Forests,Vietnam,14.0583,108.2772,Asia,185.616,30.936,NA,NA,NA,NA,NA,NA,East_Asian,VIE3
+TAI1-C,Phoebe,Taiwanese aborigines,M,154,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,188.2,74.4,NA,NA,NA,NA,NA,67.6,Taiwanese,TAI1-C
+VIE3,Phoebe,Kinh,F,3132,Tropical and Subtropical Moist Broadleaf Forests,Vietnam,14.0583,108.2772,Asia,201.084,30.936,NA,NA,NA,NA,NA,NA,East_Asian,VIE3
+TAI1-B,Phoebe,Fukiens,M,182,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,203.4,28.3,NA,NA,NA,NA,NA,58.8,Chinese,TAI1-B
+TAI1-A,Phoebe,Hakaas,M,204,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,206.3,84.3,NA,NA,NA,NA,NA,61.6,Chinese,TAI1-A
+TAI1-B,Phoebe,Fukiens,F,258,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,209.1,61.9,NA,NA,NA,NA,NA,57.8,Chinese,TAI1-B
+TAI1-C,Phoebe,Taiwanese aborigines,F,258,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,209.8,38,NA,NA,NA,NA,NA,68.9,Taiwanese,TAI1-C
+TAI1-A,Phoebe,Hakaas,F,264,tropical and subtropical moist broadleaf forests,China,23.6978,120.9605,Asia,220.6,81.6,NA,NA,NA,NA,NA,59.6,Chinese,TAI1-A
+CAN1,VEDHIKA,Rural Chinese,M/F,3,Tropical Desert,China,23,113,Asia,124.9041,NA,NA,NA,NA,NA,41.6279,NA,Chinese,CAN1
+CAN1,VEDHIKA,Rural Chinese,M/F,1,Tropical Desert,China,23,113,Asia,136.8918,NA,NA,NA,NA,NA,82.3701,NA,Chinese,CAN1
+CAN1,VEDHIKA,Rural Chinese,M/F,14,Tropical Desert,China,23,113,Asia,155.8401,NA,NA,NA,NA,NA,58.4562,NA,Chinese,CAN1
+CHN19-A,Gisele,Chinese,M,150,Tropical desert,China,23.1291,113.2644,Asia,159.2,3.2,46.2,1.5,NA,NA,NA,NA,Chinese,CHN10
+CHN19-A,Gisele,Chinese,F,150,Tropical desert,China,23.1291,113.2644,Asia,160.8,3.58,44.2,0.92,NA,NA,NA,NA,Chinese,CHN10
+CAN1,VEDHIKA,Rural Chinese,M/F,14,Tropical Desert,China,23,113,Asia,163.5741,NA,NA,NA,NA,NA,87.6843,NA,Chinese,CAN1
+CHN19-B,Gisele,Chinese,F,92,Tropical desert,China,26.6476,106.6302,Asia,164,4.81,45.9,1.21,NA,NA,NA,NA,Chinese,CHN10
+SID1-B,"EM,BEVERLY",South Indian,M/F,783,Tropical Desert,India,13.03,80.23,Asia,165.5076,36.7365,NA,NA,NA,NA,112.4839,69.9703,SA_Indegenous,SID1-A
+CAN1,VEDHIKA,Rural Chinese,M/F,16,Tropical Desert,China,23,113,Asia,165.5076,NA,NA,NA,NA,NA,72.6274,NA,Chinese,CAN1
+CAN1,VEDHIKA,Rural Chinese,M/F,16,Tropical Desert,China,23,113,Asia,169.3746,NA,NA,NA,NA,NA,86.7986,NA,Chinese,CAN1
+CAN1,VEDHIKA,Rural Chinese,M/F,"24, 8",Tropical Desert,China,23,113,Asia,175.5618,NA,NA,NA,NA,NA,NA,NA,Chinese,CAN1
+CHN19-B,Gisele,Chinese,M,98,Tropical desert,China,26.6476,106.6302,Asia,176.7,7.01,44.6,1.01,NA,NA,NA,NA,Chinese,CHN10
+SID1-A,"EM,BEVERLY",South Indian,M/F,479,Tropical Desert,India,13.09,80.2,Asia,190.2564,39.8301,NA,NA,NA,NA,132.855,79.713,SA_Indegenous,SID1-A
+CAN1,VEDHIKA,Rural Chinese,M/F,8,Tropical Desert,China,23,113,Asia,205.3377,NA,NA,NA,NA,NA,95.6556,NA,Chinese,CAN1
+CHN15-C,Ashley,Chinese Rural,F,,Tropical desert,China,23.1291,113.2644,Asia,NA,NA,53,13,99,32,100,74,NA,NA
+CHN15-B,Ashley,Chinese Urban,M,,Tropical desert,China,23.1291,113.2644,Asia,NA,NA,54,15,117,38,126,102,NA,NA
+CHN15-C,Ashley,Chinese Rural,M,,Tropical desert,China,23.1291,113.2644,Asia,NA,NA,54,16,98,33,115,82,NA,NA
+CHN15-B,Ashley,Chinese Urban,F,,Tropical desert,China,23.1291,113.2644,Asia,NA,NA,58,14,117,38,129,108,NA,NA
+MALA5,CB,Malay,M,17,Tropical Rainforest,Malaysia,5,103,Asia,56,49,NA,NA,NA,NA,145,93,Malaysian,MALA11
+MALA5,CB,Malay,M,31,Tropical Rainforest,Malaysia,5,103,Asia,141,31,NA,NA,NA,NA,136,47,Malaysian,MALA11
+CHN9,EM,Chinese,M/F,246,Tropical Rainforest,China,30.53,117.12,Asia,141.7,NA,62.1,NA,61.7,NA,91.5,NA,Chinese,CHN10
+CHN9,EM,Chinese,M/F,995,Tropical Rainforest,China,30.53,117.12,Asia,151.8,NA,60.8,NA,73.2,NA,89.9,NA,Chinese,CHN10
+MALA9-D,Emily,Kensiu,M,7,tropical rainforest,Malaysia,5.777649,100.908823,Asia,153.5199,3.0936,NA,NA,NA,NA,NA,NA,Austroasiatic,MALA9-D
+CHN9,EM,Chinese,M/F,546,Tropical Rainforest,China,30.53,117.12,Asia,154.6,NA,61.8,NA,73.2,NA,97.9,NA,Chinese,CHN10
+MALA5,CB,Malay,M,25,Tropical Rainforest,Malaysia,5,103,Asia,156,34,NA,NA,NA,NA,165,74,Malaysian,MALA11
+BGD1-B,EM,Bangladeshi,M/F,499,Tropical Rainforest,Bangladesh,24.63,90.27,Asia,156.36,52.85,41.14,14.4,NA,NA,161.46,84.05,Bangladeshi,BGD1
+CHN9,EM,Chinese,M/F,378,Tropical Rainforest,China,30.53,117.12,Asia,161.6,NA,67.3,NA,75.4,NA,101.7,NA,Chinese,CHN10
+BGD1-A,EM,Bangladeshi,M/F,1060,Tropical Rainforest,Bangladesh,24.63,90.27,Asia,162.51,65.11,39.47,13.8,NA,NA,166.59,94.99,Bangladeshi,BGD1
+CHN9,EM,Chinese,M/F,287,Tropical Rainforest,China,30.53,117.12,Asia,165,NA,66.5,NA,79.9,NA,92.5,NA,Chinese,CHN10
+MALA9-D,Emily,Kensiu,F,6,tropical rainforest,Malaysia,5.777649,100.908823,Asia,166.6677,15.8547,NA,NA,NA,NA,NA,NA,Austroasiatic,MALA9-D
+CHN9,EM,Chinese,M/F,90,Tropical Rainforest,China,30.53,117.12,Asia,167.6,NA,62,NA,89,NA,90.2,NA,Chinese,CHN10
+DEL1-B,EM,Indian,M,27,Tropical Rainforest,India,28.61,77.21,Asia,170,18,50,11,90,18,152,28,Indian,DEL1-A
+DEL1-B,EM,Indian,F,93,Tropical Rainforest,India,28.61,77.21,Asia,171,20,51,9,96,21,120,22,Indian,DEL1-A
+MRW1,Gisele,Marwari,F,306,Tropical rainforest,India,22.5726,88.3639,Asia,171.18,NA,NA,NA,NA,NA,NA,NA,Indian,MRW1
+MALA9-C,Emily,Jehai,M,16,tropical rainforest,Malaysia,5.432135,101.07865,Asia,171.6948,17.7882,NA,NA,NA,NA,NA,NA,Negrito,MALA9-C
+MALA11,EM,Malay,M,111,Tropical Rainforest,Malaysia,2.8,113.88,Asia,172.8549,28.6158,NA,NA,NA,NA,NA,NA,Malaysian,MALA11
+MALA9-A,Emily,Bidayuh,M,19,tropical rainforest,Malaysia,1.382561,110.06311,Asia,173.2416,25.9089,NA,NA,NA,NA,NA,NA,Austronesian,MALA9-A
+DEL1-B,EM,Indian,F,63,Tropical Rainforest,India,28.61,77.21,Asia,175,20,51,10,94,17,151,26,Indian,DEL1-A
+DEL1-B,EM,Indian,M,31,Tropical Rainforest,India,28.61,77.21,Asia,175,36,52,12,97,36,128,29,Indian,DEL1-A
+MALA9-C,Emily,Jehai,F,9,tropical rainforest,Malaysia,5.432135,101.07865,Asia,176.7219,29.3892,NA,NA,NA,NA,NA,NA,Negrito,MALA9-C
+MRW1,Gisele,Marwari,M,353,Tropical rainforest,India,22.5726,88.3639,Asia,176.864,NA,NA,NA,NA,NA,NA,NA,Indian,MRW1
+DEL1-B,EM,Indian,M,17,Tropical Rainforest,India,28.61,77.21,Asia,179,22,49,11,99,21,155,34,Indian,DEL1-A
+MALA11,EM,Malay,F,127,Tropical Rainforest,Malaysia,2.8,113.88,Asia,179.0421,33.6429,NA,NA,NA,NA,NA,NA,Malaysian,MALA11
+MALA9-B,Emily,Temuan,F,21,tropical rainforest,Malaysia,2.771267,102.216302,Asia,183.2958,23.202,NA,NA,NA,NA,NA,NA,Austroasiatic,MALA9-B
+DEL1-B,EM,Indian,F,56,Tropical Rainforest,India,28.61,77.21,Asia,185,31,54,9,103,30,138,24,Indian,DEL1-A
+DEL1-B,EM,Indian,F,47,Tropical Rainforest,India,28.61,77.21,Asia,186,38,52,10,104,39,151,29,Indian,DEL1-A
+MALA9-A,Emily,Bidayuh,F,28,tropical rainforest,Malaysia,1.382561,110.06311,Asia,187.1628,21.6552,NA,NA,NA,NA,NA,NA,Austronesian,MALA9-A
+NAN1-A,KIKI,Nangapandans (Helminth infected),M/F,446,Tropical Rainforest,Indonesia,-7,121,Asia,189.483,42.537,58.005,15.468,119.877,38.67,115.141,61.999,Austronesian,NAN1-A
+MALA9-B,Emily,Temuan,M,11,tropical rainforest,Malaysia,2.771267,102.216302,Asia,193.35,40.6035,NA,NA,NA,NA,NA,NA,Austroasiatic,MALA9-B
+DEL1-B,EM,Indian,M,25,Tropical Rainforest,India,28.61,77.21,Asia,194,35,50,12,116,40,142,26,Indian,DEL1-A
+DEL1-A,EM,Indian,F,309,Tropical Rainforest,India,28.61,77.21,Asia,194,37,NA,NA,NA,NA,108,47,Indian,DEL1-A
+NAN1-B,KIKI,Nangapandans (not infected),M/F,229,Tropical Rainforest,Indonesia,-7,121,Asia,197.217,46.404,61.872,15.468,127.611,42.537,106.284,61.999,Austronesian,NAN1-B
+DEL1-A,EM,Indian,M,225,Tropical Rainforest,India,28.61,77.21,Asia,198,39,NA,NA,NA,NA,123,28,Indian,DEL1-A
+DEL1-A,EM,Indian,M,158,Tropical Rainforest,India,28.61,77.21,Asia,202,39,NA,NA,NA,NA,133,57,Indian,DEL1-A
+DEL1-A,EM,Indian,F,257,Tropical Rainforest,India,28.61,77.21,Asia,203,40,NA,NA,NA,NA,126,51,Indian,DEL1-A
+DEL1-A,EM,Indian,M,158,Tropical Rainforest,India,28.61,77.21,Asia,210,43,NA,NA,NA,NA,150,57,Indian,DEL1-A
+DEL1-A,EM,Indian,M,140,Tropical Rainforest,India,28.61,77.21,Asia,211,46,NA,NA,NA,NA,168,52,Indian,DEL1-A
+DEL1-A,EM,Indian,F,282,Tropical Rainforest,India,28.61,77.21,Asia,215,47,NA,NA,NA,NA,154,52,Indian,DEL1-A
+DEL1-A,EM,Indian,F,236,Tropical Rainforest,India,28.61,77.21,Asia,217,42,NA,NA,NA,NA,168,53,Indian,DEL1-A
+ORA3-D,AYANA,Orang Asli,M,2,Tropical Rainforest,Peninsular Malyasia,1.818275,103.514601,Asia,NA,NA,27.069,0,83.1405,13.5345,NA,NA,NA,NA
+ORA3-D,AYANA,Orang Asli,F,9,Tropical Rainforest,Peninsular Malyasia,1.818275,103.514601,Asia,NA,NA,34.803,11.601,130.7046,23.9754,NA,NA,NA,NA
+ORA5-F,EM,Mendriq,M/F,48,Tropical Rainforest,Malaysia,4.8,101,Asia,NA,NA,34.803,NA,NA,NA,117.7981,NA,NA,NA
+FIL2-C,Phoebe,Filipino,F,654,Tropical Rainforest,Philippines,10.61,123.89,Asia,NA,NA,35.5,NA,106.1,NA,NA,NA,NA,NA
+ORA5-G,EM,Batek,M/F,44,Tropical Rainforest,Malaysia,4.8,101,Asia,NA,NA,36.7365,NA,NA,NA,103.6269,NA,NA,NA
+FIL2-E,Phoebe,Filipino,F,241,Tropical Rainforest,Philippines,10.61,123.89,Asia,NA,NA,38.1,NA,132.1,NA,NA,NA,NA,NA
+ORA3-A,AYANA,Orang Asli,M,19,Tropical Rainforest,Peninsular Malyasia,3.705986,102.27917,Asia,NA,NA,38.2833,6.9606,90.4878,32.8695,NA,NA,NA,NA
+ORA5-B,EM,Jakun,M/F,70,Tropical Rainforest,Malaysia,4.5,101.4,Asia,NA,NA,38.2833,NA,NA,NA,119.5695,NA,NA,NA
+ORA3-F,AYANA,Orang Asli,M,19,Tropical Rainforest,Peninsular Malyasia,2.608694,102.987488,Asia,NA,NA,38.67,19.7217,127.2243,46.0173,NA,NA,NA,NA
+FIL2-B,Phoebe,Filipino,F,313,Tropical Rainforest,Philippines,10.61,123.89,Asia,NA,NA,38.9,NA,122.1,NA,NA,NA,NA,NA
+ORA5-E,EM,Jehai,M/F,105,Tropical Rainforest,Malaysia,5,101,Asia,NA,NA,39.0567,NA,NA,NA,108.0554,NA,Negrito,MALA9-C
+FIL2-D,Phoebe,Filipino,F,84,Tropical Rainforest,Philippines,10.61,123.89,Asia,NA,NA,39.8,NA,123.6,NA,NA,NA,NA,NA
+MRW1,Gisele,Marwari,M,219,Tropical rainforest,India,22.5726,88.3639,Asia,NA,NA,41.064,NA,NA,NA,NA,NA,Indian,MRW1
+ORA3-A,AYANA,Orang Asli,F,24,Tropical Rainforest,Peninsular Malyasia,3.705986,102.27917,Asia,NA,NA,42.537,15.468,107.1159,28.6158,NA,NA,NA,NA
+ORA3-B,AYANA,Orang Asli,M,23,Tropical Rainforest,Peninsular Malyasia,5.246734,102.162702,Asia,NA,NA,44.0838,8.8941,97.4484,24.3621,NA,NA,NA,NA
+MRW1,Gisele,Marwari,F,180,Tropical rainforest,India,22.5726,88.3639,Asia,NA,NA,44.25,NA,NA,NA,NA,NA,Indian,MRW1
+ORA5-D,EM,Semai,M/F,57,Tropical Rainforest,Malaysia,4.5,101.4,Asia,NA,NA,44.8572,NA,NA,NA,119.5695,NA,NA,NA
+ORA3-E,AYANA,Orang Asli,M,17,Tropical Rainforest,Peninsular Malyasia,5.757593,100.917471,Asia,NA,NA,45.6306,17.4015,111.3696,36.7365,NA,NA,NA,NA
+ORA3-C,AYANA,Orang Asli,F,11,Tropical Rainforest,Peninsular Malyasia,4.907965,100.94535,Asia,NA,NA,46.404,23.202,122.1972,39.0567,NA,NA,NA,NA
+ORA3-E,AYANA,Orang Asli,F,39,Tropical Rainforest,Peninsular Malyasia,5.757593,100.917471,Asia,NA,NA,46.404,23.202,119.4903,35.9631,NA,NA,NA,NA
+ORA5-C,EM,Mahmeri,M/F,59,Tropical Rainforest,Malaysia,4.5,101.4,Asia,NA,NA,49.4976,NA,NA,NA,130.1979,NA,NA,NA
+ORA4,AYANA,Orang Asli,F,89,Tropical Rainforest,Peninsular Malyasia,1.46304,103.753159,Asia,NA,NA,50.271,11.601,131.478,38.67,97.427,53.142,NA,NA
+FIL2-A,Phoebe,Filipino,F,476,Tropical Rainforest,Philippines,10.61,123.89,Asia,NA,NA,51.5,NA,128.6,NA,NA,NA,NA,NA
+ORA5-A,EM,Seletar,M/F,253,Tropical Rainforest,Malaysia,1.5,103.8,Asia,NA,NA,52.5912,NA,NA,NA,108.0554,NA,NA,NA
+DEL1-A,EM,Indian,M,173,Tropical Rainforest,India,28.61,77.21,Asia,NA,NA,53,12,117,38,NA,NA,Indian,DEL1-A
+DEL1-A,EM,Indian,M,135,Tropical Rainforest,India,28.61,77.21,Asia,NA,NA,54,13,119,37,NA,NA,Indian,DEL1-A
+DEL1-A,EM,Indian,M,121,Tropical Rainforest,India,28.61,77.21,Asia,NA,NA,55,12,121,41,NA,NA,Indian,DEL1-A
+ORA3-B,AYANA,Orang Asli,F,4,Tropical Rainforest,Peninsular Malyasia,5.246734,102.162702,Asia,NA,NA,56.0715,3.867,99.7686,20.4951,NA,NA,NA,NA
+DEL1-A,EM,Indian,M,110,Tropical Rainforest,India,28.61,77.21,Asia,NA,NA,58,14,115,42,NA,NA,Indian,DEL1-A
+ORA3-F,AYANA,Orang Asli,F,19,Tropical Rainforest,Peninsular Malyasia,2.608694,102.987488,Asia,NA,NA,65.739,19.335,137.2785,40.6035,NA,NA,NA,NA
+ORA3-C,AYANA,Orang Asli,M,15,Tropical Rainforest,Peninsular Malyasia,4.907965,100.94535,Asia,NA,NA,83.1405,13.5345,125.6775,34.803,NA,NA,NA,NA
+MRW1,Gisele,Marwari,M,349,Tropical rainforest,India,22.5726,88.3639,Asia,NA,NA,NA,NA,NA,NA,122.957,NA,Indian,MRW1
+MRW1,Gisele,Marwari,F,305,Tropical rainforest,India,22.5726,88.3639,Asia,NA,NA,NA,NA,NA,NA,110.816,NA,Indian,MRW1
+ESK8,EM,Yakut,M,65,Tundra,Russia,62,130,Asia,182.9091,42.9237,49.1109,16.2414,126.0642,38.67,54.9134,NA,Siberian,ESK8
+ESK8,EM,Yakut,F,101,Tundra,Russia,62,130,Asia,200.3106,48.3375,54.5247,14.6946,140.3721,44.8572,52.2563,NA,Siberian,ESK8
+CHN2,Emily,Chinese,M,1160,urban,China,23.18722,113.30334,Asia,196.8303,48.3375,46.7907,14.6946,131.8647,42.537,126.6551,102.7412,Chinese,CHN10
+CHN2,Emily,Chinese,F,2780,urban,China,23.18722,113.30334,Asia,213.0717,51.0444,56.0715,18.1749,139.212,45.6306,115.141,85.9129,Chinese,CHN10
+NA,Benja,Tibetian,Overall,587,Urban,NA,29,NA,Asia,197.6037,39.8301,56.4582,11.601,124.1307,35.5764,NA,NA,Tibet,TBT1
+ISR1-A,Ashley,N. Bedouins,M,11,Woodland,Israel,31.0461,34.8516,Asia,182.6,28.3,NA,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,ISR1-A
+ISR1-A,Ashley,N. Bedouins,M,9,Woodland,Israel,31.0461,34.8516,Asia,183.5,23.9,NA,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,ISR1-A
+TRK2,Emily,Turks,M,953,woodland,Turkey,", 39.262049",", 35.336038",Asia,184.6,37.6,38.7,11.4,113.2,31.5,125.8,1.7,Middle_Eastern_Ancestry,TRK2
+ISR1-C,Ashley,N. semirecent Yemenites,M,19,Woodland,Israel,31.0461,34.8516,Asia,187,28.5,NA,NA,NA,NA,NA,NA,Yemenites,ISR1
+ISR1-F,Ashley,N. Europeans,M,19,Woodland,Israel,31.0461,34.8516,Asia,187,28.5,NA,NA,NA,NA,NA,NA,Northern_European,ISR1-F
+TRK2,Emily,Turks,F,1014,woodland,Turkey,", 39.262049",", 35.336038",Asia,192.6,39.9,46,12.4,119.2,34.3,100,1.6,Middle_Eastern_Ancestry,TRK2
+ISR1-C,Ashley,N. semirecent Yemenites,M,13,Woodland,Israel,31.0461,34.8516,Asia,195,22.4,NA,NA,NA,NA,NA,NA,Yemenites,ISR1
+ISR1-F,Ashley,N. Europeans,M,10,Woodland,Israel,31.0461,34.8516,Asia,211.7,35.1,NA,NA,NA,NA,NA,NA,Northern_European,ISR1-F
+TRK1,Emily,Turks,M,1492,woodland,Turkey,39.09598,34.808695,Asia,NA,NA,37.5,11.5,NA,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+TRK1,Emily,Turks,F,1543,woodland,Turkey,39.09598,34.808695,Asia,NA,NA,47.5,12.8,NA,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+TRK1,Emily,Turks,F,"1322, 1240",woodland,Turkey,39.09598,34.808695,Asia,NA,NA,NA,NA,119,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+TRK1,Emily,Turks,M,"1322, 1240",woodland,Turkey,39.09598,34.808695,Asia,NA,NA,NA,NA,114,NA,NA,NA,Middle_Eastern_Ancestry,TRK2
+CHN4-A,Emily,Uygur,M/F,1379,,China,40.109102,85.671277,Asia,166.281,34.803,37.8966,9.2808,96.675,27.069,177.14,123.998,Chinese,CHN4-A
+CHN5-A,Emily,Uygur,M/F,1571,,China,40.109102,85.671277,Asia,178.6554,NA,NA,NA,NA,NA,185.1113,85.0272,Chinese,CHN4-A
+CHN4-B,Emily,Kazak,M/F,1123,,China,40.109102,85.671277,Asia,193.35,27.069,54.138,19.335,85.074,38.67,123.998,115.141,Central_Asian,CHN13
+CHN14,Phoebe,Chinese,M,943,,China,39.9042,116.4074,Asia,197.217,88.941,50.271,11.601,123.744,30.936,NA,70.856,Chinese,CHN10
+CHN5-B,Emily,Kazak,M/F,2913,,China,40.109102,85.671277,Asia,197.9904,NA,NA,NA,NA,NA,116.0267,124.8837,Central_Asian,CHN13
+CHN14,Phoebe,Chinese,F,1391,,China,39.9042,116.4074,Asia,212.685,38.67,54.138,19.335,131.478,42.537,NA,97.427,Chinese,CHN10
+CHN17-B,Ashley,Chinese MetS,M,87,,China,41.8048,123.433,Asia,NA,NA,42.537,NA,119.877,NA,NA,NA,NA,NA
+CHN17-B,Ashley,Chinese MetS,F,39,,China,41.8048,123.433,Asia,NA,NA,42.537,NA,123.744,NA,NA,NA,NA,NA
+CHN17-C,Ashley,Chinese Newly MetS,M,42,,China,41.8048,123.433,Asia,NA,NA,46.404,NA,123.744,34.803,NA,NA,NA,NA
+CHN17-A,Ashley,Chinese Non-MetS at follow-up,M,69,,China,41.8048,123.433,Asia,NA,NA,50.271,NA,116.01,30.936,NA,NA,NA,NA
+CHN17-A,Ashley,Chinese Non-MetS,M,111,,China,41.8048,123.433,Asia,NA,NA,50.271,NA,116.01,NA,NA,NA,NA,NA
+CHN17-A,Ashley,Chinese Non-MetS,F,142,,China,41.8048,123.433,Asia,NA,NA,58.005,NA,119.877,NA,NA,NA,NA,NA
+CHN17-C,Ashley,Chinese Newly MetS,F,34,,China,41.8048,123.433,Asia,NA,NA,58.005,NA,131.478,34.803,NA,NA,NA,NA
+CHN17-A,Ashley,Chinese Non-MetS at follow-up,F,108,,China,41.8048,123.433,Asia,NA,NA,61.872,NA,119.877,30.936,NA,NA,NA,NA
+NA,Benja,India Rural,Overall,1452,Savanna,NA,19,NA,Asia Pacific region,154,38,39,12,89,32,NA,NA,Indian,INDI2
+NA,Benja,Russia Rural Men,Men,1459,Taiga,NA,59,NA,Asia Pacific region,205.3377,46.0173,51.0444,12.3744,127.9977,39.4434,NA,NA,Russian,RUS3
+NA,Benja,Russian Rural Total,Overall,4032,Taiga,NA,59,NA,Asia Pacific region,212.685,46.404,55.2981,13.1478,133.4115,39.8301,NA,NA,Russian,RUS8
+NA,Benja,Russia Rural Women,Women,2573,Taiga,NA,59,NA,Asia Pacific region,216.9387,46.0173,57.6183,13.1478,136.5051,39.8301,NA,NA,Russian,RUS4
+NA,Benja,Samoan Male,Men,1421,Tropical,NA,13,NA,Asia Pacific region,201.084,38.67,50.271,11.601,146.946,42.537,NA,NA,SAMOAN,SAM2
+NA,Benja,Samoan Female,Women,2030,Tropical,NA,13,NA,Asia Pacific region,201.084,34.803,54.138,11.601,150.813,38.67,NA,NA,SAMOAN,SAM1
+NA,Benja,India Overall,Overall,2042,Urban,NA,19,NA,Asia Pacific region,158,40,39,12,91,32,NA,NA,Indian,INDIA
+NA,Benja,Indian Urban,Overall,590,Urban,NA,19,NA,Asia Pacific region,167,43,39,12,97,33,NA,NA,Indian,INDI3
+NA,Benja,China_Women,Women,93929,Urban,NA,32,NA,Asia Pacific region,180.9756,39.0567,54.5247,14.3079,110.9829,34.0296,NA,NA,Chinese,CHNB3
+NA,Benja,China Overall,Overall,163641,Urban,NA,32,NA,Asia Pacific region,181.749,39.0567,52.2045,15.0813,111.3696,34.0296,NA,NA,Chinese,CHNBE
+NA,Benja,China_Men,Men,69712,Urban,NA,32,NA,Asia Pacific region,182.1357,38.67,49.8843,15.0813,111.7563,33.6429,NA,NA,Chinese,CHNB2
+NA,Benja,Tibet Male,Men,139,Urban,NA,29,NA,Asia Pacific region,182.1357,42.537,55.2981,19.335,112.143,30.936,NA,NA,Tibet,TBT1M
+NA,Benja,South Korea Men,Men,4029,Urban,NA,35,NA,Asia Pacific region,183,37.8,48.3,12,109,33.9,NA,NA,Asian,SK
+NA,Benja,Tibet Female,Women,232,Urban,NA,29,NA,Asia Pacific region,183.6825,38.67,58.005,15.468,108.6627,27.069,NA,NA,Tibet,TBT1F
+NA,Benja,Japan Men,Men,3118,Urban,NA,35,NA,Asia Pacific region,186,34.3,48.7,13.4,111.5,31.8,NA,NA,Japanese,JAP3
+NA,Benja,South Korea Women,Women,4787,Urban,NA,35,NA,Asia Pacific region,186.9,37.8,51.9,12.6,113,33.7,NA,NA,Asian,SK
+NA,Benja,Japan Women,Women,4871,Urban,NA,35,NA,Asia Pacific region,199.2,33.7,52.5,12.4,124.3,31,NA,NA,Japanese,JAP4
+NA,Benja,Japan Amagasaki Study,Overall,1178,Urban,NA,35,NA,Asia Pacific region,199.92,32.87,55.3,13.148,116,29,NA,NA,Japanese,JAP1
+NA,Benja,China Guangzhou Occupational,Overall,9106,Urban,NA,32,NA,Asia Pacific region,201.084,38.67,50.271,19.335,127.611,42.537,NA,NA,Chinese,CGO
+NA,Benja,Japan Civil Service workers,Overall,8910,Urban,NA,35,NA,Asia Pacific region,201.084,34.803,54.138,15.468,119.877,30.936,NA,NA,Japanese,JAP2
+NA,Benja,Russia Urban Men,Men,6479,Urban,NA,59,NA,Asia Pacific region,204.951,44.4705,49.8843,12.7611,130.3179,38.2833,NA,NA,Russian,RUS6
+NA,Benja,Singapore NHS92,Overall,3223,Urban,NA,-2,NA,Asia Pacific region,204.951,38.67,50.271,11.601,135.345,34.803,NA,NA,Asian,Singa
+NA,Benja,Russia Higher,Overall,9168,Urban,NA,59,NA,Asia Pacific region,206.4978,44.4705,54.9114,13.5345,128.7711,38.67,NA,NA,Russian,RUS1
+NA,Benja,Russia primary education,Overall,919,Urban,NA,59,NA,Asia Pacific region,208.4313,46.7907,52.9779,13.5345,133.4115,40.2168,NA,NA,Russian,RUS2
+NA,Benja,Russia Secondary,Overall,11078,Urban,NA,59,NA,Asia Pacific region,208.4313,46.7907,54.138,13.5345,133.4115,40.2168,NA,NA,Russian,RUS5
+NA,Benja,Thailand INTERASIA,Overall,4876,Urban,NA,15,NA,Asia Pacific region,208.818,46.404,46.404,11.601,135.345,42.537,NA,NA,Asian,THAI
+NA,Benja,Russia Urban Total,Overall,17133,Urban,NA,59,NA,Asia Pacific region,208.818,45.6306,54.138,13.5345,130.7046,39.4434,NA,NA,Russian,RUS7
+NA,Benja,Russian Urban Women,Women,10654,Urban,NA,59,NA,Asia Pacific region,210.7515,46.0173,56.8449,13.5345,131.0913,40.2168,NA,NA,Russian,RUS9
+AUA9,Phoebe,Aboriginal Australian,F,321,Savanna,Australia,-25.2744,133.7751,Austrailia,166.281,38.67,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,AUA9
+AUA9,Phoebe,Aboriginal Australian,M,365,Savanna,Australia,-25.2744,133.7751,Austrailia,185.616,42.537,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,AUA9
+AUA1-A,FION,Austrailian Aborginies (ACR1),M/F,102,Savanna,Australia,-25.2744,133.7751,Austrailia,NA,NA,NA,NA,123.744,NA,NA,NA,NA,NA
+AUA1-B,FION,Austrailian Aborginies (ACR2),M/F,102,Savanna,Australia,-25.2744,133.7751,Austrailia,NA,NA,NA,NA,139.212,NA,NA,NA,NA,NA
+AUA1-C,FION,Austrailian Aborginies (ACR3),M/F,102,Savanna,Australia,-25.2744,133.7751,Austrailia,NA,NA,NA,NA,139.212,NA,NA,NA,NA,NA
+AUA1-D,FION,Austrailian Aborginies (ACR4),M/F,102,Savanna,Australia,-25.2744,133.7751,Austrailia,NA,NA,NA,NA,166.281,NA,NA,NA,NA,NA
+AUA2,AYANA,Australian Aborigines,M/F,67,Savanna,Australia,-11.14879,132.58001,Australia,43.6971,NA,NA,NA,NA,NA,160.3117,15.0569,Australian_Aboriginal,AUA2
+AUA4,EM,Australian Aborigines,F,264,Savanna,Australia,-12.44,130.84,Australia,178.6554,35.1897,46.0173,12.7611,110.2095,32.0961,101.8555,NA,Australian_Aboriginal,AUA2
+NA,Benja,Australia Aboriginals_Female,Women,337,Savanna,NA,-25.2744,NA,Australia,179.4288,7.734,33.2562,1.5468,144.2391,7.734,NA,NA,Australian_Aboriginal,AUSa
+NA,Benja,Australia TSI Women_Female,Women,144,Savanna,NA,-25.2744,NA,Australia,179.4288,15.0813,38.67,3.4803,137.2785,15.0813,NA,NA,Australian_Aboriginal,TSI1
+NA,Benja,Australia TSI Women_Male,Men,160,Savanna,NA,-25.2744,NA,Australia,187.1628,13.5345,38.67,4.6404,145.3992,14.3079,NA,NA,Australian_Aboriginal,TSI1
+AUA4,EM,Australian Aborigines,M,130,Savanna,Australia,-12.44,130.84,Australia,192.5766,45.2439,42.9237,11.601,121.0371,37.8966,124.8837,NA,Australian_Aboriginal,AUA2
+NA,Benja,Australia Aboriginals_Male,Men,284,Savanna,NA,-25.2744,NA,Australia,194.8968,33.2562,30.5493,1.9335,161.6406,11.2143,NA,NA,Australian_Aboriginal,AUSa
+AUA4,EM,Australian Aborigines,F,325,Savanna,Australia,-12.44,130.84,Australia,201.084,35.9631,45.6306,13.1478,123.744,31.7094,144.3691,NA,Australian_Aboriginal,AUA2
+AUA4,EM,Australian Aborigines,M,142,Savanna,Australia,-12.44,130.84,Australia,206.8845,51.4311,39.0567,11.2143,122.9706,39.8301,193.0826,NA,Australian_Aboriginal,AUA2
+AUA2,AYANA,Australian Aborigines,M/F,68,Savanna,Australia,-11.14879,132.58001,Australia,229.3131,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,AUA2
+TOR1-A,Ashley,Torres Strait Islanders,F,183,Savanna,Australia,-10.2199,141.9369,Australia,NA,NA,NA,NA,NA,NA,147.0262,NA,NA,NA
+TOR1-A,Ashley,Torres Strait Islanders,M,186,Savanna,Australia,-10.2199,141.9369,Australia,NA,NA,NA,NA,NA,NA,185.1113,NA,NA,NA
+TOR1-B,Ashley,Aboriginals,F,379,Savanna,Australia,-25.2744,133.7751,Australia,NA,NA,NA,NA,NA,NA,172.7115,NA,NA,NA
+TOR1-B,Ashley,Aboriginals,M,296,Savanna,Australia,-25.2744,133.7751,Australia,NA,NA,NA,NA,NA,NA,244.4532,NA,NA,NA
+AUA2,AYANA,Australian Aborigines,M/F,50,Savanna,Australia,-11.14879,132.58001,Australia,NA,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,AUA2
+AUA7-B,EM,Australian Aborigines,M/F,4,Temperate Shrubland,Australia,-15.96,125.05,Australia,158.9337,NA,NA,NA,NA,NA,139.0549,NA,Australian_Aboriginal,AUA2
+AUA7-A,EM,Australian Aborigines,M/F,10,Temperate Shrubland,Australia,-15.96,125.05,Australia,218.4855,NA,NA,NA,NA,NA,356.0514,NA,Australian_Aboriginal,AUA2
+LOO1,AYANA,Looma (1997),F,35,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,143.079,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1996),F,52,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,158.547,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1997),M,28,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,162.414,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1993),F,51,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,170.148,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1996),M,42,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,174.015,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1997),F,42,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,185.616,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1993),M,51,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,185.616,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1997),M,29,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,185.616,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1996),F,47,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,189.483,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1993),F,50,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,193.35,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1996),M,40,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,197.217,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+LOO1,AYANA,Looma (1993),M,47,Tropical Rainforest,Australia,-18.039138,124.4938,Australia,204.951,NA,NA,NA,NA,NA,NA,NA,Australian_Aboriginal,LOO1
+NA,Benja,Australia,Overall,1274,Urban,NA,NA,NA,Australia,208.0446,1.5468,56.4582,0.3867,124.9041,1.5468,NA,NA,mixed,NA
+NA,Benja,Australia ANHF study,Overall,8924,Urban,NA,NA,NA,Australia,212.685,42.537,50.271,15.468,135.345,38.67,NA,NA,mixed,AUSG
+AUA15,Emily,Tiwi,M/F,1187,woodland,Australia,-11.707897,130.820859,Australia,181.749,NA,46.404,NA,98.6085,NA,132.855,NA,Australian_Aboriginal,AUA15
+GUA1-A,EM,Maya,M,16,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,136,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,F,9,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,138,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,M,13,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,139,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,M,34,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,143,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,M,18,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,144,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,F,22,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,147,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+GUA1-A,EM,Maya,F,15,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,156,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+RIC1-A,EM,Costa Rican,M,37,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,158,NA,40,NA,93,NA,137,NA,Costa_Rican,RIC1-A
+RIC1-A,EM,Costa Rican,F,47,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,167,NA,45,NA,109,NA,98,NA,Costa_Rican,RIC1-A
+GUA1-A,EM,Maya,F,11,Tropical Rainforest,Guatemala,15.73,-91.57,Central America,172,NA,NA,NA,NA,NA,NA,NA,SA_Indegenous,GUA1-A
+RIC1-B,EM,Costa Rican,F,41,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,174,NA,43,NA,109,NA,107,NA,Costa_Rican,RIC1-A
+RIC1-B,EM,Costa Rican,M,49,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,175,NA,41,NA,107,NA,150,NA,Costa_Rican,RIC1-A
+RIC1-A,EM,Costa Rican,M,38,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,179,NA,43,NA,110,NA,132,NA,Costa_Rican,RIC1-A
+RIC1-A,EM,Costa Rican,F,44,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,181,NA,44,NA,116,NA,131,NA,Costa_Rican,RIC1-A
+RIC1-A,EM,Costa Rican,M,36,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,182,NA,40,NA,111,NA,182,NA,Costa_Rican,RIC1-A
+RIC1-B,EM,Costa Rican,F,50,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,186,NA,44,NA,116,NA,129,NA,Costa_Rican,RIC1-A
+RIC1-B,EM,Costa Rican,M,29,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,189,NA,38,NA,110,NA,232,NA,Costa_Rican,RIC1-A
+PRC1-A,EM,Puerto Rican,M,1298,Tropical Rainforest,Puerto Rico,18.37,-66.1,Central America,195,NA,NA,NA,NA,NA,NA,NA,Puerto_Rican,PRC1-A
+PRC1-A,EM,Puerto Rican,M,1282,Tropical Rainforest,Puerto Rico,18.37,-66.1,Central America,196,NA,NA,NA,NA,NA,NA,NA,Puerto_Rican,PRC1-A
+RIC1-B,EM,Costa Rican,M,33,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,197,NA,37,NA,120,NA,204,NA,Costa_Rican,RIC1-A
+PRC1-B,EM,Puerto Rican,M,2581,Tropical Rainforest,Puerto Rico,18.3,-66.25,Central America,202,NA,NA,NA,NA,NA,NA,NA,Puerto_Rican,PRC1-A
+RIC1-A,EM,Costa Rican,F,32,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,203,NA,46,NA,124,NA,168,NA,Costa_Rican,RIC1-A
+RIC1-B,EM,Costa Rican,F,29,Tropical Rainforest,Costa Rica,9.73,-84.37,Central America,206,NA,47,NA,124,NA,170,NA,Costa_Rican,RIC1-A
+PRC1-B,EM,Puerto Rican,M,3624,Tropical Rainforest,Puerto Rico,18.3,-66.25,Central America,207,NA,NA,NA,NA,NA,NA,NA,Puerto_Rican,PRC1-A
+GUA2-B,Victoria,Guatemalan,M,76,Tropical Rainforest,Guatemala,14.6349,-90.5069,Central America,NA,NA,37.1232,8.8941,102.8622,27.8424,123.998,72.6274,Guatemalan,GUA1-B
+GUA2-C,Victoria,Guatemalan,M,58,Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,NA,NA,37.1232,6.1872,102.0888,23.9754,103.6269,54.0277,Guatemalan,GUA1-B
+GUA2-A,Victoria,Guatemalan,M,103,Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,NA,NA,37.8966,6.9606,88.941,23.9754,124.8837,66.4275,Guatemalan,GUA1-B
+GUA2-A,Victoria,Guatemalan,F,175,Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,NA,NA,39.8301,8.1207,105.9558,25.9089,131.0836,88.57,Guatemalan,GUA1-B
+GUA2-C,Victoria,Guatemalan,F,18,Tropical Rainforest,Guatemala,15.7835,-90.2308,Central America,NA,NA,40.9902,8.8941,93.9681,22.0419,NA,43.3993,Guatemalan,GUA1-B
+GUA2-B,Victoria,Guatemalan,F,43,Tropical Rainforest,Guatemala,14.6349,-90.5069,Central America,NA,NA,46.0173,15.0813,109.8228,22.8153,100.0841,47.8278,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,F,20,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,172,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,M,21,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,172,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,M,22,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,186,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,F,24,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,200,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,F,16,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,208,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+GUA1-B,EM,Guatemalan,F,10,Tropical Rainforest?,Guatemala,14.61,-90.54,Central America,222,NA,NA,NA,NA,NA,NA,NA,Guatemalan,GUA1-B
+INU1-A,AYANA,Inuit (least westernized),F,223,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,222.7392,NA,63.4188,NA,139.9854,NA,85.0272,NA,Circumpolar,INU1-A
+INU1-A,AYANA,Inuit (least westernized),M,223,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,226.2195,NA,62.6454,NA,143.079,NA,83.2558,NA,Circumpolar,INU1-A
+INU1-B,AYANA,Inuit (intermediate western),M,234,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,230.0865,NA,56.4582,NA,151.1997,NA,89.4557,NA,Circumpolar,INU1-B
+INU1-C,AYANA,Inuit (most Westerm),M,110,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,231.2466,NA,52.5912,NA,152.3598,NA,44.0838,NA,Circumpolar,INU1-C
+INU1-C,AYANA,Inuit (most Westerm),F,110,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,232.4067,NA,58.7784,NA,151.1997,NA,95.6556,NA,Circumpolar,INU1-C
+INU1-B,AYANA,Inuit (intermediate western),F,4234,Arctic-Alpine desert,Greenland,71.7069,-53,Europe,234.3402,NA,60.3252,NA,152.7465,NA,90.3414,NA,Circumpolar,INU1-B
+SMI3,Emily,Sami,M,2559,tundra,Norway,68.913991,19.013153,Europe,231.2466,NA,49.1109,NA,149.6529,NA,164.7402,NA,Uralic_Ancestry,SMI3
+SMI3,Emily,Sami,F,2581,tundra,Norway,68.913991,19.013153,Europe,231.2466,NA,56.0715,NA,147.7194,NA,136.3978,NA,Uralic_Ancestry,SMI3
+NOR1-C,Ashley,Kven,M,141,tundra,Norway,60.472,8.4689,Europe,NA,NA,46.404,NA,NA,NA,149.6833,NA,NA,NA
+NOR1-D,Ashley,Norwegian,M,1122,tundra,Norway,60.472,8.4689,Europe,NA,NA,46.404,NA,NA,NA,147.9119,NA,NA,NA
+NOR1-B,Ashley,Sami II,M,440,tundra,Norway,60.472,8.4689,Europe,NA,NA,46.7907,NA,NA,NA,151.4547,NA,NA,NA
+NOR1-A,Ashley,Sami I,M,220,tundra,Norway,60.472,8.4689,Europe,NA,NA,47.5641,NA,NA,NA,153.2261,NA,NA,NA
+NOR2-C,Ashley,Sami Norwegian,M,1113,Tundra,Norway,60.472,8.4689,Europe,NA,NA,47.5641,14.6946,NA,NA,150.569,106.284,NA,NA
+SMI5-A,Ashley,Sami,M,974,Tundra,Norway,60.472,8.4689,Europe,NA,NA,47.9508,15.468,NA,NA,171.8258,97.427,Uralic_Ancestry,SMI3
+NOR2-A,Ashley,Sami Norwegian,M,1118,Tundra,Norway,60.472,8.4689,Europe,NA,NA,49.1109,13.9212,NA,NA,137.2835,112.4839,NA,NA
+NOR1-D,Ashley,Norwegian,M,1122,tundra,Norway,60.472,8.4689,Europe,NA,NA,49.4976,NA,NA,NA,139.9406,NA,NA,NA
+NOR2-B,Ashley,Norwegian,M,1864,Tundra,Norway,60.472,8.4689,Europe,NA,NA,49.4976,13.1478,NA,NA,139.9406,100.9698,NA,NA
+NOR2-D,Ashley,Norwegian,M,1571,Tundra,Norway,60.472,8.4689,Europe,NA,NA,49.4976,14.6946,NA,NA,132.855,97.427,NA,NA
+NOR1-A,Ashley,Sami I,M,220,tundra,Norway,60.472,8.4689,Europe,NA,NA,49.8843,NA,NA,NA,135.5121,NA,NA,NA
+SMI5-B,Ashley,Non-Sami,M,1372,Tundra,Norway,60.472,8.4689,Europe,NA,NA,49.8843,15.468,NA,NA,159.426,97.427,NA,NA
+NOR1-B,Ashley,Sami II,M,440,tundra,Norway,60.472,8.4689,Europe,NA,NA,50.6577,NA,NA,NA,137.2835,NA,NA,NA
+NOR1-C,Ashley,Kven,M,141,tundra,Norway,60.472,8.4689,Europe,NA,NA,51.8178,NA,NA,NA,139.9406,NA,NA,NA
+NOR1-D,Ashley,Norwegian,M,1122,tundra,Norway,60.472,8.4689,Europe,NA,NA,51.8178,NA,NA,NA,128.4265,NA,NA,NA
+NOR1-B,Ashley,Sami II,M,440,tundra,Norway,60.472,8.4689,Europe,NA,NA,52.9779,NA,NA,NA,119.5695,NA,NA,NA
+NOR1-A,Ashley,Sami I,F,241,tundra,Norway,60.472,8.4689,Europe,NA,NA,53.7513,NA,NA,NA,115.141,NA,NA,NA
+NOR1-C,Ashley,Kven,F,150,tundra,Norway,60.472,8.4689,Europe,NA,NA,54.138,NA,NA,NA,110.7125,NA,NA,NA
+INU14,Ashley,Greenland Inuit,F,,Tundra,Greenland,71.7069,-42.6043,Europe,NA,NA,54.9114,18.1749,NA,NA,131.0836,NA,Circumpolar,ESK5-A
+INU14,Ashley,Greenland Inuit,M,,Tundra,Greenland,71.7069,-42.6043,Europe,NA,NA,54.9114,19.7217,NA,NA,121.3409,NA,Circumpolar,ESK5-A
+NOR1-C,Ashley,Kven,M,141,tundra,Norway,60.472,8.4689,Europe,NA,NA,54.9114,NA,NA,NA,116.0267,NA,NA,NA
+NOR1-B,Ashley,Sami II,F,464,tundra,Norway,60.472,8.4689,Europe,NA,NA,55.2981,NA,NA,NA,107.1697,NA,NA,NA
+NOR1-A,Ashley,Sami I,M,220,tundra,Norway,60.472,8.4689,Europe,NA,NA,55.6848,NA,NA,NA,121.3409,NA,NA,NA
+NOR1-D,Ashley,Norwegian,F,1298,tundra,Norway,60.472,8.4689,Europe,NA,NA,55.6848,NA,NA,NA,102.7412,NA,NA,NA
+NOR1-A,Ashley,Sami I,F,241,tundra,Norway,60.472,8.4689,Europe,NA,NA,56.0715,NA,NA,NA,128.4265,NA,NA,NA
+NOR2-A,Ashley,Sami Norwegian,F,1150,Tundra,Norway,60.472,8.4689,Europe,NA,NA,56.0715,14.3079,NA,NA,120.4552,86.7986,NA,NA
+NOR2-C,Ashley,Sami Norwegian,F,1283,Tundra,Norway,60.472,8.4689,Europe,NA,NA,56.0715,15.8547,NA,NA,123.998,79.713,NA,NA
+SMI5-A,Ashley,Sami,F,1195,Tundra,Norway,60.472,8.4689,Europe,NA,NA,56.0715,15.468,NA,NA,147.0262,79.713,Uralic_Ancestry,SMI3
+NOR1-B,Ashley,Sami II,F,464,tundra,Norway,60.472,8.4689,Europe,NA,NA,57.2316,NA,NA,NA,125.7694,NA,NA,NA
+NOR2-B,Ashley,Norwegian,F,2176,Tundra,Norway,60.472,8.4689,Europe,NA,NA,57.6183,15.468,NA,NA,119.5695,81.4844,NA,NA
+NOR1-B,Ashley,Sami II,F,464,tundra,Norway,60.472,8.4689,Europe,NA,NA,58.3917,NA,NA,NA,122.2266,NA,NA,NA
+NOR1-D,Ashley,Norwegian,F,1298,tundra,Norway,60.472,8.4689,Europe,NA,NA,59.1651,NA,NA,NA,123.1123,NA,NA,NA
+NOR1-A,Ashley,Sami I,F,241,tundra,Norway,60.472,8.4689,Europe,NA,NA,59.5518,NA,NA,NA,129.3122,NA,NA,NA
+NOR2-D,Ashley,Norwegian,F,1899,Tundra,Norway,60.472,8.4689,Europe,NA,NA,59.9385,17.4015,NA,NA,123.998,79.713,NA,NA
+SMI5-B,Ashley,Non-Sami,F,1777,Tundra,Norway,60.472,8.4689,Europe,NA,NA,59.9385,19.335,NA,NA,135.5121,79.713,NA,NA
+NOR1-C,Ashley,Kven,F,150,tundra,Norway,60.472,8.4689,Europe,NA,NA,60.3252,NA,NA,NA,120.4552,NA,NA,NA
+NOR1-D,Ashley,Norwegian,F,1298,tundra,Norway,60.472,8.4689,Europe,NA,NA,60.3252,NA,NA,NA,131.9693,NA,NA,NA
+NOR1-C,Ashley,Kven,F,150,tundra,Norway,60.472,8.4689,Europe,NA,NA,61.4853,NA,NA,NA,138.1692,NA,NA,NA
+NA,Benja,SANTORINI very high risk,Overall,6401,Urban,NA,37,NA,Europe,162.414,50.271,46.404,15.468,77.34,58.005,NA,NA,EUROPEAN,SANTO_CVD2
+NA,Benja,SANTORINI STUDY overall,Overall,9044,Urban,NA,37,NA,Europe,166.281,54.138,50.271,15.468,81.207,61.872,NA,NA,EUROPEAN,SANTO
+NA,Benja,SANTORINI high risk,Overall,1639,Urban,NA,37,NA,Europe,181.749,58.005,54.138,15.468,92.808,65.739,NA,NA,EUROPEAN,SANTO_cvd
+NA,Benja,Finnish NFBC study,Overall,5271,Urban,NA,61,NA,Europe,193.35,38.67,58,15.4,NA,NA,NA,NA,Uralic_Ancestry,NFBC
+NA,Benja,Spain,Overall,51462,Urban,NA,37,NA,Europe,211.01,40.97,52.7,13.94,126.2,34.33,NA,NA,EUROPEAN,SPA
+NA,Benja,UK Biobank - Healthy,Overall,340470,Urban,NA,53,NA,Europe,227.7,40.6,57,14.3,143.6,31.2,NA,NA,EUROPEAN,UK_B
+NA,Benja,England ELSA (Above 50yrs),Overall,4217,Urban,NA,53,NA,Europe,230.0865,0.7734,59.1651,0.3867,139.9854,0.7734,NA,NA,EUROPEAN,ELSA
+NA,Benja,UK Biobank - With CVD,Overall,6216,Urban,NA,53,NA,Europe,233.9,42.4,52.3,13.6,150.9,32.3,NA,NA,EUROPEAN,cvd_UK
+NA,Benja,Saudi Arabia,Overall,550,Desert,NA,23,NA,Middle East,182,43,46,13,104,34.5,NA,NA,Saudi,SAU
+LEB1,Ashley,Lebanese,M,215,Woodland,Lebanon,33.8547,35.8623,Middle East,NA,NA,40.14,0.77,117.48,2.69,195.51,11.23,NA,NA
+LEB1,Ashley,Lebanese,F,284,Woodland,Lebanon,33.8547,35.8623,Middle East,NA,NA,51.67,0.77,115.81,2.28,111.76,4.32,NA,NA
+MEL2-B,Claire,Rural Melanesian people,M,22,NA,NA,NA,NA,NA,138.0519,49.8843,NA,NA,NA,NA,53.142,15.9426,Melanesian,MEL2-B
+MEL2-A,Claire,Urban Melanesian people,M,86,NA,NA,NA,NA,NA,140.7588,33.2562,NA,NA,NA,NA,55.7991,16.8283,Melanesian,MEL2-A
+MEL2-B,Claire,Rural Melanesian people,F,49,NA,NA,NA,NA,NA,149.6529,42.1503,NA,NA,NA,NA,53.142,33.6566,Melanesian,MEL2-B
+TAN1-A,AYANA,Masai,M/F,130,NA,NA,NA,NA,NA,150.4263,36.3498,41.7636,12.3744,84.6873,28.6158,120.4552,54.0277,Nilote,TAN1-A
+BENJA,BENJA,TURKANA_pastoralist,,800,NA,NA,NA,NA,NA,151.99,33.6,60.1,15.2,71.3,30.8,NA,NA,TURKANA_pastoralist,TURKANA_pastoralist
+MEL2-A,Claire,Urban Melanesian people,F,23,NA,NA,NA,NA,NA,153.1332,34.0296,NA,NA,NA,NA,54.0277,22.1425,Melanesian,MEL2-A
+MEX2-A,Phoebe,Mexican,M,76,NA,NA,NA,NA,NA,155.5,NA,44,NA,102.7,NA,NA,NA,Mexican_indegenous_communities,MEX2
+CHIN1-B,Phoebe,Han,F,N/A,NA,NA,NA,NA,NA,171,34,53,13,99,32,100,74,Chinese,CHIN1-A
+CHIN1-B,Phoebe,Han,M,N/A,NA,NA,NA,NA,NA,174,34,54,16,98,33,115,82,Chinese,CHIN1-A
+MUR1-A,Claire,Urban/Rural Mura (no hypertension),M/F,334,NA,NA,NA,NA,NA,183.7,28.6,NA,NA,NA,NA,151.5,99.8,SA_Indegenous,MUR1-A
+INU15-A,Claire,Canadian Inuits,M,2072,NA,NA,NA,NA,NA,190.2564,42.1503,NA,NA,NA,NA,NA,NA,Circumpolar,INU15
+INU15-B,Claire,Canadian Inuits,F,2072,NA,NA,NA,NA,NA,192.5766,42.537,NA,NA,NA,NA,NA,NA,Circumpolar,INU15
+CHIN1-A,Phoebe,Han,M,N/A,NA,NA,NA,NA,NA,195,38,54,15,117,38,126,102,Chinese,CHIN1-A
+MUR1-B,Claire,Urban/rural Mura (yes hypertension),M/F,121,NA,NA,NA,NA,NA,197.5,39,NA,NA,NA,NA,196.7,111.3,NA,NA
+CHIN1-A,Phoebe,Han,F,N/A,NA,NA,NA,NA,NA,200,39,58,14,117,38,129,108,Chinese,CHIN1-A
+SMI1-B,Emily,Sami (Non-reindeer herding),M,183,NA,NA,NA,NA,NA,220.419,54.138,50.271,27.069,158.547,54.138,132.855,61.999,Uralic_Ancestry,SMI1B
+SMI1-A,Emily,Sami (Reindeer herding),F,77,NA,NA,NA,NA,NA,220.419,42.537,54.138,11.601,150.813,42.537,106.284,44.285,Uralic_Ancestry,SMI1A
+SMI1-B,Emily,Sami (Non-reindeer herding),F,258,NA,NA,NA,NA,NA,220.419,50.271,54.138,15.468,146.946,46.404,115.141,70.856,Uralic_Ancestry,SMI1B
+SMI1-A,Emily,Sami (Reindeer herding),M,93,NA,NA,NA,NA,NA,232.02,42.537,46.404,11.601,170.148,34.803,132.855,97.427,Uralic_Ancestry,SMI1A
+MALA15-B,Ashley,Malays - Diabetic,M/F,,NA,NA,NA,NA,NA,NA,NA,37.1232,11.601,166.281,116.01,203.711,141.712,NA,NA
+MALA15-C,Ashley,Malays - Impaired glucose tolerance,M/F,,NA,NA,NA,NA,NA,NA,NA,39.0567,12.3744,166.281,119.877,141.712,88.57,NA,NA
+MEX2-B,Phoebe,Mexican,M,63,NA,NA,NA,NA,NA,NA,NA,39.3,NA,115,NA,NA,NA,Mexican_indegenous_communities,MEX2
+MEX2-D,Phoebe,Mexican,M,68,NA,NA,NA,NA,NA,NA,NA,40,NA,126.8,NA,NA,NA,Mexican_indegenous_communities,MEX2
+MALA15-A,Ashley,Malays - Normal,M/F,,NA,NA,NA,NA,NA,NA,NA,40.9902,15.0813,150.813,73.473,132.855,88.57,NA,NA
+RHY1-A,Claire,Urban Rishikesh (with HTN),M/F,155,NA,NA,NA,NA,NA,NA,NA,41.6,9.48,NA,NA,190.45,144.36,NA,NA
+RHY1-B,Claire,Urban Rishikesh (without HTN),M/F,323,NA,NA,NA,NA,NA,NA,NA,41.8,9.4,NA,NA,150.65,125.16,NA,NA
+MEX2-C,Phoebe,Mexican,M,118,NA,NA,NA,NA,NA,NA,NA,43.9,NA,119,NA,NA,NA,Mexican_indegenous_communities,MEX2
+SMU2-A,Ashley,Samburu,M,102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,85.3,39.8,Samburu,SMU1
+SMU2-B,Ashley,Samburu,M,99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,84.7,23.9,Samburu,SMU1
+ALA1-B,Victoria,Alaskan Native,M/F,1919,Arctic Tundra,Alaska,63.8428,-164.268,North America,206.9,42.9,58.2,17.9,126.8,41.6,111.7,83.5,Circumpolar,ALA1
+ALA1-A,Victoria,Alaskan Native,M/F,2650,Arctic Tundra,Alaska,63.433318,-166.552734,North America,207.5,44.1,60.3,17.8,128.2,38.5,95.1,61,Circumpolar,ALA1
+WAI,"FION,BEVERLY",Wainwright Eskimos,M,63,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,145,21,NA,NA,NA,NA,NA,NA,Circumpolar,WAI
+WAI,"FION,BEVERLY",Wainwright Eskimos,F,63,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,151,29,NA,NA,NA,NA,NA,NA,Circumpolar,WAI
+POI,"FION,BEVERLY",Point Hope Eskimos,M,28,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,164,22,NA,NA,NA,NA,NA,NA,Circumpolar,POI
+POI,"FION,BEVERLY",Point Hope Eskimos,F,28,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,168,27,NA,NA,NA,NA,NA,NA,Circumpolar,POI
+WAI,"FION,BEVERLY",Wainwright Eskimos,M,33,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,187,41,NA,NA,NA,NA,NA,NA,Circumpolar,WAI
+INN1,KIKI,Inuit of Nunavik,M/F,252,Arctic-Alpine desert,Canada,56.130366,-70,North America,189.483,2.3202,55.2981,1.1601,114.0765,1.9335,100.9698,NA,Circumpolar,INN1
+WAI,"FION,BEVERLY",Wainwright Eskimos,F,33,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,205,57,NA,NA,NA,NA,NA,NA,Circumpolar,WAI
+YUP1,EM,Yup'ik,F,101,Arctic-Alpine desert,United States of America,61,-64,North America,206.8,43,61,16.1,130,35.1,79.4,45.4,Circumpolar,YUP1
+POI,"FION,BEVERLY",Point Hope Eskimos,F,41,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,210,38,NA,NA,NA,NA,NA,NA,Circumpolar,POI
+INN1,KIKI,Inuit of Nunavik,M/F,154,Arctic-Alpine desert,Canada,56.130366,-70,North America,211.5249,2.7069,64.1922,1.5468,127.2243,2.7069,106.284,NA,Circumpolar,INN1
+POI,"FION,BEVERLY",Point Hope Eskimos,M,41,Arctic-Alpine desert,United States of America,64.2008,-149.4937,North America,212,39,NA,NA,NA,NA,NA,NA,Circumpolar,POI
+YUP1,EM,Yup'ik,M,78,Arctic-Alpine desert,United States of America,61,-64,North America,212.7,42.9,55.6,15.1,137.8,34.7,97.2,89.1,Circumpolar,YUP1
+ESK3,AYANA,Eskimos,M,214,Arctic-Alpine desert,United States of America,64.2008,-165.4937,North america,NA,NA,57.1,18.1,126.2,36.2,117.7,NA,NA,NA
+INN2,AYANA,"Inupiat, Inuit",M,214,Arctic-Alpine desert,United States,63.8492,-164.2688,North America,NA,NA,57.1,18.1,126.2,36.2,111.7,NA,NA,NA
+GRIN1,FION,Greenland Inuit,M,278,Arctic-Alpine desert,Greenland,71.7069,-53,North America,NA,NA,58.7784,NA,145.7859,NA,103.6269,NA,Circumpolar,ESK5-A
+GRIN1,FION,Greenland Inuit,F,278,Arctic-Alpine desert,Greenland,71.7069,-53,North America,NA,NA,65.3523,NA,135.7317,NA,99.1984,NA,Circumpolar,ESK5-A
+ESK3,AYANA,Eskimos,F,285,Arctic-Alpine desert,United States of America,64.2008,-165.4937,North america,NA,NA,68.6,18.9,124,36.3,124.3,NA,NA,NA
+INN2,AYANA,"Inupiat, Inuit",F,285,Arctic-Alpine desert,United States,63.8492,-164.2688,North America,NA,NA,68.6,18.9,124,36.3,124.3,NA,NA,NA
+AIN3-A,Emily,American Indians in Arizona,M,546,desert,United States,33.161233,-111.922051,North America,177.1086,42.1503,NA,NA,NA,NA,159.426,184.2256,American_Indian,AIN3-A
+AIN3-A,Emily,American Indians in Arizona,F,954,desert,United States,33.161233,-111.922051,North America,180.9756,42.1503,NA,NA,NA,NA,153.2261,106.284,American_Indian,AIN3-A
+PAS1,Gisele,Pascua Yaqui,F,144,Desert,United States,32.254,-110.9742,North America,199.8,40.2,NA,NA,117.5,31.7,NA,NA,Native_American,PAS1
+PAS1,Gisele,Pascua Yaqui,M,86,Desert,United States,32.254,-110.9742,North America,203.7,39.4,NA,NA,117.5,29.4,NA,NA,Native_American,PAS1
+TARA3,Ashley,Tarahumara Indians,M,8,Desert,Mexico,28.633,-106.0691,North America,NA,NA,31,3,72,4,96,12,Native_American,TARA1
+YAQ1-B,Phoebe,Yaqiu,M/F,49,Desert,Mexico,29.2972,-110.3309,North America,NA,NA,38.2,8.4,NA,NA,137.1,79.2,NA,NA
+YAQ1-A,Phoebe,Yaqui,M/F,33,Desert,Mexico,29.2972,-110.3309,North America,NA,NA,40.7,8.9,NA,NA,127.8,63.1,NA,NA
+AIN4-B,EM,Oklahoma American Indians,M,642,Grassland,United States of America,34.89,-98.36,North America,192.8,35.4,41.6,11.9,119.6,32.5,126.5,NA,American_Indian,AIN4-B
+AIN4-B,EM,Oklahoma American Indians,F,885,Grassland,United States of America,34.89,-98.36,North America,195.7,36.9,49.4,13.6,115,31.8,125.2,NA,American_Indian,AIN4-B
+AIN4-C,EM,SD/ND American Indians,M,658,Grassland,United States of America,46,-99,North America,198.7,43,43.8,14.2,121.8,32.6,113.3,NA,American_Indian,AIN4-C
+AIN4-C,EM,SD/ND American Indians,F,864,Grassland,United States of America,46,-99,North America,201.7,39.7,48.5,14.1,120.3,33.5,122.7,NA,American_Indian,AIN4-C
+AIN3-B,Emily,American Indians in Oklahoma,M,642,grasslands,United States,34.586066,-98.451858,North America,192.9633,35.1897,NA,NA,NA,NA,150.569,124.8837,American_Indian,AIN3-B
+AIN3-B,Emily,American Indians in Oklahoma,F,885,grasslands,United States,34.586066,-98.451858,North America,195.6702,37.1232,NA,NA,NA,NA,147.0262,101.8555,American_Indian,AIN3-B
+AIN3-C,Emily,American Indians in North/South Dakota,M,658,grasslands,United States,45.137897,-101.094677,North America,199.1505,42.9237,NA,NA,NA,NA,148.7976,232.0534,American_Indian,AIN3-C
+AIN3-C,Emily,American Indians in North/South Dakota,F,864,grasslands,United States,45.137897,-101.094677,North America,201.8574,39.8301,NA,NA,NA,NA,148.7976,129.3122,American_Indian,AIN3-C
+AIN1-C,KIKI,American Indians (with Macroalbuminuria),M/F,42,Temperate forest,United States,48.19663,-95.01431,North America,129,41,50,24,129,41,208,121,American_Indian,AIN1-C
+AIN1-B,KIKI,American Indians (with Microalbuminuria),M/F,240,Temperate forest,United States,48.19663,-95.01431,North America,215,42,48,13,130,36,193,136,American_Indian,AIN1-B
+AIN1-A,KIKI,"American Indians (""""normal"""")",M/F,1086,Temperate Rainforest,United States,48.19663,-95.01431,North America,210,40,50,14,127,36,163,111,NA,NA
+TARA1,FION,Tarahumara Indians,M,118,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,115,19,23,8,75,15,118,NA,Native_American,TARA1
+TARA1,FION,Tarahumara Indians,F,104,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,117,25,30,11,90,16,143,NA,Native_American,TARA1
+TARA2,EM,Tarahumara,M/F,12,Tropical Rainforest,Mexico,27.79,-107.5,North America,121,5,32,2,72,3,91,8,Native_American,TARA2
+TARA1,FION,Tarahumara Indians,M,149,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,136,27,26,7,87,22,134,NA,Native_American,TARA1
+TARA1,FION,Tarahumara Indians,F,108,Tropical Rainforest,Mexico,23.634501,-102.552784,North America,139,30,28,14,89,14,141,NA,Native_American,TARA1
+PIM1,AYANA,Pima,M,16,Tropical Rainforest,Mexico,29.39558,-111.738647,North America,143,NA,NA,NA,NA,NA,NA,NA,Native_American,PIM1
+PIM1,AYANA,Pima,F,19,Tropical Rainforest,Mexico,29.39558,-111.738647,North America,149,NA,NA,NA,NA,NA,NA,NA,Native_American,PIM1
+NA,Benja,Inuits CANHR Males,Men,327,Tundra,NA,63.8428,NA,North America,219,47.7,58.1,16.5,143.7,40.3,NA,NA,Circumpolar,CANHR
+NA,Benja,Inuits CANHR Overall,Overall,710,Tundra,NA,63.8428,NA,North America,220,46.2,61.9,17.8,141.3,38.5,NA,NA,Circumpolar,CANHR_a
+NA,Benja,Inuits CANHR Female,Women,383,Tundra,NA,63.8428,NA,North America,220.9,45,65.1,18.3,139.2,36.9,NA,NA,Circumpolar,CANHR
+INU9,Emily,Greenland Inuit,M,121,tundra,Greenland,69.199831,-42.080223,North America,204.951,NA,NA,NA,NA,NA,88.57,NA,Circumpolar,ESK5-A
+ESK5-A,EM,Greenland Inuit,M/F,130,Tundra,Greenland,64.17,-51.73,North America,215.7786,NA,NA,NA,NA,NA,38.0851,NA,Circumpolar,ESK5-A
+INU9,Emily,Greenland Inuit,F,121,tundra,Greenland,69.199831,-42.080223,North America,220.419,NA,NA,NA,NA,NA,88.57,NA,Circumpolar,ESK5-A
+INU11,Emily,Greenland Inuit,M,653,tundra,Greenland,64.972601,-46.408836,North America,228.153,46.404,58.005,19.335,NA,NA,NA,NA,Circumpolar,ESK5-A
+INU11,Emily,Greenland Inuit,F,653,tundra,Greenland,64.972601,-46.408836,North America,228.153,46.404,61.872,15.468,NA,NA,NA,NA,Circumpolar,ESK5-A
+ESK5-B,EM,Greenland Inuit,M/F,32,Tundra,Greenland,64.17,-51.73,North America,282.291,NA,NA,NA,NA,NA,99.1984,NA,Circumpolar,ESK5-A
+CAN2-A,Emily,Oji-Cree Indians,M/F,1180,tundra,Canada,56.69043,-93.208866,North America,NA,NA,48.3375,12.3744,NA,NA,115.141,NA,NA,NA
+INU13-A,EM,Greenland Inuit,F,47,Tundra,Greenland,64.18,-51.69,North America,NA,NA,52.9779,11.601,96.2883,25.9089,80.5987,28.3424,Circumpolar,ESK5-A
+INU13-B,EM,Greenland Inuit,M,43,Tundra,Greenland,77.47,-69.23,North America,NA,NA,53.7513,13.9212,84.3006,21.2685,79.713,36.3137,Circumpolar,ESK5-A
+INU13-B,EM,Greenland Inuit,F,42,Tundra,Greenland,77.47,-69.23,North America,NA,NA,54.5247,11.601,83.1405,15.8547,74.3988,24.7996,Circumpolar,ESK5-A
+CAN2-B,Emily,Inuit,M/F,238,tundra,Canada,56.69043,-93.208866,North America,NA,NA,55.6848,15.468,NA,NA,82.3701,NA,Circumpolar,INU13
+INU8,Emily,Greenland Inuit,M,456,tundra,Greenland,70.041395,-44.057762,North America,NA,NA,58.005,NA,147.7194,NA,86.7986,NA,Circumpolar,ESK5-A
+INU13-A,EM,Greenland Inuit,M,55,Tundra,Greenland,64.18,-51.69,North America,NA,NA,58.3917,11.601,87.0075,22.4286,65.5418,23.0282,Circumpolar,ESK5-A
+INU8,Emily,Greenland Inuit,F,589,tundra,Greenland,70.041395,-44.057762,North America,NA,NA,60.7119,NA,148.8795,NA,90.3414,NA,Circumpolar,ESK5-A
+INU5,Emily,Greenland Inuit,M,376,tundra,Greenland,77.28727,-44.277489,North America,NA,NA,61.872,NA,135.345,NA,79.713,NA,Circumpolar,ESK5-A
+INU9,Emily,Greenland Inuit,M,117,tundra,Greenland,69.199831,-42.080223,North America,NA,NA,61.872,NA,NA,NA,NA,NA,Circumpolar,ESK5-A
+INU6,Emily,Greenland Inuit,M/F,2278,tundra,Greenland,77.010327,-54.768239,North America,NA,NA,64.5789,21.2685,NA,NA,NA,NA,Circumpolar,ESK5-A
+INU5,Emily,Greenland Inuit,F,380,tundra,Greenland,77.28727,-44.277489,North America,NA,NA,65.739,NA,135.345,NA,88.57,NA,Circumpolar,ESK5-A
+INU9,Emily,Greenland Inuit,F,117,tundra,Greenland,69.199831,-42.080223,North America,NA,NA,65.739,NA,NA,NA,NA,NA,Circumpolar,ESK5-A
+INU10,Emily,Greenland Inuit,M/F,234,tundra,Greenland,65.323509,-45.705712,North America,NA,NA,NA,NA,125.2908,NA,NA,NA,Circumpolar,ESK5-A
+INU11,Emily,Greenland Inuit,F,"542, 545",tundra,Greenland,64.972601,-46.408836,North America,NA,NA,NA,NA,150.813,NA,NA,NA,Circumpolar,ESK5-A
+INU11,Emily,Greenland Inuit,M,"542, 545",tundra,Greenland,64.972601,-46.408836,North America,NA,NA,NA,NA,150.813,NA,NA,NA,Circumpolar,ESK5-A
+INU6,Emily,Greenland Inuit,M/F,"2202, 2184",tundra,Greenland,77.010327,-54.768239,North America,NA,NA,NA,NA,141.1455,NA,NA,NA,Circumpolar,ESK5-A
+NA,Benja,Canada: Chinese,Overall,317,Urban,NA,38,NA,North America,182.13,81,46.02,11.6,121.42,30.9,NA,NA,Chinese,NA
+NA,Benja,Canada: Europeans,Overall,326,Urban,NA,38,NA,North America,183.3,81,46.02,11.6,122.58,30.936,NA,NA,EUROPEAN,NA
+NA,Benja,Hispanic,Overall,2407,Urban,NA,38,NA,North America,201.084,38.67,46.404,11.601,123.744,34.803,NA,NA,Hispanic,hs
+NA,Benja,Non Hispanic Black,Overall,681,Urban,NA,38,NA,North America,201.4,39.4,52.3,16.4,126.1,36.2,NA,NA,AFRICAN,NMA
+NA,Benja,Hispanic,Overall,1445,Urban,NA,38,NA,North America,201.8,40.4,43.9,13,129.2,35.7,NA,NA,Hispanic,hs
+NA,Benja,NHANES III,Overall,10843,Urban,NA,38,NA,North America,203.3,44,50.9,15.1,127,38.5,NA,NA,NHANES,NHANES
+NA,Benja,Asian,Overall,3816,Urban,NA,38,NA,North America,204.951,34.803,54.138,15.468,123.744,30.936,NA,NA,Asian,NA
+NA,Benja,Hispanic Health Study,Overall,12730,Urban,NA,38,NA,North America,205.78,45.66,48.73,13.17,128.87,38.13,NA,NA,Hispanic,hhs
+NA,Benja,Non Hispanic White,Overall,545,Urban,NA,38,NA,North America,208.4,39,49.3,14.8,133,35.2,NA,NA,White,NMA
+NA,Benja,Black,Overall,7200,Urban,NA,38,NA,North America,208.818,42.537,54.138,15.468,131.478,38.67,NA,NA,AFRICAN,NAB
+NA,Benja,Canada: South Asians,Overall,342,Urban,NA,38,NA,North America,209.98,81.2,40.22,11.6,127.6,34.8,NA,NA,Asian,NA
+NA,Benja,Framingham study,Overall,60211,Urban,NA,38,NA,North America,220.419,46.404,54.138,15.468,143.079,42.537,NA,NA,Framingham,FR1
+NA,Benja,White,Overall,46788,Urban,NA,38,NA,North America,224.286,46.404,54.138,15.468,146.946,42.537,NA,NA,White,Naw
+NA,Benja,US South Asian,Overall,889,Urban,NA,38,NA,North America,NA,NA,50.1,13.3,111.5,32,NA,NA,Asian,USSA
+PIM2,AYANA,Pima,F,190,Warm-temperate desert,United States of America,33.17797,-111.75484,North America,168,NA,NA,NA,NA,NA,NA,NA,Native_American,PIM1
+AIN4-A,EM,Arizona American Indians,M,546,Warm-temperate desert,United States of America,33.2,-112,North America,176.6,42.5,43.7,14.3,101.8,32,125.2,NA,American_Indian,AIN4-A
+PIM2,AYANA,Pima,M,160,Warm-temperate desert,United States of America,33.17797,-111.75484,North America,181,NA,NA,NA,NA,NA,NA,NA,Native_American,PIM1
+AIN4-A,EM,Arizona American Indians,F,954,Warm-temperate desert,United States of America,33.2,-112,North America,181.2,41.5,45.4,11.3,104.7,32.3,130.3,NA,American_Indian,AIN4-A
+MEX2,EM,Mexican,F,1809,,Mexico,23,-102,North America,177.31,39.4,40.1,12.9,NA,NA,185.9,104.3,Mexican_indegenous_communities,MEX2
+MEX2,EM,Mexican,M,787,,Mexico,23,-102,North America,177.5,39.6,37.9,12.6,NA,NA,196.3,117.8,Mexican_indegenous_communities,MEX2
+INU7,Emily,Nunavik Inuit,M,113,tundra,Canada,61.327679,-74.250422,North America,207.2712,NA,59.5518,1.5468,125.6775,3.867,112.4839,7.0856,Circumpolar,INU7
+INU7,Emily,Nunavik Inuit,F,163,tundra,Canada,61.327679,-74.250422,North America,212.2983,NA,75.7932,1.5468,114.8499,2.7069,108.0554,5.3142,Circumpolar,INU7
+FIN1-B,Claire,Lapps,M,35,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,187,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,190,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,194,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,52,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,198,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,198,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN1-A,Claire,Finns,M,628,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,200,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,29,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,202,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN1-B,Claire,Lapps,M,57,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,203,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,203,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,204,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,207,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,211,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,212,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,520,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,213,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,213,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,213,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,10,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,218,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN1-B,Claire,Lapps,F,52,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,221,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,221,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,221,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,225,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,231,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,16,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,232,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN1-A,Claire,Finns,M,1308,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,57,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,233,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,234,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,234,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,234,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,234,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,846,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,237,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,237,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,41,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,238,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,238,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,240,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,240,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,242,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,243,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,245,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,247,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,845,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,248,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,250,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,254,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,254,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,254,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,25,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,255,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,256,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,M,221,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,257,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,259,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,260,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,261,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,262,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,263,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,263,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,263,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,263,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,M,1523,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,264,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,57,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,268,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,268,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,268,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,269,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,269,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,948,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,270,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,270,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,53,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,271,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,271,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,271,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,271,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,271,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,M,602,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,273,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,273,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,274,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,M,1444,alpine/Tundra,Finland,60.54,26.38,Northern Europe,275,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,275,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,7,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,276,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,276,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,276,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,276,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,276,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,M,1552,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,278,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,278,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,42,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,279,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,279,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,58,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,280,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,280,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,280,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,41,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,281,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,281,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,281,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,281,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,281,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,M,1095,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,M,39,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,M,280,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,M,859,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,282,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,258,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,284,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,284,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,284,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,285,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,286,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,286,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,F,879,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,286,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,286,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,728,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,292,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,292,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,M,975,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,294,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-A,Claire,Finns,F,552,Alpine/Tundra,Finland,61.0514,26.4696,Northern Europe,295,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-D,Claire,Finns,F,1184,alpine/Tundra,Finland,60.54,26.38,Northern Europe,295,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-E,Claire,Finns,M,772,alpine/Tundra,Finland,64.8841,28.9117,Northern Europe,295,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,295,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,43,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,296,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,296,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,296,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,297,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,58,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,298,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-C,Claire,Finns,F,940,alpine/Tundra,Finland,64.5051,28.2071,Northern Europe,299,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,299,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN1-B,Claire,Lapps,F,56,Alpine/Tundra,Finland,68.9062,27.0278,Northern Europe,300,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-A,Claire,Lapps,F,343,Alpine/Tundra,Finland,68.90596,27.02881,Northern Europe,300,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-B
+FIN2-B,Claire,Finns,F,893,alpine/Tundra,Finland,61.026,26.2832,Northern Europe,300,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,303,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,312,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,F,447,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,NA,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-F,Claire,Finns,M,1309,alpine/Tundra,Finland,60.9069,26.6244,Northern Europe,NA,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,F,353,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,NA,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+FIN2-G,Claire,Finns,M,1571,alpine/Tundra,Finland,64.2222,27.7278,Northern Europe,NA,NA,NA,NA,NA,NA,NA,NA,Uralic_Ancestry,FIN1-A
+AUA16,Ashley,Australian Aboriginal,F,144,Savanna,Australia,-31.2532,146.9211,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUA16,Ashley,Australian Aboriginal,M,150,Savanna,Australia,-31.2532,146.9211,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUA8-B,Emily,Australian Aborinigals,F,66,tropical desert,Australia,-23.720061,133.841166,Oceania,174.015,NA,35.5764,NA,116.01,NA,115.141,NA,Australian_Aboriginal,AUA8-A
+AUA8-B,Emily,Australian Aborinigals,F,58,tropical desert,Australia,-23.720061,133.841166,Oceania,185.616,NA,33.2562,NA,119.877,NA,132.855,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,F,76,tropical desert,Australia,-23.720061,133.841166,Oceania,189.483,NA,37.8966,NA,123.744,NA,115.141,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,F,64,tropical desert,Australia,-23.720061,133.841166,Oceania,193.35,NA,36.7365,NA,127.611,NA,123.998,NA,Australian_Aboriginal,AUA8-A
+AUA8-B,Emily,Australian Aborinigals,M,65,tropical desert,Australia,-23.720061,133.841166,Oceania,197.217,NA,30.5493,NA,131.478,NA,168.283,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,M,60,tropical desert,Australia,-23.720061,133.841166,Oceania,201.084,NA,30.5493,NA,131.478,NA,177.14,NA,Australian_Aboriginal,AUA8-A
+AUA8-B,Emily,Australian Aborinigals,F,116,tropical desert,Australia,-23.720061,133.841166,Oceania,201.084,NA,32.0961,NA,123.744,NA,194.854,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,F,108,tropical desert,Australia,-23.720061,133.841166,Oceania,220.419,NA,36.3498,NA,139.212,NA,185.997,NA,Australian_Aboriginal,AUA8-A
+AUA8-B,Emily,Australian Aborinigals,M,79,tropical desert,Australia,-23.720061,133.841166,Oceania,224.286,NA,29.7759,NA,123.744,NA,292.281,NA,Australian_Aboriginal,AUA8-A
+AUA8-B,Emily,Australian Aborinigals,M,40,tropical desert,Australia,-23.720061,133.841166,Oceania,224.286,NA,30.1626,NA,143.079,NA,212.568,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,M,86,tropical desert,Australia,-23.720061,133.841166,Oceania,228.153,NA,32.0961,NA,131.478,NA,256.853,NA,Australian_Aboriginal,AUA8-A
+AUA8-A,Emily,Australian Aborinigals,M,43,tropical desert,Australia,-23.720061,133.841166,Oceania,232.02,NA,34.4163,NA,143.079,NA,221.425,NA,Australian_Aboriginal,AUA8-A
+KTVN5,AYANA,Kitavans,M,39,Tropical Rainforest,Papua New Guinea,-8.509391,151.070426,Oceania,131.478,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+KTVN5,AYANA,Kitavans,F,13,Tropical Rainforest,Papua New Guinea,-8.509391,151.070426,Oceania,135.345,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+KTVN5,AYANA,Kitavans,F,13,Tropical Rainforest,Papua New Guinea,-8.509391,151.070426,Oceania,143.079,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+KTVN5,AYANA,Kitavans,F,13,Tropical Rainforest,Papua New Guinea,-8.509391,151.070426,Oceania,146.946,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+KTVN5,AYANA,Kitavans,M,39,Tropical Rainforest,Papua New Guinea,-8.509391,151.070426,Oceania,150.813,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+CHIM1,FION,Chimbu Natives,F,10,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,93,8,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,M,10,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,107,9,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,M,10,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,109,9,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+SOL1-D,ABIGAIL,Kwaio,M,127,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,114,28.7,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-D
+SOL1-F,ABIGAIL,Baegu,M,126,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,115,26.9,NA,NA,NA,NA,NA,NA,Austronesian,SOL1-F
+SOL1-F,ABIGAIL,Baegu,F,111,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,119,28.5,NA,NA,NA,NA,NA,NA,Austronesian,SOL1-F
+CHIM1,FION,Chimbu Natives,F,10,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,119,13,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,F,7,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,120,12,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,F,5,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,122,21,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,M,13,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,124,12,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+SOL1-D,ABIGAIL,Kwaio,F,114,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,125,31.6,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-D
+WAL1,Emily,Wallisian,M,38,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,127.611,24.7488,NA,NA,NA,NA,53.58485,23.11677,Polynesian_Ancestry,WAL1
+CHIM1,FION,Chimbu Natives,F,20,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,129,8,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+CHIM1,FION,Chimbu Natives,M,22,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,134,7,NA,NA,NA,NA,NA,NA,Ocenian,CHIM1
+SOL1-C,ABIGAIL,Aita,M,81,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,135,29.1,NA,NA,NA,NA,NA,NA,Negrito,SOL1-C
+WABA1,FION,Wabag Natives,M,12,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,137,8,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+WAL1,Emily,Wallisian,F,53,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,137.2785,32.0961,NA,NA,NA,NA,55.88767,30.82236,Polynesian_Ancestry,WAL1
+WABA1,FION,Wabag Natives,M,21,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,141,3,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+SOL1-C,ABIGAIL,Aita,F,88,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,142,30.2,NA,NA,NA,NA,NA,NA,Negrito,SOL1-C
+WABA1,FION,Wabag Natives,M,25,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,143,4,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+WAL1,Emily,Wallisian,M,78,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,143.8524,32.0961,NA,NA,NA,NA,67.04749,43.93072,Polynesian_Ancestry,WAL1
+WABA1,FION,Wabag Natives,M,21,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,144,5,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+WABA1,FION,Wabag Natives,M,6,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,145,8,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+WAL1,Emily,Wallisian,M,56,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,145.3992,30.5493,NA,NA,NA,NA,68.64175,32.15091,Polynesian_Ancestry,WAL1
+PUK1,Phoebe,Pukapuka,M,27,Tropical Rainforest,Polynesia,-10,-165,Oceania,148.9,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+SOL1-E,ABIGAIL,Lau,M,77,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,149,27,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-E
+WAL1,Emily,Wallisian,M,23,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,153.1332,37.8966,NA,NA,NA,NA,73.07025,29.13953,Polynesian_Ancestry,WAL1
+WAL1,Emily,Wallisian,M,35,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,154.2933,36.3498,NA,NA,NA,NA,71.21028,34.89658,Polynesian_Ancestry,WAL1
+SOL1-A,ABIGAIL,Nasioi,M,59,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,155,33.5,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-A
+WABA1,FION,Wabag Natives,F,9,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,155,12,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+PUK1,Phoebe,Pukapuka,M,27,Tropical Rainforest,Polynesia,-10,-165,Oceania,155,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+WAL1,Emily,Wallisian,M,39,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,155.0667,34.4163,NA,NA,NA,NA,78.11874,42.77931,Polynesian_Ancestry,WAL1
+SOL1-E,ABIGAIL,Lau,F,101,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,160,30.7,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-E
+WABA1,FION,Wabag Natives,F,17,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,160,5,NA,NA,NA,NA,NA,NA,Ocenian,WABA1
+WAL1,Emily,Wallisian,F,53,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,160.8672,35.9631,NA,NA,NA,NA,77.58732,29.40524,Polynesian_Ancestry,WAL1
+SOL1-B,ABIGAIL,Nagovisi,M,109,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,161,35.1,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-B
+PUK1,Phoebe,Pukapuka,F,23,Tropical Rainforest,Polynesia,-10,-165,Oceania,161.2,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+SOL1-B,ABIGAIL,Nagovisi,F,101,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,162,35.2,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-B
+PNG7,Emily,Papua New Guinea Highlanders,M,13,tropical rainforest,Papua New Guinea,-6.087172,145.39916,Oceania,162.414,30.936,NA,NA,NA,NA,171.8258,59.3419,Austronesian,PNG7
+WAL1,Emily,Wallisian,F,71,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,162.8007,42.537,NA,NA,NA,NA,77.14447,48.80207,Polynesian_Ancestry,WAL1
+SOL1-A,ABIGAIL,Nasioi,F,63,Tropical Rainforest,Solomon Islands,-9.64571,160.156194,Oceania,165,32.9,NA,NA,NA,NA,NA,NA,Melanesian,SOL1-A
+WAL1,Emily,Wallisian,F,50,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,166.6677,36.3498,NA,NA,NA,NA,76.79019,35.87085,Polynesian_Ancestry,WAL1
+PUK1,Phoebe,Pukapuka,M,39,Tropical Rainforest,Polynesia,-10,-165,Oceania,167.1,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PUK1,Phoebe,Pukapuka,F,32,Tropical Rainforest,Polynesia,-10,-165,Oceania,168.1,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PUK1,Phoebe,Pukapuka,F,17,Tropical Rainforest,Polynesia,-10,-165,Oceania,170.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PUK1,Phoebe,Pukapuka,F,52,Tropical Rainforest,Polynesia,-10,-165,Oceania,170.9,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+WAL1,Emily,Wallisian,F,19,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,171.3081,35.1897,NA,NA,NA,NA,93.35278,43.93072,Polynesian_Ancestry,WAL1
+KTVN6,AYANA,Kitavans,M,43,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,174.015,34.803,46.404,7.734,112.143,30.936,88.57,26.571,Austronesian,KTVN2
+TOK2,Victoria,Tokelau 1968,F,18,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,176.1,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+WAL1,Emily,Wallisian,F,32,tropical rainforest,Wallis and Futuna,-13.278887,-176.202207,Oceania,176.7219,38.67,NA,NA,NA,NA,84.05293,32.50519,Polynesian_Ancestry,WAL1
+PAC3-A,EM,ni-Vanuatu,F,228,Tropical Rainforest,Republic of Vanuatu,-19.5,169.33,Oceania,177.1086,NA,NA,NA,NA,NA,108.9411,NA,Melanesian,PAC3-A
+PUK1,Phoebe,Pukapuka,M,39,Tropical Rainforest,Polynesia,-10,-165,Oceania,178,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PUK1,Phoebe,Pukapuka,M,30,Tropical Rainforest,Polynesia,-10,-165,Oceania,180.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+KTVN6,AYANA,Kitavans,M,37,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,181.749,38.67,38.67,7.734,119.877,34.803,97.427,35.428,Austronesian,KTVN2
+KTVN3,KIKI,Kitavans,M,122,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,181.749,NA,42.537,NA,NA,NA,150.569,NA,Austronesian,KTVN2
+KTVN2,AYANA,Kitavans,M,142,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,181.749,34.803,NA,NA,119.877,34.803,97.427,35.428,Austronesian,KTVN2
+PUK1,Phoebe,Pukapuka,M,37,Tropical Rainforest,Polynesia,-10,-165,Oceania,181.8,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+TOK2,Victoria,Tokelau 1968,M,40,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,184.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+KTVN6,AYANA,Kitavans,M,41,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,185.616,34.803,38.67,7.734,127.611,30.936,106.284,44.285,Austronesian,KTVN2
+PUK1,Phoebe,Pukapuka,F,25,Tropical Rainforest,Polynesia,-10,-165,Oceania,190.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PAC3-A,EM,ni-Vanuatu,M,155,Tropical Rainforest,Republic of Vanuatu,-19.5,169.33,Oceania,190.6431,NA,NA,NA,NA,NA,118.6838,NA,Melanesian,PAC3-A
+PAC3-C,EM,ni-Vanuatu,F,193,Tropical Rainforest,Republic of Vanuatu,-17.73,168.32,Oceania,191.4165,NA,NA,NA,NA,NA,100.9698,NA,Melanesian,PAC3-A
+AUS3,Gisele,New Guinea Natives,M,40,Tropical rainforest,Papua New Guinea,,,Oceania,192.3,44.9,NA,NA,NA,NA,NA,NA,Melanesian,AUS3
+PUK1,Phoebe,Pukapuka,F,31,Tropical Rainforest,Polynesia,-10,-165,Oceania,194.2,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+TOK2,Victoria,Tokelau 1968,M,13,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,195.9,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+KTVN4,FION,Kitavans,M/F,108,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,197.217,46.404,41.3769,5.8005,135.345,42.537,106.284,40.7422,Austronesian,KTVN2
+KTVN6,AYANA,Kitavans,F,11,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,197.217,38.67,54.138,15.468,123.744,34.803,106.284,79.713,Austronesian,KTVN2
+TOK2,Victoria,Tokelau 1968,F,42,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,197.3,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+PAC3-C,EM,ni-Vanuatu,M,438,Tropical Rainforest,Republic of Vanuatu,-17.73,168.32,Oceania,203.4042,NA,NA,NA,NA,NA,126.6551,NA,Melanesian,PAC3-A
+PAC3-B,EM,ni-Vanuatu,F,195,Tropical Rainforest,Republic of Vanuatu,-17.43,168.33,Oceania,204.951,NA,NA,NA,NA,NA,102.7412,NA,Melanesian,PAC3-A
+TOK2,Victoria,Tokelau 1968,M,35,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,209.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+PAC3-B,EM,ni-Vanuatu,M,154,Tropical Rainforest,Republic of Vanuatu,-17.43,168.33,Oceania,210.3648,NA,NA,NA,NA,NA,102.7412,NA,Melanesian,PAC3-A
+TOK7-A,EM,Tokelau,M,433,Tropical Rainforest,New Zealand,-9.38,-171.22,Oceania,212.2983,35.5764,NA,NA,NA,NA,92.9985,64.6561,Polynesian_Ancestry,TOK7-A
+KTVN6,AYANA,Kitavans,F,16,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,212.685,42.537,46.404,7.734,146.946,38.67,115.141,53.142,Austronesian,KTVN2
+TOK2,Victoria,Tokelau 1968,F,44,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,213.8,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK2,Victoria,Tokelau 1968,M,48,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,215.7,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK7-A,EM,Tokelau,F,374,Tropical Rainforest,New Zealand,-9.38,-171.22,Oceania,216.552,39.0567,NA,NA,NA,NA,74.3988,51.3706,Polynesian_Ancestry,TOK7-A
+TOK2,Victoria,Tokelau 1968,M,24,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,217.1,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK7-B,EM,Tokelau,M,34,Tropical Rainforest,New Zealand,-9.38,-171.22,Oceania,218.4855,34.0296,NA,NA,NA,NA,111.5982,53.142,Polynesian_Ancestry,TOK7-A
+TOK2,Victoria,Tokelau 1968,M,46,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,220.2,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK2,Victoria,Tokelau 1968,F,50,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,220.6,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK2,Victoria,Tokelau 1968,F,53,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,222.5,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK7-B,EM,Tokelau,F,50,Tropical Rainforest,New Zealand,-9.38,-171.22,Oceania,223.1259,34.803,NA,NA,NA,NA,98.3127,55.7991,Polynesian_Ancestry,TOK7-A
+KTVN3,KIKI,Kitavans,F,47,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,224.286,NA,46.404,NA,NA,NA,115.141,NA,Austronesian,KTVN2
+KTVN2,AYANA,Kitavans,F,61,Tropical Rainforest,Papua New Guinea,-6.314993,143.95555,Oceania,224.286,46.404,NA,NA,150.813,46.404,106.284,44.285,Austronesian,KTVN2
+TOK2,Victoria,Tokelau 1968,F,38,Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,245.4,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+KTVN6,AYANA,Kitavans,F,18,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,247.488,46.404,46.404,11.601,177.882,46.404,115.141,44.285,Austronesian,KTVN2
+KTVN6,AYANA,Kitavans,M,116,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+KTVN6,AYANA,Kitavans,F,42,Tropical Rainforest,Papua New Guinea,-7.200109,:144.735595,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Austronesian,KTVN2
+PUK1,Phoebe,Pukapuka,F,"2, 6, 4",Tropical Rainforest,Polynesia,-10,-165,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+PUK1,Phoebe,Pukapuka,M,"6, 1, 8, 7",Tropical Rainforest,Polynesia,-10,-165,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,PUK1
+TOK2,Victoria,Tokelau 1968,F,"40, 19, 44, 51, 50, 34",Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+TOK2,Victoria,Tokelau 1968,M,"38, 12, 33, 47, 43, 24",Tropical Rainforest,Polynesia,-9.2002,-171.8484,Oceania,NA,NA,NA,NA,NA,NA,NA,NA,Polynesian_Ancestry,TOK2
+AUS4-A,Gisele,Australians,M/F,99,Tropical savanna,Australia,-12.4637,130.8444,Oceania,193.35,NA,37.1232,NA,NA,NA,212.568,NA,Australians,AUS4-A
+AUS4-B,Gisele,Australians,M/F,36,Tropical savanna,Australia,-12.4637,130.8444,Oceania,204.951,NA,36.3498,NA,NA,NA,212.568,NA,Australians,AUS4-A
+AUS2-A,Claire,New Guinea Laborers,M/F,40,,Australia,-25.2744,133.7751,Oceania,167.4,35.7,NA,NA,NA,NA,NA,NA,Australians,AUS2-A
+SAM3-A,Phoebe,Samoans,M,123,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,NA,NA,41.3769,11.601,NA,NA,118.6838,123.998,NA,NA
+SAM3-A,Phoebe,Samoans,F,114,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,NA,NA,42.537,7.734,NA,NA,99.1984,44.285,NA,NA
+SAM3-B,Phoebe,Samoans,M,90,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,NA,NA,49.4976,11.601,NA,NA,73.5131,26.571,NA,NA
+SAM3-B,Phoebe,Samoans,F,109,Tropical Rainforest,Samoa,-13.759,-172.1046,Pacific,NA,NA,50.271,11.601,NA,NA,85.0272,35.428,NA,NA
+MEL1-B,Phoebe,Melanesian,M,33,tropical and subtropical moist broadleaf forests,Vanuatu,-16.302,167.5161,Pacific Ocean,138.0519,49.8843,NA,NA,NA,NA,0.6,0.18,Melanesian,MEL1-A
+MEL1-A,Phoebe,Melanesian,M,86,tropical and subtropical moist broadleaf forests,Vanuatu,-17.6577,168.4297,Pacific Ocean,140.7588,33.2562,NA,NA,NA,NA,0.63,0.19,Melanesian,MEL1-A
+MEL1-B,Phoebe,Melanesian,F,49,tropical and subtropical moist broadleaf forests,Vanuatu,-16.302,167.5161,Pacific Ocean,146.1726,42.1503,NA,NA,NA,NA,0.6,0.38,Melanesian,MEL1-A
+MEL1-A,Phoebe,Melanesian,F,23,tropical and subtropical moist broadleaf forests,Vanuatu,-17.6577,168.4297,Pacific Ocean,153.1332,34.0296,NA,NA,NA,NA,0.61,0.25,Melanesian,MEL1-A
+CHU1,Victoria,Chukchi,M,,Tundra,,66-66.5,177-179.6,Russian Far East,175,NA,53,NA,116,NA,78,NA,Chinese,CHU1
+CHU1,Victoria,Chukchi,M,,Tundra,,66-66.5,177-179.6,Russian Far East,189,NA,53,NA,130,NA,78,NA,Chinese,CHU1
+CHU1,Victoria,Chukchi,M,,Tundra,,66-66.5,177-179.6,Russian Far East,191,NA,54,NA,130,NA,84,NA,Chinese,CHU1
+CHU1,Victoria,Chukchi,M,,Tundra,,66-66.5,177-179.6,Russian Far East,197,NA,58,NA,133,NA,88,NA,Chinese,CHU1
+SOM1,Victoria,Somali,F,142,Taiga,Finland,61.9241,25.7482,Scandinavia,185.616,NA,50.271,NA,NA,NA,NA,NA,SA_Indegenous,SOM1
+KUR1,Victoria,Kurdish,F,163,Taiga,Finland,61.9241,25.7482,Scandinavia,189.483,NA,50.271,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,KUR1
+SOM1,Victoria,Somali,M,80,Taiga,Finland,61.9241,25.7482,Scandinavia,193.35,NA,46.404,NA,NA,NA,NA,NA,SA_Indegenous,SOM1
+KUR1,Victoria,Kurdish,M,176,Taiga,Finland,61.9241,25.7482,Scandinavia,197.217,NA,42.537,NA,NA,NA,NA,NA,Middle_Eastern_Ancestry,KUR1
+RUS1,Victoria,Russian,M,111,Taiga,Finland,61.9241,25.7482,Scandinavia,204.951,NA,50.271,NA,NA,NA,NA,NA,Russian,RUS1
+RUS1,Victoria,Russian,F,217,Taiga,Finland,61.9241,25.7482,Scandinavia,204.951,NA,61.872,NA,NA,NA,NA,NA,Russian,RUS1
+KUR1,Victoria,Kurdish,F,156,Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,116.01,NA,115.141,NA,Middle_Eastern_Ancestry,KUR1
+KUR1,Victoria,Kurdish,M,"165, 166",Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,123.744,NA,NA,NA,Middle_Eastern_Ancestry,KUR1
+RUS1,Victoria,Russian,F,207,Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,123.744,NA,88.57,NA,Russian,RUS1
+RUS1,Victoria,Russian,M,109,Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,127.611,NA,123.998,NA,Russian,RUS1
+SOM1,Victoria,Somali,F,138,Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,116.01,NA,88.57,NA,SA_Indegenous,SOM1
+SOM1,Victoria,Somali,M,78,Taiga,Finland,61.9241,25.7482,Scandinavia,NA,NA,NA,NA,127.611,NA,106.284,NA,SA_Indegenous,SOM1
+BUR2,Victoria,Buryat,M,,Taiga,,52,107,Siberia,126,NA,37,NA,71,NA,93,NA,Mongolic,BUR2
+EVE1,Victoria,Evenki,M,,Taiga,,61.403698,96.224501,Siberia,134,NA,46,NA,74,NA,81,NA,Siberian,EVE1
+BUR2,Victoria,Buryat,M,,Taiga,,52,107,Siberia,135,NA,45,NA,79,NA,54,NA,Mongolic,BUR2
+YAK2,Victoria,Yakut,M,,Taiga,,65,125,Siberia,139,NA,43,NA,82,NA,70,NA,Siberian,ESK8
+BUR2,Victoria,Buryat,M,,Taiga,,52,107,Siberia,143,NA,36,NA,88,NA,94,NA,Mongolic,BUR2
+EVE1,Victoria,Evenki,M,,Taiga,,61.403698,96.224501,Siberia,146,NA,41,NA,90,NA,95,NA,Siberian,EVE1
+EVE1,Victoria,Evenki,M,,Taiga,,61.403698,96.224501,Siberia,147,NA,46,NA,84,NA,86,NA,Siberian,EVE1
+EVE1,Victoria,Evenki,M,,Taiga,,61.403698,96.224501,Siberia,150,NA,34,NA,107,NA,63,NA,Siberian,EVE1
+EVE1,Victoria,Evenki,M,,Taiga,,61.403698,96.224501,Siberia,155,NA,45,NA,96,NA,86,NA,Siberian,EVE1
+BUR2,Victoria,Buryat,M,,Taiga,,52,107,Siberia,169,NA,40,NA,104,NA,123,NA,Mongolic,BUR2
+YAK2,Victoria,Yakut,M,,Taiga,,65,125,Siberia,169,NA,43,NA,111,NA,75,NA,Siberian,ESK8
+YAK2,Victoria,Yakut,M,,Taiga,,65,125,Siberia,178,NA,42,NA,118,NA,88,NA,Siberian,ESK8
+YAK2,Victoria,Yakut,M,,Taiga,,65,125,Siberia,189,NA,49,NA,122,NA,98,NA,Siberian,ESK8
+YAK2,Victoria,Yakut,M,,Taiga,,65,125,Siberia,192,NA,42,NA,129,NA,110,NA,Siberian,ESK8
+NGA1,Victoria,Nganasan,M,,Tundra,,72-73.83,90,Siberia,112,NA,33,NA,69,NA,53,NA,Siberian,NGA1
+NGA1,Victoria,Nganasan,M,,Tundra,,72-73.83,90,Siberia,135,NA,33,NA,91,NA,58,NA,Siberian,NGA1
+NGA1,Victoria,Nganasan,M,,Tundra,,72-73.83,90,Siberia,159,NA,33,NA,107,NA,98,NA,Siberian,NGA1
+NGA1,Victoria,Nganasan,M,,Tundra,,72-73.83,90,Siberia,159,NA,37,NA,112,NA,49,NA,Siberian,NGA1
+MAP1-B,Claire,Urban Mapuche,F,79,Temperate shrubland/forest,Chile,,,Sourth America,NA,NA,34.4163,18.9483,138.4386,61.4853,119.5695,62.8847,NA,NA
+MAP1-B,Claire,Urban Mapuche,M,45,Temperate shrubland/forest,Chile,,,Sourth America,NA,NA,35.1897,14.3079,117.9435,46.0173,120.4552,59.3419,NA,NA
+NA,Benja,Tsimane,Overall,356,Forest,NA,-13,NA,South America,138,29.2,36.8,8.9,70.6,21.9,NA,NA,Amerindian,TSI1
+NA,Benja,Shuar Rural Men,Men,35,Forest,NA,-0.5,NA,South America,150.7,34.9,38.2,9.4,90.1,25.3,NA,NA,SA_Indegenous,SHR1
+NA,Benja,Shuar Rural Women,Women,53,Forest,NA,-0.5,NA,South America,154.7,36.7,42.9,14.4,88.6,26.3,NA,NA,SA_Indegenous,SHR1
+XAV6,EM,Xavante,M,455,Grassland,Brazil,-15.62,-56.16,South America,146,43,37.1,7.5,70.8,26,202.1,161.7,SA_Indegenous,XAV6
+XAV6,EM,Xavante,F,470,Grassland,Brazil,-15.62,-56.16,South America,146.8,43.2,40.6,8.2,70,23.3,196.4,180,SA_Indegenous,XAV6
+XAV7,Gisele,Xavante,M,457,Grassland,Brazil,-15.62,-56.16,South America,NA,NA,37.1,7.5,NA,NA,201.8,161.6,SA_Indegenous,XAV6
+XAV7,Gisele,Xavante,F,475,Grassland,Brazil,-15.62,-56.16,South America,NA,NA,40.7,8.2,NA,NA,196.3,179.4,SA_Indegenous,XAV6
+NA,Benja,LAC Pooled meta-analysis,Overall,168553,NA,NA,NA,NA,South America,193,NA,47,NA,120,NA,NA,NA,mixed,LAC
+KAR1-D,AYANA,Nahukwa,M,13,Savanna,Brazil,-27.74835,-53.06846,South America,162,26,33,3,100,25,144,85,SA_Indegenous,KAR1-D
+KAR1-B,AYANA,Kuikuro,M,54,Savanna,Brazil,-27.74835,-53.06846,South America,162,30,41,11,94,26,135,49,Amerindian,KAR1-B
+KAR1-B,AYANA,Kuikuro,F,62,Savanna,Brazil,-27.74835,-53.06846,South America,173,40,44,15,102,30,134,62,Amerindian,KAR1-B
+KAR1-D,AYANA,Nahukwa,F,14,Savanna,Brazil,-27.74835,-53.06846,South America,175,42,46,10,108,31,105,40,SA_Indegenous,KAR1-D
+KAR1-A,AYANA,Kalapalo,M,53,Savanna,Brazil,-27.74835,-53.06846,South America,181,23,40,7,118,23,115,41,Amerindian,KAR1-A
+KAR1-C,AYANA,Matipu,F,8,Savanna,Brazil,-27.74835,-53.06846,South America,183,26,40,7,120,26,114,32,SA_Indegenous,KAR1-C
+KAR1-C,AYANA,Matipu,M,5,Savanna,Brazil,-27.74835,-53.06846,South America,189,14,39,6,131,16,97,37,SA_Indegenous,KAR1-C
+KAR1-A,AYANA,Kalapalo,F,42,Savanna,Brazil,-27.74835,-53.06846,South America,199,40,46,10,131,32,113,44,Amerindian,KAR1-A
+KOY1,EM,Koya,M,147,Temperate Grassland,Argentina,-24.23,-66.32,South America,153.16,23.39,38.54,9.13,89.49,22,114,NA,Indian,KOY1
+KOY1,EM,Koya,F,183,Temperate Grassland,Argentina,-24.23,-66.32,South America,159.91,24.92,40.14,9.06,93.42,21.49,119,NA,Indian,KOY1
+CHIL2-B,Emily,Atacameños,M/F,100,temperate rainfoest,Chile,", -22.685656",", -69.271322",South America,166.8,35.7,44.3,14.9,NA,NA,227.7,107.7,SA_Indegenous,CHIL2-B
+CHIL2-A,Emily,Pehuenche,M/F,90,temperate rainforest,Chile,", -38.515674",", -71.226637",South America,158.7,37.7,43.9,11.1,NA,NA,216,116.6,SA_Indegenous,CHIL2-A
+MAP1-D,Claire,Urban Chile w/ European Descents,F,92,temperate shrubland/forest,Chile,,,South America,NA,NA,34.0296,12.7611,132.2514,49.8843,104.5126,65.5418,NA,NA
+MAP1-C,Claire,Rural Chile w/ European Descent,F,55,Temperate shrubland/forest,Chile,,,South America,NA,NA,35.5764,13.9212,126.0642,55.6848,103.6269,43.3993,NA,NA
+MAP1-D,Claire,Urban Chile w/ European Descents,M,42,temperate shrubland/forest,Chile,,,South America,NA,NA,35.9631,16.2414,121.8105,51.4311,119.5695,69.0846,NA,NA
+MAP1-C,Claire,Rural Chile w/ European Descent,M,36,Temperate shrubland/forest,Chile,,,South America,NA,NA,39.0567,17.7882,122.9706,54.5247,112.4839,55.7991,NA,NA
+MAP1-A,Claire,Rural Mapuche,F,69,Temperate shrubland/forest,Chile,,,South America,NA,NA,40.2168,13.9212,118.7169,44.8572,85.9129,NA,NA,NA
+MAP1-A,Claire,Rural Mapuche,M,54,Temperate shrubland/forest,Chile,,,South America,NA,NA,44.0838,17.4015,106.7292,36.7365,104.5126,45.1707,NA,NA
+YAN2,CB,Yanomamo,M,41,Tropical Rainforest,Brazil,2.68,-63.627,South America,121.9,31.5,NA,NA,NA,NA,36.8,NA,SA_Indegenous,YAN2
+AMO1,AYANA,Amondava,M/F,30,Tropical Rainforest,Brazil,-8.76194,-63.9038887,South America,129,13.7,NA,NA,NA,NA,NA,NA,SA_Indegenous,AMO1
+BAN3,AYANA,Bantu,M/F,30,Tropical Rainforest,Brazil,-11,-63.9038887,South America,129,24.1,NA,NA,NA,NA,NA,NA,Bantu,BAN3
+TSI2,AYANA,Tsimane,M/F,65,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,134,NA,35,2,72,3,121,8,Amerindian,TSI1
+TSI2,AYANA,Tsimane,M/F,65,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,136,NA,37,1,76,3,116,15,Amerindian,TSI1
+TSI7,Gisele,Tsimane,M/F,418,Tropical rainforest,Bolviia,-14.8585,-66.747,South America,138,29.2,36.8,8.9,70.6,21.9,NA,NA,Amerindian,TSI1
+TSI1,AYANA,Tsimane,M/F,48,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,139.212,27.069,38.67,7.734,81.207,27.069,97.427,35.428,Amerindian,TSI1
+YAN2,CB,Yanomamo,F,21,Tropical Rainforest,Brazil,2.68,-63.627,South America,142.5,29.5,NA,NA,NA,NA,35.1,NA,SA_Indegenous,YAN2
+TSI2,AYANA,Tsimane,M/F,65,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,144,NA,37,1,NA,NA,NA,NA,Amerindian,TSI1
+BRA2-B,Emily,Guarani,M/F,60,tropical rainforest,Brazil,-19.753768,-40.490962,South America,147,43,41,10,83,35,119,79,SA_Indegenous,BRA2-B
+SHA1-B,AYANA,Shaur,M,35,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,150.7,34.9,38.2,9.4,NA,NA,142.5,103.7,SA_Indegenous,SHA1-A
+TSI1,AYANA,Tsimane,M/F,422,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,150.813,NA,38.67,7.734,NA,27.069,NA,44.285,Amerindian,TSI1
+TSI1,AYANA,Tsimane,M/F,235,Tropical Rainforest,Bolivia,-16.975591,-65.421113,South America,154.68,NA,38.67,7.734,NA,NA,NA,NA,Amerindian,TSI1
+SHA1-B,AYANA,Shaur,F,53,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,154.7,36.7,42.9,14.4,NA,NA,118.8,71.5,SA_Indegenous,SHA1-A
+PAR1,VEDHIKA,Parkatêjê Indians,M,56,Tropical Rainforest,Brazil,14.235,51.9253,South America,159.6,38.3,38.3,8.1,89.7,33.4,158,79.5,SA_Indegenous,PAR1
+PAR1,VEDHIKA,Parkatêjê Indians,F,34,Tropical Rainforest,Brazil,14.235,51.9253,South America,165.7,28.7,41.5,7,92.8,25.7,157.4,83.1,SA_Indegenous,PAR1
+BRA2-A,Emily,Tupinikin,M/F,496,tropical rainforest,Brazil,-19.753768,-40.490962,South America,166,43,50,15,95,37,108,80,SA_Indegenous,BRA2-A
+SHA1-A,AYANA,Shaur,M,85,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,167,35.6,52.1,14,NA,NA,139.3,81,SA_Indegenous,SHA1-A
+SHU1-A,AYANA,Shuar,F,26,Tropical Rainforest,Ecuador,-0.21495,-78.5132,South America,174.015,NA,NA,NA,NA,NA,150.569,53.142,SA_Indegenous,SHU1-A
+SHU1-B,AYANA,Shuar,F,33,Tropical Rainforest,Ecuador,-0.21495,-78.5132,South America,174.015,NA,NA,NA,NA,NA,203.711,88.57,SA_Indegenous,SHU1-A
+SHA1-A,AYANA,Shaur,F,142,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,186.4,44,57.1,14.1,NA,NA,118.4,63.4,SA_Indegenous,SHA1-A
+TRN1,Gisele,Trinidadians,M,1234,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,223.8993,48.7242,NA,NA,NA,NA,NA,NA,Trinidadians,TRN1
+TRN1,Gisele,Trinidadians,F,972,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,235.1136,57.6183,NA,NA,NA,NA,NA,NA,Trinidadians,TRN1
+YAN2,CB,Yanomamo,M,34,Tropical Rainforest,Brazil,2.68,-63.627,South America,NA,NA,33.9,7,68.1,24.5,NA,NA,SA_Indegenous,YAN2
+BRA7,Ashley,Brazilian,M,11,Tropical rainforest,Northeast Brazil,-10.0626,-42.551,South America,NA,NA,35.6,11.3,92.2,NA,363.4,NA,NA,NA
+TRN1,Gisele,Trinidadians,M,1228,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,NA,NA,37.8966,16.6281,NA,NA,NA,NA,Trinidadians,TRN1
+PAR2,Ashley,Parkatêjê Indians,M,56,Tropical rainforest,Brazil,-14.235,-51.9253,South America,NA,NA,38.3,8.1,89.7,33.4,158,79.5,SA_Indegenous,PAR1
+YAN2,CB,Yanomamo,F,14,Tropical Rainforest,Brazil,2.68,-63.627,South America,NA,NA,39.6,10.5,78.2,NA,NA,NA,SA_Indegenous,YAN2
+PAR2,Ashley,Parkatêjê Indians,F,34,Tropical rainforest,Brazil,-14.235,-51.9253,South America,NA,NA,41.5,7,92.8,25.7,157.4,83.1,SA_Indegenous,PAR1
+TRN1,Gisele,Trinidadians,F,959,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,NA,NA,49.1109,18.5616,NA,NA,NA,NA,Trinidadians,TRN1
+BRA7,Ashley,Brazilian,F,44,Tropical rainforest,Northeast Brazil,-10.0626,-42.551,South America,NA,NA,50.8,12.6,123.9,NA,217.8,NA,NA,NA
+SHA1-A,AYANA,Shaur,M,73,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,NA,NA,NA,NA,85.2,24.4,NA,NA,SA_Indegenous,SHA1-A
+SHA1-A,AYANA,Shaur,F,125,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,NA,NA,NA,NA,106.8,31.3,NA,NA,SA_Indegenous,SHA1-A
+SHA1-B,AYANA,Shaur,M,24,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,NA,NA,NA,NA,90.1,25.3,NA,NA,SA_Indegenous,SHA1-A
+SHA1-B,AYANA,Shaur,F,43,Tropical Rainforest,Ecuador,-2.51806,-77.82306,South America,NA,NA,NA,NA,88.6,26.3,NA,NA,SA_Indegenous,SHA1-A
+TRN1,Gisele,Trinidadians,F,693,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,NA,NA,NA,NA,163.9608,44.0838,NA,NA,Trinidadians,TRN1
+TRN1,Gisele,Trinidadians,M,1216,Tropical rainforest,Trinidad and Tobago,10.7713,-61.2452,South America,NA,NA,NA,NA,161.6406,41.7636,NA,NA,Trinidadians,TRN1
+NA,Benja,Mexico 2016,Overall,586,Urban,NA,23,NA,South America,159.8,31.9,43.9,12.2,91.9,25.4,NA,NA,Hispanic,MEX2
+NA,Benja,Shuar Urban Men,Men,85,Urban,NA,-0.8,NA,South America,167,35.6,52.1,14,85.2,24.4,NA,NA,SA_Indegenous,SHR1
+NA,Benja,Brazil_NHS_Male,Men,3551,Urban,NA,-4,NA,South America,181.7,3.6,43,1.1,102.9,3.6,NA,NA,Mixed,nhsa
+NA,Benja,Brazil_NHS,Overall,8534,Urban,NA,-4,NA,South America,185,2.2,46.5,0.8,104.5,1.7,NA,NA,mixed,nhs
+NA,Benja,Mexico 2001,Overall,2256,Urban,NA,23,NA,South America,185.6,NA,38.67,NA,118.33,NA,NA,NA,Hispanic,MEX1
+NA,Benja,Shuar Urban Women,Women,142,Urban,NA,-0.8,NA,South America,186.4,44,57.1,14.1,106.8,31.3,NA,NA,SA_Indegenous,SHR1
+NA,Benja,Brazil_NHS_Female,Women,4983,Urban,NA,-4,NA,South America,198.7,2.7,49.6,1,106.3,2.2,NA,NA,mixed,nhsa
+NA,Benja,Chile,Men,770,Urban,NA,-9,NA,South America,200,41,46,12,120,34,NA,NA,mixed,NA
+NA,Benja,Colombia,Overall,6628,Urban,NA,3,NA,South America,201.1,45.7,41.9,11.7,118.9,34.7,NA,NA,mixed,COL
+NA,Benja,Chile,Overall,1624,Urban,NA,-9,NA,South America,202,42,50,13,121,34,NA,NA,mixed,NA
+NA,Benja,Chile,Women,854,Urban,NA,-9,NA,South America,203,43,53,13,122,33,NA,NA,mixed,NA
+PER1-A,EM,Peruvian,M/F,201,,Peru,-12.57,-74.22,South America,155.7,33.3,44.1,13.1,85.6,27.1,113,NA,Peruvian,PER1-A
+PER1-B,EM,Peruvian,M/F,589,,Peru,-12.15,-76.97,South America,190.8,39.5,44,11.2,115.9,33,133,NA,Peruvian,PER1-A
+PER1-C,EM,Peruvian,M/F,199,,Peru,-12.15,-76.97,South America,194.9,40,44.4,11,119.8,34.2,135,NA,Peruvian,PER1-A
+AMER3-A,Emily,Peruvian Amerindian (1999),F,73,,Peru,,,South America,NA,NA,39.59808,8.8941,NA,NA,129.3122,70.856,NA,NA
+GAM1-B,Phoebe,Gambian,M,1200,Savanna,Gambia,13.4432,-15.3101,West Africa,139.212,34.803,NA,NA,NA,NA,NA,32.7709,West_African,GAM1
+GAM1-B,Phoebe,Gambian,F,2023,Savanna,Gambia,13.4432,-15.3101,West Africa,150.813,34.803,NA,NA,NA,NA,NA,32.7709,West_African,GAM1
+GAM1-A,Phoebe,Gambian,M,1028,Savanna,Gambia,13.4432,-15.3101,West Africa,158.547,42.537,NA,NA,NA,NA,NA,34.5423,West_African,GAM1
+GAM1-A,Phoebe,Gambian,F,1138,Savanna,Gambia,13.4432,-15.3101,West Africa,177.882,46.404,NA,NA,NA,NA,NA,38.9708,West_African,GAM1
+FUL3,Ashley,Fulani,M,122,Savanna,Nigeria,12.0022,8.592,West Africa,NA,NA,52.2045,10.0542,61.872,30.936,103.6269,38.0851,West_African,FUL1
+FUL3,Ashley,Fulani,F,92,Savanna,Nigeria,12.0022,8.592,West Africa,NA,NA,53.7513,11.601,73.473,27.069,104.5126,39.8565,West_African,FUL1
+GHA6,Ashley,Ghanaians,F,10,tropical,Ghana,6.74,-1.52,West Africa,NA,NA,54.138,7.734,131.478,30.936,79.713,26.571,NA,NA
+GHA6,Ashley,Ghanaians,M,150,tropical,Ghana,6.74,-1.52,West Africa,NA,NA,54.138,15.468,112.143,38.67,97.427,61.999,NA,NA
+GHA3,Phoebe,Ghanaians,F,589,tropical,Ghana,6.74,-1.52,West Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GHA3,Phoebe,Ghanaians,M,355,tropical,Ghana,6.74,-1.52,West Africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
